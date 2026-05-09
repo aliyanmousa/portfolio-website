@@ -1,310 +1,143 @@
-/* ===== BASE ===== */
+/* ── Design Tokens ── */
+:root {
+  --portfolio-bg: #f8f9fb;
+  --portfolio-text-primary: #000000;
+  --portfolio-text-secondary: #333333;
+  --portfolio-text-muted: #555555;
+  --portfolio-accent: #0056b3; /* Professional Blue */
+  --portfolio-line: #dee2e6;
+  --portfolio-soft: #ffffff;
+}
 
 body {
-  font-family: "Inter", sans-serif;
-  background-color: #f8f9fb;
-  color: #1a1a1a;
-  line-height: 1.7;
+  background-color: var(--portfolio-bg);
+  color: var(--portfolio-text-secondary);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
 }
 
-/* ===== MAIN CONTENT ONLY ===== */
-
-.content {
-  max-width: 1100px;
-  margin: auto;
-  padding-top: 3rem;
-  padding-bottom: 4rem;
+/* ── Headings ── */
+h1, h2, h3, h4 {
+  color: var(--portfolio-text-primary);
+  font-weight: 700;
 }
 
-/* ===== HEADINGS ===== */
+/* ── About Page Styling (Trestles Template) ── */
+.quarto-about-trestles {
+  margin-top: 2rem;
+}
 
-.content h1 {
-  font-size: 2.8rem;
-  font-weight: 800;
+.quarto-about-trestles .about-entity {
+  text-align: center;
+  padding-right: 2rem;
+  border-right: 1px solid var(--portfolio-line);
+}
+
+.quarto-about-trestles .about-entity .about-image {
+  margin: 0 auto 1.5rem;
+  border: 4px solid white;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.quarto-about-trestles .about-entity h1 {
+  font-size: 2.2rem;
   margin-bottom: 1rem;
 }
 
-.content h2 {
-  font-size: 1.8rem;
-  font-weight: 700;
-  margin-top: 2.5rem;
-}
-
-.content h3 {
-  font-size: 1.3rem;
-  font-weight: 600;
-}
-
-/* ===== TEXT ===== */
-
-.content p {
-  color: #444;
-  font-size: 1.05rem;
-}
-
-/* ===== LINKS ===== */
-
-.content a {
-  text-decoration: none;
-  transition: 0.2s ease;
-}
-
-.content a:hover {
-  color: black;
-}
-
-/* ========================================= */
-/* ===== RECTANGLE SECTIONS (CONTENT ONLY) ===== */
-/* ========================================= */
-
-/* Apply ONLY when you explicitly use .card-section */
-
-.content .card-section {
-  background: #ffffff;
-  padding: 2rem;
-  margin: 2rem 0;
-
-  border-radius: 14px;
-  border: 1px solid #e9ecef;
-
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
-
-  transition: all 0.25s ease;
-}
-
-.content .card-section:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
-}
-
-/* ===== HERO SECTION (OPTIONAL) ===== */
-
-.content .hero-section {
-  text-align: center;
-  padding: 3rem 2rem;
-
-  background: #ffffff;
-  border-radius: 18px;
-  border: 1px solid #ececec;
-
-  box-shadow: 0 10px 28px rgba(0,0,0,0.05);
-}
-
-/* ===== BUTTONS (CONTENT ONLY) ===== */
-
-.content .btn,
-.content button {
-  border-radius: 10px;
-  padding: 0.6rem 1.2rem;
-  font-weight: 600;
-
-  background-color: #111;
-  color: white;
-
-  border: none;
-  transition: 0.25s ease;
-}
-
-.content .btn:hover {
-  background-color: #333;
-  transform: translateY(-2px);
-}
-
-/* ===== TABLES ===== */
-
-.content table {
-  border-radius: 12px;
-  overflow: hidden;
-  border: 1px solid #eaeaea;
-}
-
-/* ===== CODE ===== */
-
-.content pre {
-  border-radius: 12px;
-  border: 1px solid #ececec;
-  padding: 1rem;
-}
-
-/* ===== IMAGES ===== */
-
-.content img {
-  border-radius: 12px;
-}
-
-/* ===== MOBILE ===== */
-
-@media (max-width: 991px) {
-  .content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  .content h1 {
-    font-size: 2.2rem;
-  }
-}/* ===== BASE ===== */
-
-body {
-  font-family: "Inter", sans-serif;
-  background-color: #f8f9fb;
-  color: #1a1a1a;
-  line-height: 1.7;
-}
-
-/* ===== MAIN CONTENT ONLY ===== */
-
-.content {
-  max-width: 1100px;
-  margin: auto;
-  padding-top: 3rem;
-  padding-bottom: 4rem;
-}
-
-/* ===== HEADINGS ===== */
-
-.content h1 {
-  font-size: 2.8rem;
-  font-weight: 800;
-  margin-bottom: 1rem;
-}
-
-.content h2 {
-  font-size: 1.8rem;
-  font-weight: 700;
-  margin-top: 2.5rem;
-}
-
-.content h3 {
-  font-size: 1.3rem;
-  font-weight: 600;
-}
-
-/* ===== TEXT ===== */
-
-.content p {
-  color: #444;
-  font-size: 1.05rem;
-}
-
-/* ===== LINKS ===== */
-
-.content a {
-  text-decoration: none;
-  transition: 0.2s ease;
-}
-
-.content a:hover {
-  color: black;
-}
-
-/* ========================================= */
-/* ===== RECTANGLE SECTIONS (CONTENT ONLY) ===== */
-/* ========================================= */
-
-/* Apply ONLY when you explicitly use .card-section */
-
-.content .card-section {
-  background: #ffffff;
-  padding: 2rem;
-  margin: 2rem 0;
-
-  border-radius: 14px;
-  border: 1px solid #e9ecef;
-
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
-
-  transition: all 0.25s ease;
-}
-
-.content .card-section:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
-}
-
-/* ===== HERO SECTION (OPTIONAL) ===== */
-
-.content .hero-section {
-  text-align: center;
-  padding: 3rem 2rem;
-
-  background: #ffffff;
-  border-radius: 18px;
-  border: 1px solid #ececec;
-
-  box-shadow: 0 10px 28px rgba(0,0,0,0.05);
-}
-
-/* ===== BUTTONS (CONTENT ONLY) ===== */
-
-.content .btn,
-.content button {
-  border-radius: 10px;
-  padding: 0.6rem 1.2rem;
-  font-weight: 600;
-
-  background-color: #111;
-  color: white;
-
-  border: none;
-  transition: 0.25s ease;
-}
-
-.content .btn:hover {
-  background-color: #333;
-  transform: translateY(-2px);
-}
-
-/* ===== TABLES ===== */
-
-.content table {
-  border-radius: 12px;
-  overflow: hidden;
-  border: 1px solid #eaeaea;
-}
-
-/* ===== CODE ===== */
-
-.content pre {
-  border-radius: 12px;
-  border: 1px solid #ececec;
-  padding: 1rem;
-}
-
-/* ===== IMAGES ===== */
-
-.content img {
-  border-radius: 12px;
-}
-
-/* ===== MOBILE ===== */
-
-@media (max-width: 991px) {
-  .content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  .content h1 {
-    font-size: 2.2rem;
-  }
-}
-
-.platform-showcase {
+/* ── Nice Buttons (About Links) ── */
+.about-links {
   display: flex;
-  gap: 40px;
   justify-content: center;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  background: #f7f5f5;
-  padding: 30px;
-  border-radius: 12px;
-  border-left: 4px solid #7a3b3b;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  gap: 10px;
+  margin-top: 1rem;
 }
 
-.platform-showcase h3 {
-  width: 100%;
-  text-align: center;
-  color: #7a3b3b;
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  background-color: white;
+  color: #333 !important;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.about-link:hover {
+  background-color: #f1f3f5;
+  border-color: #adb5bd;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.about-link i {
+  margin-right: 6px;
+  font-size: 1rem;
+}
+
+/* ── Main Content Area ── */
+.about-contents {
+  padding-left: 2rem;
+}
+
+.about-contents h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.about-contents p {
+  font-size: 1.1rem;
+  color: var(--portfolio-text-secondary);
+  margin-bottom: 1.5rem;
+}
+
+.about-contents strong {
+  color: var(--portfolio-text-primary);
+}
+
+/* ── Navbar ── */
+.navbar {
+  background-color: white !important;
+  border-bottom: 1px solid var(--portfolio-line);
+}
+
+.navbar-title, .nav-link {
+  color: var(--portfolio-text-primary) !important;
+}
+
+.nav-link:hover {
+  color: var(--portfolio-accent) !important;
+}
+
+/* ── Other Content Pages ── */
+.card-section {
+  background: white;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 10px;
+  border: 1px solid var(--portfolio-line);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+}
+
+.btn-primary {
+  background-color: var(--portfolio-accent);
+  border-color: var(--portfolio-accent);
+}
+
+/* ── Mobile Tweaks ── */
+@media (max-width: 768px) {
+  .quarto-about-trestles .about-entity {
+    border-right: none;
+    border-bottom: 1px solid var(--portfolio-line);
+    padding-right: 0;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .about-contents {
+    padding-left: 0;
+  }
 }

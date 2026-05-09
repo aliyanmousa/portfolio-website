@@ -1,416 +1,604 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aliyan Mousa",
-    "section": "",
-    "text": "Motivated marketing and e‑commerce professional. Social media manager. Content creator.\nI help brands grow by blending data‑driven strategies with creative storytelling. My experience spans social media management, content production (Adobe Creative Cloud), and retail operations. I’m currently building a portfolio that connects my professional work in e‑commerce with my academic background in business administration – including space for Google Analytics certificates, marketing projects, and case studies.\nEmail | GitHub | LinkedIn",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Hi, I’m Aliyan Mousa",
-    "section": "About Me",
-    "text": "About Me\nI hold a Bachelor of Business Administration (expecting to graduate in June 2026) from California State Polytechnic University, Pomona (Cal Poly Pomona), and an Associate Degree in Business Administration (June 2024) from Chaffey College, Rancho Cucamonga, CA.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Aliyan Mousa",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nWhether you’re looking for a social media manager, marketing coordinator, or e‑commerce specialist, I’d be glad to connect.\nEmail | GitHub | LinkedIn",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
-    "href": "strategic-marketing.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
-    "title": "Marketing Projects",
-    "section": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)",
-    "text": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)\nThis project involved a comprehensive exploratory data analysis of student research participation data to understand how academic background influences perceived value of research engagement.\nThe analysis focused on transforming raw survey responses into meaningful analytical structures through data cleaning, recoding, and index construction. A key aspect of the project was the development of a composite perception index using multiple survey items, validated using internal consistency measures.\nThe study further explored differences across academic major groups by aggregating responses and identifying patterns in perceived value. This allowed for a structured comparison of how students from different academic disciplines evaluate the usefulness of participating in research activities.\nBeyond descriptive analysis, this project emphasized data preparation workflows, feature engineering, and group-level statistical interpretation, demonstrating how raw survey data can be transformed into actionable insights.",
-    "crumbs": [
-      "Marketing Projects"
-    ]
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-2-multi-dataset-analysis-visualization",
-    "href": "strategic-marketing.html#project-title-2-multi-dataset-analysis-visualization",
-    "title": "Marketing Projects",
-    "section": "Project Title 2: Multi-Dataset Analysis & Visualization",
-    "text": "Project Title 2: Multi-Dataset Analysis & Visualization\nThis project demonstrates applied data manipulation and visualization across multiple structured datasets, focusing on income, religion, air quality, and transportation data.\nThe primary objective was to explore how data structure impacts analysis and visualization outcomes. A key focus was reshaping datasets between wide and long formats to enable meaningful comparisons and graphical representation.\nThe project also involved handling missing values, deriving summary statistics, and constructing visual outputs that reveal relationships between variables such as income distribution patterns, flight delays, and environmental measurements.\nA significant analytical component was the transformation of raw tabular datasets into formats suitable for heatmaps, scatter plots, and grouped summaries, highlighting the importance of data preparation in any analytical workflow.",
-    "crumbs": [
-      "Marketing Projects"
-    ]
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-3-advanced-data-visualization-storytelling",
-    "href": "strategic-marketing.html#project-title-3-advanced-data-visualization-storytelling",
-    "title": "Marketing Projects",
-    "section": "Project Title 3: Advanced Data Visualization & Storytelling",
-    "text": "Project Title 3: Advanced Data Visualization & Storytelling\nThis project focuses on advanced data visualization techniques used to enhance analytical storytelling, interactivity, and temporal interpretation of data.\nThe analysis integrates dynamic visualization approaches such as animated charts and interactive plots to demonstrate how data relationships evolve over time. These methods allow for deeper exploration of trends that are not easily observable in static visualizations.\nIn addition, the project explores multi-layer visualization design, including the combination of multiple variables in a single analytical framework. This approach improves the interpretability of complex datasets by reducing cognitive overload while maintaining analytical depth.\nA key strength of this project is the emphasis on data storytelling, where visual design choices are intentionally used to communicate insights clearly and effectively to both technical and non-technical audiences.",
-    "crumbs": [
-      "Marketing Projects"
-    ]
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-4-academic-performance-attendance-analysis",
-    "href": "strategic-marketing.html#project-title-4-academic-performance-attendance-analysis",
-    "title": "Marketing Projects",
-    "section": "Project Title 4: Academic Performance & Attendance Analysis",
-    "text": "Project Title 4: Academic Performance & Attendance Analysis\nThis project analyzes student academic performance using structured institutional data, focusing on the relationship between prior academic achievement, attendance behavior, and final academic outcomes.\nThe analysis explores how prior GPA, ACT scores, and attendance rates jointly influence term performance. Special attention is given to group-based differences, particularly between freshman and non-freshman students, to assess whether academic experience moderates performance outcomes.\nThe project applies regression analysis, correlation matrices, and distributional comparisons to uncover both linear relationships and group-level behavioral differences. These methods allow for a deeper understanding of how academic behaviors interact with performance outcomes.\nA key insight from this project is that academic performance is not solely determined by prior ability, but is also influenced by engagement factors such as attendance and institutional experience level.",
-    "crumbs": [
-      "Marketing Projects"
-    ]
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "About Mousa",
+    "title": "Resume",
     "section": "",
-    "text": "Digital marketing professional and Business Administration student at California State Polytechnic University, Pomona, with hands-on experience in social media strategy, SEO, content creation, and e-commerce management. Skilled in Adobe Creative Cloud, campaign analytics, and audience growth. Proven ability to design and execute cross-platform marketing initiatives that drive brand engagement, sales conversions, and measurable growth.",
-    "crumbs": [
-      "About Mousa"
-    ]
+    "text": "Fontana, California mousa.aliyan@outlook.com | GitHub | LinkedIn"
+  },
+  {
+    "objectID": "resume.html#aliyan-mousa",
+    "href": "resume.html#aliyan-mousa",
+    "title": "Resume",
+    "section": "",
+    "text": "Fontana, California mousa.aliyan@outlook.com | GitHub | LinkedIn"
   },
   {
     "objectID": "resume.html#professional-summary",
     "href": "resume.html#professional-summary",
-    "title": "About Mousa",
-    "section": "",
-    "text": "Digital marketing professional and Business Administration student at California State Polytechnic University, Pomona, with hands-on experience in social media strategy, SEO, content creation, and e-commerce management. Skilled in Adobe Creative Cloud, campaign analytics, and audience growth. Proven ability to design and execute cross-platform marketing initiatives that drive brand engagement, sales conversions, and measurable growth.",
-    "crumbs": [
-      "About Mousa"
-    ]
+    "title": "Resume",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nDigital marketing professional and Business Administration student at California State Polytechnic University, Pomona, with hands-on experience in social media strategy, SEO, content creation, and e-commerce management. Skilled in Adobe Creative Cloud, campaign analytics, and audience growth. Proven ability to design and execute cross-platform marketing initiatives that drive brand engagement, sales conversions, and measurable growth."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "About Mousa",
+    "title": "Resume",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nInstitution\nYear\n\n\n\n\nBachelor of Business Administration\nCalifornia State Polytechnic University, Pomona\nExpected June 2025\n\n\nAssociate of Business Administration\nChaffey College, Rancho Cucamonga, CA\nJune 2024",
-    "crumbs": [
-      "About Mousa"
-    ]
+    "text": "Education\n\nCalifornia State Polytechnic University, Pomona\nPomona, California Bachelor of Business Administration Expected June 2026\n\n\nChaffey College\nRancho Cucamonga, California Associate of Business Administration June 2024"
   },
   {
     "objectID": "resume.html#marketing-experience",
     "href": "resume.html#marketing-experience",
-    "title": "About Mousa",
+    "title": "Resume",
     "section": "Marketing Experience",
-    "text": "Marketing Experience\n\nSales Representative – AWS EXPO LAS VEGAS\nTouch Hardware Inc., Rancho Cucamonga, CA | July 2025 - Engaged 500+ attendees with tailored product storytelling, increasing booth conversions by 20%. - Executed visual merchandising strategies with marketing teams, improving customer journey flow. - Collected consumer insights to refine messaging and targeting strategies.\n\n\n\nFounder & Manager – Deal Bargains\nFontana, CA | Jan 2024 – Present - Built and scaled tactical and kitchen knife brand with 140+ SKUs. - Designed SEO-optimized product descriptions and ad campaigns generating $65K annual revenue. - Achieved 2.5K+ items sold with 99.8% positive customer reviews. - Maintained 100% fulfillment accuracy through vendor and inventory management. —",
-    "crumbs": [
-      "About Mousa"
-    ]
+    "text": "Marketing Experience\n\nSales Representative — AWS EXPO LAS VEGAS\nTouch Hardware Inc., Rancho Cucamonga, CA · July 2025\n\nEngaged 500+ attendees with tailored product storytelling, increasing booth conversions by 20%\nExecuted visual merchandising strategies with marketing teams, improving customer journey flow\nCollected consumer insights to refine messaging and targeting strategies\n\n\n\n\nFounder & Manager — Deal Bargains\nFontana, CA · Jan 2024 – Present\n\nBuilt and scaled tactical and kitchen knife brand with 140+ SKUs\nDesigned SEO-optimized product descriptions and ad campaigns generating $65K annual revenue\nAchieved 2.5K+ items sold with 99.8% positive customer reviews\nMaintained 100% fulfillment accuracy through vendor and inventory management\n\n\n\n\nSocial Media Marketing Lead — La Rose Medical Spa\nUpland, CA · October 2023 – March 2024\n\nIncreased engagement by 20%\nDeveloped a fitness website generating $10,000+ in global sales\nExecuted ROI-focused digital campaigns\nOptimized campaigns using Meta Insights and Google Analytics\n\n\n\n\nContent Creator — NounNaturals & BPI Sports\nFontana, CA · May 2021 – Present\n\nGrew TikTok audience to 300,000+ followers\nBuilt Instagram presence to 50,000+ followers\nImproved engagement by 30%\nProduced high-performing fitness and lifestyle content"
   },
   {
     "objectID": "resume.html#leadership-experience",
     "href": "resume.html#leadership-experience",
-    "title": "About Mousa",
+    "title": "Resume",
     "section": "Leadership Experience",
-    "text": "Leadership Experience\n\nCreative Marketing Lead – Middle Eastern Student Association\nPomona, CA | Aug 2024 – Present - Lead branding and digital storytelling for campus-wide events. - Increased event engagement through targeted social campaigns.\n\n\n\nMarketing & Strategy Member – Lebanese Student Association\nPomona, CA | Aug 2024 – Present - Support startup-style marketing campaigns and go-to-market strategies. - Manage content planning and engagement tracking for events.",
-    "crumbs": [
-      "About Mousa"
-    ]
+    "text": "Leadership Experience\n\nCreative Marketing Lead — Middle Eastern Student Association\nCal Poly Pomona · Aug 2024 – Present\n\nLead branding and digital storytelling for campus-wide events\nIncreased event engagement through targeted social campaigns\n\n\n\n\nMarketing & Strategy Member — Lebanese Student Association\nCal Poly Pomona · Aug 2024 – Present\n\nSupport startup-style marketing campaigns and go-to-market strategies\nManage content planning and engagement tracking for events"
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
-    "title": "About Mousa",
+    "title": "Resume",
     "section": "Skills",
-    "text": "Skills\nDigital Marketing & Strategy - Social Media Campaigns - Brand Storytelling - Content Calendars\nAnalytics & SEO - Google Analytics - Meta Insights - Keyword Research - Campaign Optimization\nCreative Tools - Adobe Premiere Pro - Photoshop - Canva\nE-commerce & Operations - Shopify - CRM Systems - Inventory Management\nSoft Skills - Leadership - Adaptability - Fast-paced execution",
-    "crumbs": [
-      "About Mousa"
-    ]
+    "text": "Skills\nDigital Marketing & Strategy\n\nSocial Media Campaigns\nBrand Storytelling\nContent Calendars\n\nAnalytics & SEO\n\nGoogle Analytics\nMeta Insights\nKeyword Research\nCampaign Optimization\n\nCreative Tools\n\nAdobe Premiere Pro\nPhotoshop\nCanva\n\nE-commerce & Operations\n\nShopify\nCRM Systems\nInventory Management\n\nData Science\n\nR Programming\nggplot2 & Tidyverse\nData Visualization\nData Wrangling\n\nSoft Skills\n\nLeadership\nAdaptability\nFast-paced execution"
   },
   {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Marketing Analytics",
+    "objectID": "resume.html#references",
+    "href": "resume.html#references",
+    "title": "Resume",
+    "section": "References",
+    "text": "References\nAvailable upon request."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Home | EDA | Results"
+    "text": "This section showcases completed projects from academic coursework and professional work."
+  },
+  {
+    "objectID": "projects.html#data-science-projects",
+    "href": "projects.html#data-science-projects",
+    "title": "Projects",
+    "section": "Data Science Projects",
+    "text": "Data Science Projects\nDetailed data science coursework with live R code and visualizations:\n\nData Visualization in R — Scatter plots, bar charts, boxplots, correlation heatmaps, and interactive Plotly charts\nData Wrangling with Tidyverse — Air quality, NYC flights, religion/income reshaping, rent vs. income\nAdvanced Data Visualization — gganimate, scales, geospatial mapping, and design principles\nR Programming — Custom functions, purrr, forcats, lubridate, and functional programming"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Aliyan Mousa",
+    "section": "",
+    "text": "Hi, I’m Aliyan Mousa\nMotivated marketing and e-commerce professional. Social media manager. Content creator.\nI help brands grow by blending data-driven strategies with creative storytelling. My experience spans social media management, content production (Adobe Creative Cloud), and retail operations. I’m currently building a portfolio that connects my professional work in e-commerce with my academic background in business administration – including space for Google Analytics certificates, marketing projects, and case studies.\nEmail | GitHub | LinkedIn\n\n\n\nAbout\nI’m a results-focused marketing professional with hands-on experience in social media management, content creation, and retail operations.\nCurrently, I serve as a Marketing & E-commerce Coordinator where I drive audience growth and conversion through organic and paid campaigns.\nI am pursuing a Bachelor of Business Administration (expected June 2026) from Cal Poly Pomona, and hold an Associate Degree in Business Administration from Chaffey College. This portfolio will continue to grow with coursework, Google Analytics exercises, marketing projects, and applied business work.\n\nFor Teams & Projects\n\nCross-functional coordination – aligning creative, marketing, and operations teams on project timelines\nTool adoption – training teams on Adobe Creative Cloud, scheduling software, and CRM tools\nProcess documentation – building repeatable workflows that save time and reduce errors\n\n\n\n\n\nLet’s Connect\nWhether you’re looking for a social media manager, marketing coordinator, or e‑commerce specialist, I’d be glad to connect.\nEmail | GitHub | LinkedIn"
+  },
+  {
+    "objectID": "data-wrangling.html",
+    "href": "data-wrangling.html",
+    "title": "Data Wrangling",
+    "section": "",
+    "text": "This section documents data wrangling coursework including data reshaping, pivot operations, missing value handling, and multi-dataset analysis using the Tidyverse ecosystem."
+  },
+  {
+    "objectID": "data-wrangling.html#air-quality-data",
+    "href": "data-wrangling.html#air-quality-data",
+    "title": "Data Wrangling",
+    "section": "Air Quality Data",
+    "text": "Air Quality Data\n\nlibrary(tidyverse)\n\nair.tib &lt;- as_tibble(airquality)\n\n# Filter and select\nair.tib %&gt;%\n  filter(Temp == 97) %&gt;%\n  select(Ozone)\n\n# A tibble: 1 × 1\n  Ozone\n  &lt;int&gt;\n1    76"
+  },
+  {
+    "objectID": "data-wrangling.html#nyc-flights-worst-arrival-delays",
+    "href": "data-wrangling.html#nyc-flights-worst-arrival-delays",
+    "title": "Data Wrangling",
+    "section": "NYC Flights: Worst Arrival Delays",
+    "text": "NYC Flights: Worst Arrival Delays\n\nlibrary(nycflights13)\n\nworst10_arr_delays &lt;- flights %&gt;%\n  filter(!is.na(arr_delay)) %&gt;%\n  group_by(day) %&gt;%\n  slice_max(arr_delay, n = 10, with_ties = FALSE) %&gt;%\n  ungroup() %&gt;%\n  group_by(month) %&gt;%\n  summarise(avg_delay = mean(arr_delay, na.rm = TRUE))\n\nggplot(worst10_arr_delays, aes(x = factor(month), y = avg_delay)) +\n  geom_col(fill = \"cyan\") +\n  labs(\n    title = \"Average of Top 10 Worst Arrival Delays per Day by Month\",\n    x = \"Month\",\n    y = \"Average Arrival Delay (Minutes)\"\n  ) +\n  theme_minimal()\n\n\n\n\n\n\n\n\nThe worst arrival delays happen in the beginning of the year, with the worst occurring in February. This suggests the company can allocate more budget to the first two quarters."
+  },
+  {
+    "objectID": "data-wrangling.html#religion-income-pivot-longer",
+    "href": "data-wrangling.html#religion-income-pivot-longer",
+    "title": "Data Wrangling",
+    "section": "Religion & Income: Pivot Longer",
+    "text": "Religion & Income: Pivot Longer\n\nrelig_income_long &lt;- relig_income %&gt;%\n  pivot_longer(\n    cols = -religion,\n    names_to = \"income\",\n    values_to = \"count\"\n  ) %&gt;%\n  filter(income != \"Don't know/refused\")\n\nggplot(relig_income_long, aes(x = income, y = count, fill = religion)) +\n  geom_col(position = \"dodge\") +\n  labs(\n    title = \"Income Distribution by Religion\",\n    x = \"Income Bracket\",\n    y = \"Number of Respondents\"\n  ) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "data-wrangling.html#us-rent-vs-income-pivot-wider",
+    "href": "data-wrangling.html#us-rent-vs-income-pivot-wider",
+    "title": "Data Wrangling",
+    "section": "US Rent vs Income: Pivot Wider",
+    "text": "US Rent vs Income: Pivot Wider\n\nus_rent_income %&gt;%\n  pivot_wider(\n    names_from = variable,\n    values_from = c(estimate, moe)\n  ) %&gt;%\n  ggplot(aes(x = estimate_income, y = estimate_rent)) +\n  geom_point(color = \"blue\", size = 3) +\n  geom_smooth(method = \"lm\", se = FALSE, color = \"orange\") +\n  labs(\n    title = \"Income vs Rent Across States\",\n    x = \"Income (Median)\",\n    y = \"Rent (Median)\"\n  ) +\n  theme_minimal()\n\n`geom_smooth()` using formula = 'y ~ x'\n\n\nWarning: Removed 1 row containing non-finite outside the scale range\n(`stat_smooth()`).\n\n\nWarning: Removed 1 row containing missing values or values outside the scale range\n(`geom_point()`)."
+  },
+  {
+    "objectID": "data-wrangling.html#missing-value-handling",
+    "href": "data-wrangling.html#missing-value-handling",
+    "title": "Data Wrangling",
+    "section": "Missing Value Handling",
+    "text": "Missing Value Handling\n\nair.tib %&gt;%\n  summarise(\n    missing = sum(is.na(Solar.R)),\n    percent_missing = mean(is.na(Solar.R)) * 100\n  )\n\n# A tibble: 1 × 2\n  missing percent_missing\n    &lt;int&gt;           &lt;dbl&gt;\n1       7            4.58\n\nSolar_Mean &lt;- mean(air.tib$Solar.R, na.rm = TRUE)\nSolar_Mean_int &lt;- round(Solar_Mean)\n\nair.tib &lt;- air.tib %&gt;%\n  mutate(Solar.R = replace_na(Solar.R, Solar_Mean_int))\n\nsum(is.na(air.tib$Solar.R))\n\n[1] 0"
+  },
+  {
+    "objectID": "data-wrangling.html#temperature-analysis-by-month",
+    "href": "data-wrangling.html#temperature-analysis-by-month",
+    "title": "Data Wrangling",
+    "section": "Temperature Analysis by Month",
+    "text": "Temperature Analysis by Month\n\nair.tib %&gt;%\n  count(Month, wt = Temp) %&gt;%\n  mutate(\n    Month = recode(Month,\n                   `5` = \"May\",\n                   `6` = \"June\",\n                   `7` = \"July\",\n                   `8` = \"August\",\n                   `9` = \"September\"),\n    Month = factor(Month)\n  ) %&gt;%\n  arrange(desc(n)) %&gt;%\n  ggplot(aes(x = n, y = reorder(Month, n))) +\n  geom_col(fill = \"cyan\") +\n  labs(\n    title = \"Total Monthly Temperature\",\n    x = \"Total Temperature\",\n    y = \"Month\"\n  ) +\n  theme_classic()"
+  },
+  {
+    "objectID": "data-wrangling.html#ozone-weather-variable-relationships",
+    "href": "data-wrangling.html#ozone-weather-variable-relationships",
+    "title": "Data Wrangling",
+    "section": "Ozone & Weather Variable Relationships",
+    "text": "Ozone & Weather Variable Relationships\n\nair.tib %&gt;%\n  mutate(temp_wind = Temp / Wind) %&gt;%\n  select(Ozone, Temp, Wind, temp_wind) %&gt;%\n  pivot_longer(cols = c(Temp, Wind, temp_wind),\n               names_to = \"variable\",\n               values_to = \"value\") %&gt;%\n  ggplot(aes(x = value, y = Ozone)) +\n  geom_point(color = \"steelblue\") +\n  facet_wrap(~variable, scales = \"free_x\") +\n  labs(\n    title = \"Relationships Between Ozone and Weather Variables\",\n    x = \"Variable Value\",\n    y = \"Ozone Level\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 111 rows containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\n\n\n\nThere is a stronger relationship between ozone level and temperature, and ozone level and wind, than between ozone level and temp_wind. There is also a negative relationship between wind and ozone level."
+  },
+  {
+    "objectID": "data-wrangling.html#key-wrangling-functions",
+    "href": "data-wrangling.html#key-wrangling-functions",
+    "title": "Data Wrangling",
+    "section": "Key Wrangling Functions",
+    "text": "Key Wrangling Functions\n\n\n\nFunction\nPurpose\n\n\n\n\npivot_longer()\nReshape wide data to long format\n\n\npivot_wider()\nReshape long data to wide format\n\n\nfilter()\nSubset rows based on conditions\n\n\nmutate()\nCreate or modify columns\n\n\ngroup_by() + summarise()\nAggregate data by groups\n\n\nreplace_na()\nHandle missing values\n\n\nacross()\nApply calculations across multiple columns\n\n\ndistinct()\nRemove duplicate rows\n\n\ninner_join()\nMerge datasets on matching keys"
   },
   {
     "objectID": "dashboard.html#project-title-1-key-visualization",
     "href": "dashboard.html#project-title-1-key-visualization",
     "title": "Class Projects Dashboard",
     "section": "Project Title 1: Key Visualization",
-    "text": "Project Title 1: Key Visualization",
-    "crumbs": [
-      "Class Projects Dashboard"
-    ]
+    "text": "Project Title 1: Key Visualization"
   },
   {
     "objectID": "dashboard.html#project-title-2",
     "href": "dashboard.html#project-title-2",
     "title": "Class Projects Dashboard",
     "section": "**Project Title 2",
-    "text": "**Project Title 2\nKey Visualization: Income Distribution Heatmap",
-    "crumbs": [
-      "Class Projects Dashboard"
-    ]
+    "text": "**Project Title 2\nKey Visualization: Income Distribution Heatmap"
   },
   {
     "objectID": "dashboard.html#project-title-3",
     "href": "dashboard.html#project-title-3",
     "title": "Class Projects Dashboard",
     "section": "Project Title 3:",
-    "text": "Project Title 3:\nKey Visualization: Animated Trend (Example)",
-    "crumbs": [
-      "Class Projects Dashboard"
-    ]
+    "text": "Project Title 3:\nKey Visualization: Animated Trend (Example)"
   },
   {
     "objectID": "dashboard.html#project-title-4",
     "href": "dashboard.html#project-title-4",
     "title": "Class Projects Dashboard",
     "section": "Project Title 4:",
-    "text": "Project Title 4:\nKey Visualization: Prior GPA vs Term GPA",
-    "crumbs": [
-      "Class Projects Dashboard"
-    ]
-  },
-  {
-    "objectID": "strategic-marketing.html",
-    "href": "strategic-marketing.html",
-    "title": "Marketing Projects",
-    "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
-  },
-  {
-    "objectID": "digital-marketing.html",
-    "href": "digital-marketing.html",
-    "title": "Digital Marketing",
-    "section": "",
-    "text": "I focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth.\nMy experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution.",
-    "crumbs": [
-      "Digital Marketing"
-    ]
-  },
-  {
-    "objectID": "digital-marketing.html#data-driven-marketing-growth-strategy",
-    "href": "digital-marketing.html#data-driven-marketing-growth-strategy",
-    "title": "Digital Marketing",
-    "section": "",
-    "text": "I focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth.\nMy experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution.",
-    "crumbs": [
-      "Digital Marketing"
-    ]
-  },
-  {
-    "objectID": "digital-marketing.html#professional-experience",
-    "href": "digital-marketing.html#professional-experience",
-    "title": "Digital Marketing",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nSocial Media Marketing Lead – La Rose Medical Spa\nUpland, California\nOctober 2023 – March 2024\nLed multi-platform marketing initiatives focused on engagement growth, customer acquisition, and conversion performance.\n\n\nKey Achievements\n\nIncreased engagement by 20%\n\nDeveloped a fitness website generating $10,000+ in global sales\n\nExecuted ROI-focused digital campaigns\n\nOptimized campaigns using Meta Insights and Google Analytics\n\nDeveloped strategic content calendars\n\nImproved targeting and campaign performance",
-    "crumbs": [
-      "Digital Marketing"
-    ]
-  },
-  {
-    "objectID": "digital-marketing.html#marketing-strategy",
-    "href": "digital-marketing.html#marketing-strategy",
-    "title": "Digital Marketing",
-    "section": "Marketing Strategy",
-    "text": "Marketing Strategy\nI use analytical insights and audience behavior data to design campaigns that improve visibility, strengthen customer engagement, and increase conversion performance.\n\nCore Marketing Areas\n\nSocial Media Marketing\n\nPaid Campaign Strategy\n\nAudience Segmentation\n\nConversion Optimization\n\nMarketing Analytics\n\nPerformance Reporting",
-    "crumbs": [
-      "Digital Marketing"
-    ]
-  },
-  {
-    "objectID": "digital-marketing.html#marketing-tools-platforms",
-    "href": "digital-marketing.html#marketing-tools-platforms",
-    "title": "Digital Marketing",
-    "section": "Marketing Tools & Platforms",
-    "text": "Marketing Tools & Platforms\n\n\n\nAnalytics & Reporting\n\nGoogle Analytics\n\nMeta Insights\n\nCampaign Metrics\n\nAudience Tracking\n\nROI Reporting\n\n\n\n\nMarketing Execution\n\nContent Calendars\n\nPaid Media Campaigns\n\nConversion Strategy\n\nBrand Positioning\n\nCustomer Engagement",
-    "crumbs": [
-      "Digital Marketing"
-    ]
-  },
-  {
-    "objectID": "digital-marketing.html#business-impact",
-    "href": "digital-marketing.html#business-impact",
-    "title": "Digital Marketing",
-    "section": "Business Impact",
-    "text": "Business Impact\n\nRevenue Growth\n\nGenerated $10,000+ in online sales\n\n\n\nCampaign Performance\n\nIncreased engagement by 20%\n\nImproved campaign targeting efficiency\n\nEnhanced conversion-focused marketing strategies",
-    "crumbs": [
-      "Digital Marketing"
-    ]
-  },
-  {
-    "objectID": "digital-marketing.html#marketing-philosophy",
-    "href": "digital-marketing.html#marketing-philosophy",
-    "title": "Digital Marketing",
-    "section": "Marketing Philosophy",
-    "text": "Marketing Philosophy\nI believe effective digital marketing combines creativity with measurable performance.\nMy campaigns are guided by:\n\nAudience insights\n\nData-driven decision making\n\nPlatform-specific optimization\n\nContinuous testing and refinement\n\nConversion-focused strategy",
-    "crumbs": [
-      "Digital Marketing"
-    ]
+    "text": "Project Title 4:\nKey Visualization: Prior GPA vs Term GPA"
   },
   {
     "objectID": "content-creation.html",
     "href": "content-creation.html",
     "title": "Content Creation",
     "section": "",
-    "text": "I specialize in creating high-impact short-form and social-first content designed to increase audience engagement, strengthen brand identity, and drive platform growth.\nThrough creative storytelling, trend analysis, and audience-focused strategies, I develop content that captures attention and delivers measurable results across multiple platforms.",
-    "crumbs": [
-      "Content Creation"
-    ]
+    "text": "I specialize in creating high-impact short-form and social-first content designed to increase audience engagement, strengthen brand identity, and drive platform growth.\nThrough creative storytelling, trend analysis, and audience-focused strategies, I develop content that captures attention and delivers measurable results across multiple platforms."
   },
   {
     "objectID": "content-creation.html#building-engaging-digital-experiences",
     "href": "content-creation.html#building-engaging-digital-experiences",
     "title": "Content Creation",
     "section": "",
-    "text": "I specialize in creating high-impact short-form and social-first content designed to increase audience engagement, strengthen brand identity, and drive platform growth.\nThrough creative storytelling, trend analysis, and audience-focused strategies, I develop content that captures attention and delivers measurable results across multiple platforms.",
-    "crumbs": [
-      "Content Creation"
-    ]
+    "text": "I specialize in creating high-impact short-form and social-first content designed to increase audience engagement, strengthen brand identity, and drive platform growth.\nThrough creative storytelling, trend analysis, and audience-focused strategies, I develop content that captures attention and delivers measurable results across multiple platforms."
   },
   {
     "objectID": "content-creation.html#professional-experience",
     "href": "content-creation.html#professional-experience",
     "title": "Content Creation",
     "section": "Professional Experience",
-    "text": "Professional Experience\n\nContent Creator – NounNaturals & BPI Sports\nFontana, California\nMay 2021 – Present\nAs a content creator for health and wellness brands, I develop platform-native campaigns focused on maximizing visibility, audience retention, and engagement performance.\n\n\nKey Achievements\n\nGrew TikTok audience to 300,000+ followers\nBuilt Instagram presence to 50,000+ followers\nImproved engagement by 30%\nProduced high-performing fitness and lifestyle content\nCollaborated with creators and influencers to expand reach\nCreated trend-based campaigns aligned with audience interests",
-    "crumbs": [
-      "Content Creation"
-    ]
+    "text": "Professional Experience\n\nContent Creator – NounNaturals & BPI Sports\nFontana, California\nMay 2021 – Present\nAs a content creator for health and wellness brands, I develop platform-native campaigns focused on maximizing visibility, audience retention, and engagement performance.\n\n\nKey Achievements\n\nGrew TikTok audience to 300,000+ followers\nBuilt Instagram presence to 50,000+ followers\nImproved engagement by 30%\nProduced high-performing fitness and lifestyle content\nCollaborated with creators and influencers to expand reach\nCreated trend-based campaigns aligned with audience interests"
   },
   {
     "objectID": "content-creation.html#content-strategy",
     "href": "content-creation.html#content-strategy",
     "title": "Content Creation",
     "section": "Content Strategy",
-    "text": "Content Strategy\nMy approach combines creativity with performance optimization to ensure content is both visually engaging and strategically effective.\n\nAreas of Focus\n\nShort-form video production\n\nAudience growth strategy\n\nViral content development\n\nTrend analysis\n\nBrand storytelling\n\nPlatform optimization",
-    "crumbs": [
-      "Content Creation"
-    ]
+    "text": "Content Strategy\nMy approach combines creativity with performance optimization to ensure content is both visually engaging and strategically effective.\n\nAreas of Focus\n\nShort-form video production\n\nAudience growth strategy\n\nViral content development\n\nTrend analysis\n\nBrand storytelling\n\nPlatform optimization"
   },
   {
     "objectID": "content-creation.html#featured-skills",
     "href": "content-creation.html#featured-skills",
     "title": "Content Creation",
     "section": "Featured Skills",
-    "text": "Featured Skills\n\n\n\nCreative Skills\n\nVideo Editing\n\nContent Planning\n\nStorytelling\n\nCreative Direction\n\nVisual Branding\n\n\n\n\nPlatform Skills\n\nTikTok Growth\n\nInstagram Strategy\n\nAudience Engagement\n\nCreator Collaboration\n\nSocial Analytics",
-    "crumbs": [
-      "Content Creation"
-    ]
+    "text": "Featured Skills\n\n\n\nCreative Skills\n\nVideo Editing\n\nContent Planning\n\nStorytelling\n\nCreative Direction\n\nVisual Branding\n\n\n\n\nPlatform Skills\n\nTikTok Growth\n\nInstagram Strategy\n\nAudience Engagement\n\nCreator Collaboration\n\nSocial Analytics"
   },
   {
     "objectID": "content-creation.html#featured-platforms",
     "href": "content-creation.html#featured-platforms",
     "title": "Content Creation",
     "section": "Featured Platforms",
-    "text": "Featured Platforms\n\n\nTikTok Showcase\n\n\n\n\nInstagram Showcase",
-    "crumbs": [
-      "Content Creation"
-    ]
+    "text": "Featured Platforms\n\n\nTikTok Showcase\n\n\n\n\nInstagram Showcase"
   },
   {
-    "objectID": "digital-marketing.html#featured-work",
-    "href": "digital-marketing.html#featured-work",
-    "title": "Digital Marketing",
-    "section": "Featured Work",
-    "text": "Featured Work\n\nCampaign Analytics Showcase",
-    "crumbs": [
-      "Digital Marketing"
-    ]
+    "objectID": "certifications.html",
+    "href": "certifications.html",
+    "title": "Certifications",
+    "section": "",
+    "text": "This section highlights my professional certifications and completed training in digital marketing and analytics.\n\n\n\n\n\n\nGoogle Analytics Certification\n\n\n\nGoogle Analytics Certification\nDate Completed: 2026\nSkills: Google Analytics, Data Analysis, Campaign Measurement\nIssuer: Google\nThis certification demonstrates proficiency in using Google Analytics to track website performance, analyze audience behavior, and measure marketing ROI.\n\n\n\n\n\n\nGA4 Data and Reports\n\n\n\nGA4: Data and Reports Certification\nDate Completed: 2026\nSkills: GA4, Event Tracking, Conversion Reporting, Attribution\nIssuer: Google Analytics Academy\nFocuses on the latest generation of Google Analytics, covering event-based tracking, cross-platform measurement, and advanced reporting features in GA4."
+  },
+  {
+    "objectID": "advanced-viz.html",
+    "href": "advanced-viz.html",
+    "title": "Advanced Visualization",
+    "section": "",
+    "text": "This section documents advanced data visualization coursework covering animated charts, geospatial mapping, multi-layer visualization design, and data storytelling best practices."
+  },
+  {
+    "objectID": "advanced-viz.html#animated-visualization-with-gganimate",
+    "href": "advanced-viz.html#animated-visualization-with-gganimate",
+    "title": "Advanced Visualization",
+    "section": "Animated Visualization with gganimate",
+    "text": "Animated Visualization with gganimate\nThe gganimate package adds animation to charts, giving viewers the ability to observe how patterns change over time or category. This animated chart tracks life expectancy vs. GDP per capita across continents.\n\nlibrary(scales)\nlibrary(gapminder)\nlibrary(tidyverse)\nlibrary(gganimate)\nlibrary(gifski)\n\np_country &lt;- gapminder %&gt;%\n  filter(continent != \"Oceania\") %&gt;%\n  ggplot(aes(x = gdpPercap, y = lifeExp, size = pop, color = country)) +\n  geom_point(alpha = 0.7) +\n  scale_color_manual(values = country_colors) +\n  scale_x_log10(labels = dollar, limits = c(200, 10000)) +\n  scale_size(range = c(1, 20)) +\n  theme_bw() +\n  facet_wrap(~continent) +\n  theme(legend.position = \"none\")\n\nanim &lt;- p_country +\n  labs(x = \"GDP Per Capita in USD\",\n       y = \"Life Expectancy in Years\",\n       title = \"Year: {frame_time}\",\n       subtitle = \"Animating Life Expectancy vs. GDP Per Capita over time\") +\n  transition_time(year) +\n  theme(plot.title = element_text(\n    size = 23,\n    face = \"bold\"\n  ))\nanim"
+  },
+  {
+    "objectID": "advanced-viz.html#key-concepts-scales-and-transformations",
+    "href": "advanced-viz.html#key-concepts-scales-and-transformations",
+    "title": "Advanced Visualization",
+    "section": "Key Concepts: Scales and Transformations",
+    "text": "Key Concepts: Scales and Transformations\nScales regulate the association of data values with visual representations of position, size, and color. Key takeaways:\n\nNonlinear transformations like logarithmic scaling balance skewed data distributions\nCustom color palettes enhance accessibility and focus on valuable insights\nTheme customization provides consistent visual identity across plots\nMinimizing clutter by streamlining extraneous gridlines and decorative features improves readability"
+  },
+  {
+    "objectID": "advanced-viz.html#useful-visualization-functions",
+    "href": "advanced-viz.html#useful-visualization-functions",
+    "title": "Advanced Visualization",
+    "section": "Useful Visualization Functions",
+    "text": "Useful Visualization Functions\nThree functions from David Robinson’s impromptu visualization demonstration:\n\n\ngeom_count()\nVisualizes overlapping observations by adjusting point size based on frequency, making dense data easier to interpret.\nggplot2\n\n\ngganimate()\nEnables dynamic visualizations that show change across time or categories, helping viewers understand trends through motion.\nAnimation\n\n\nggplotly()\nAllows integration of interactive charts where users can hover over data points and explore detailed values.\nPlotly\n\n\ngt + gtExtra\nConverts regular tables into attractive and publication-ready summary reports with mini-visualizations like sparklines and distribution plots.\nTables"
+  },
+  {
+    "objectID": "advanced-viz.html#design-principles-from-cédric-scherer",
+    "href": "advanced-viz.html#design-principles-from-cédric-scherer",
+    "title": "Advanced Visualization",
+    "section": "Design Principles from Cédric Scherer",
+    "text": "Design Principles from Cédric Scherer\nKey tips for improving data visualization:\n\nColor palettes — Use considered palettes that make a difference but are not overwhelming. Adequate choice of colors enhances accessibility and focus on valuable insights.\nTheme customization — Personalize themes and types to provide consistent visual identity and enhance professionalism and readability.\nReduce clutter — Minimize extraneous gridlines, labels, and decorative features that divert attention from the data narrative."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Aliyan Mousa, a marketing, e‑commerce, and data science student at California State Polytechnic University, Pomona. I’m passionate about building a portfolio that brings together my academic and applied work across digital marketing, content creation, data visualization, analytics, and business operations."
+  },
+  {
+    "objectID": "about.html#academic-profile",
+    "href": "about.html#academic-profile",
+    "title": "About",
+    "section": "Academic Profile",
+    "text": "Academic Profile\nMy coursework reflects a business-focused education with emphasis in marketing management, consumer behavior, data analytics, and applied data science. I have completed hands-on work with:\n\nR & the Tidyverse — Data visualization with ggplot2, data wrangling with dplyr/tidyr, interactive visualizations with Plotly, animated charts with gganimate, and functional programming with purrr\nGoogle Analytics & BigQuery — Campaign measurement, audience analysis, SQL queries on large datasets, and Looker Studio dashboards\nMarketing Tools — Meta Insights, Google Analytics, campaign optimization, content calendars, and ROI reporting\nCreative Tools — Adobe Premiere Pro, Photoshop, Canva, and video production for social platforms"
+  },
+  {
+    "objectID": "about.html#what-this-site-includes",
+    "href": "about.html#what-this-site-includes",
+    "title": "About",
+    "section": "What This Site Includes",
+    "text": "What This Site Includes\n\nData Science Work — Complete R-based projects with live visualizations including scatter plots, bar charts, boxplots, correlation heatmaps, animated charts, and interactive Plotly charts\nProject Summaries — Research participation analysis, multi-dataset visualization, academic performance modeling, and e-commerce brand building\nMarketing Projects — Digital marketing campaigns, social media strategy, content creation achievements, and ROI-focused execution\nCertifications — Google Analytics certifications and professional training\nAnalytics — BigQuery, Looker Studio, and campaign measurement work"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nBeyond academics, I bring real-world marketing and business experience:\n\nContent Creator — NounNaturals & BPI Sports: Grew TikTok to 300K+ followers and Instagram to 50K+ followers\nFounder & Manager — Deal Bargains: Built an e-commerce brand with 140+ SKUs and $65K annual revenue\nSocial Media Marketing Lead — La Rose Medical Spa: Increased engagement by 20% and generated $10K+ in global sales\nCreative Marketing Lead — Middle Eastern Student Association at Cal Poly Pomona"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Business Administration — California State Polytechnic University, Pomona (Expected June 2026)\nAssociate of Business Administration — Chaffey College, Rancho Cucamonga, CA (June 2024)"
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\n\nEmail\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Analytics",
+    "section": "",
+    "text": "This section documents analytics coursework, Google Analytics work, BigQuery projects, and measurement-focused work that supports data-informed marketing and business decisions."
+  },
+  {
+    "objectID": "analytics.html#analytics-coursework",
+    "href": "analytics.html#analytics-coursework",
+    "title": "Analytics",
+    "section": "Analytics Coursework",
+    "text": "Analytics Coursework\n\n\nGoogle Analytics Reporting\nSummary of audience, acquisition, engagement, and conversion behavior using Google Analytics reporting tools. Coursework focused on interpreting traffic patterns, identifying acquisition channels, and translating metrics into actionable business recommendations.\nGoogle Analytics Reporting\n\n\nCampaign Measurement Planning\nMeasurement plan connecting marketing goals to KPIs, traffic sources, event tracking, and reporting cadence. Developed frameworks for evaluating campaign performance and ROI across digital channels.\nKPIs Campaign Measurement\n\n\nData Analytics with BigQuery\nLearned to use Google Cloud BigQuery as an effective tool to analyze large datasets through SQL queries. Worked with publicly available data including global temperature patterns to practice aggregation functions, table joins, and data summarization.\nBigQuery SQL Google Cloud\n\n\nLooker Studio Dashboards\nConnected BigQuery data to Looker Studio to generate visual reports including line charts for temporal patterns, column charts for comparisons, and geo charts for geographic analysis. Practiced customizing dimensions and measurements.\nLooker Studio Dashboards"
+  },
+  {
+    "objectID": "analytics.html#bigquery-looker-studio-workflow",
+    "href": "analytics.html#bigquery-looker-studio-workflow",
+    "title": "Analytics",
+    "section": "BigQuery & Looker Studio Workflow",
+    "text": "BigQuery & Looker Studio Workflow\n\nData Analysis in BigQuery\nIn the course, I learned to use Google Cloud BigQuery as an effective tool to analyze large datasets through an efficient data warehouse format. BigQuery enables querying large volumes of data with SQL within a brief period without having to administer infrastructure.\nKey skills developed:\n\nWriting SQL queries with SELECT statements, filtering, and table structures\nUsing aggregation functions like averages and counts to summarize big datasets\nJoining two or more datasets for complex analysis\nProcessing raw data into actionable insights for business decision-making\n\n\n\nDesigning Visualizations in Looker Studio\nAfter processing data in BigQuery, I connected it to Looker Studio to generate visual reports. Key activities:\n\nCreated line charts to demonstrate temporal patterns including global temperature changes\nOperated various chart types including column charts and geo charts\nCustomized dimensions and measurements to make charts more personalized\nApplied data storytelling techniques for both technical and non-technical audiences\n\n\n\nReal-World Application\nThe analytics workflow addressed real-world problems by:\n\nStarting with a problem statement\nCollecting corresponding data\nAnalyzing it with SQL and aggregation\nPresenting results in visual dashboards"
+  },
+  {
+    "objectID": "analytics.html#introduction-to-positron",
+    "href": "analytics.html#introduction-to-positron",
+    "title": "Analytics",
+    "section": "Introduction to Positron",
+    "text": "Introduction to Positron\nPositron is a modern integrated development environment designed for data science workflows, supporting multiple programming languages such as R and Python.\n\nKey Features\n\nSupport for multiple programming languages\nA modern interface designed for extensibility\nIntegration with development tools and extensions\nAI integration for code suggestions and debugging\n\n\n\nAI Tools Comparison\n\n\n\nTool\nType\nCost\n\n\n\n\nGitHub Copilot\nCode completion assistant\nFree for students\n\n\nOpenAI integrations\nChat-based assistance\nMay require API\n\n\nOther extensions\nCode suggestions and automation\nVaries"
+  },
+  {
+    "objectID": "analytics.html#data-science-in-r",
+    "href": "analytics.html#data-science-in-r",
+    "title": "Analytics",
+    "section": "Data Science in R",
+    "text": "Data Science in R\nIn addition to analytics tools, I have applied R and the Tidyverse ecosystem for statistical analysis and data visualization:\n\nData Visualization in R — ggplot2, Plotly, correlation analysis, and interactive charts\nData Wrangling with Tidyverse — Reshaping, cleaning, and transforming datasets\nAdvanced Data Visualization — gganimate, scales, geospatial mapping, and design principles\nR Programming — Custom functions, purrr, forcats, and functional programming"
+  },
+  {
+    "objectID": "analytics.html#certifications",
+    "href": "analytics.html#certifications",
+    "title": "Analytics",
+    "section": "Certifications",
+    "text": "Certifications\nView my professional certifications on the Certifications page."
   },
   {
     "objectID": "class-projects.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
     "href": "class-projects.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
     "title": "Coursework Projects",
     "section": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)",
-    "text": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)\nThis project involved a comprehensive exploratory data analysis of student research participation data to understand how academic background influences perceived value of research engagement.\nThe analysis focused on transforming raw survey responses into meaningful analytical structures through data cleaning, recoding, and index construction. A key aspect of the project was the development of a composite perception index using multiple survey items, validated using internal consistency measures.\nThe study further explored differences across academic major groups by aggregating responses and identifying patterns in perceived value. This allowed for a structured comparison of how students from different academic disciplines evaluate the usefulness of participating in research activities.\nBeyond descriptive analysis, this project emphasized data preparation workflows, feature engineering, and group-level statistical interpretation, demonstrating how raw survey data can be transformed into actionable insights.",
-    "crumbs": [
-      "Coursework Projects"
-    ]
+    "text": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)\nThis project involved a comprehensive exploratory data analysis of student research participation data to understand how academic background influences perceived value of research engagement.\nThe analysis focused on transforming raw survey responses into meaningful analytical structures through data cleaning, recoding, and index construction. A key aspect of the project was the development of a composite perception index using multiple survey items, validated using internal consistency measures.\nThe study further explored differences across academic major groups by aggregating responses and identifying patterns in perceived value. This allowed for a structured comparison of how students from different academic disciplines evaluate the usefulness of participating in research activities.\nBeyond descriptive analysis, this project emphasized data preparation workflows, feature engineering, and group-level statistical interpretation, demonstrating how raw survey data can be transformed into actionable insights."
   },
   {
     "objectID": "class-projects.html#project-title-2-multi-dataset-analysis-visualization",
     "href": "class-projects.html#project-title-2-multi-dataset-analysis-visualization",
     "title": "Coursework Projects",
     "section": "Project Title 2: Multi-Dataset Analysis & Visualization",
-    "text": "Project Title 2: Multi-Dataset Analysis & Visualization\nThis project demonstrates applied data manipulation and visualization across multiple structured datasets, focusing on income, religion, air quality, and transportation data.\nThe primary objective was to explore how data structure impacts analysis and visualization outcomes. A key focus was reshaping datasets between wide and long formats to enable meaningful comparisons and graphical representation.\nThe project also involved handling missing values, deriving summary statistics, and constructing visual outputs that reveal relationships between variables such as income distribution patterns, flight delays, and environmental measurements.\nA significant analytical component was the transformation of raw tabular datasets into formats suitable for heatmaps, scatter plots, and grouped summaries, highlighting the importance of data preparation in any analytical workflow.",
-    "crumbs": [
-      "Coursework Projects"
-    ]
+    "text": "Project Title 2: Multi-Dataset Analysis & Visualization\nThis project demonstrates applied data manipulation and visualization across multiple structured datasets, focusing on income, religion, air quality, and transportation data.\nThe primary objective was to explore how data structure impacts analysis and visualization outcomes. A key focus was reshaping datasets between wide and long formats to enable meaningful comparisons and graphical representation.\nThe project also involved handling missing values, deriving summary statistics, and constructing visual outputs that reveal relationships between variables such as income distribution patterns, flight delays, and environmental measurements.\nA significant analytical component was the transformation of raw tabular datasets into formats suitable for heatmaps, scatter plots, and grouped summaries, highlighting the importance of data preparation in any analytical workflow."
   },
   {
     "objectID": "class-projects.html#project-title-3-advanced-data-visualization-storytelling",
     "href": "class-projects.html#project-title-3-advanced-data-visualization-storytelling",
     "title": "Coursework Projects",
     "section": "Project Title 3: Advanced Data Visualization & Storytelling",
-    "text": "Project Title 3: Advanced Data Visualization & Storytelling\nThis project focuses on advanced data visualization techniques used to enhance analytical storytelling, interactivity, and temporal interpretation of data.\nThe analysis integrates dynamic visualization approaches such as animated charts and interactive plots to demonstrate how data relationships evolve over time. These methods allow for deeper exploration of trends that are not easily observable in static visualizations.\nIn addition, the project explores multi-layer visualization design, including the combination of multiple variables in a single analytical framework. This approach improves the interpretability of complex datasets by reducing cognitive overload while maintaining analytical depth.\nA key strength of this project is the emphasis on data storytelling, where visual design choices are intentionally used to communicate insights clearly and effectively to both technical and non-technical audiences.",
-    "crumbs": [
-      "Coursework Projects"
-    ]
+    "text": "Project Title 3: Advanced Data Visualization & Storytelling\nThis project focuses on advanced data visualization techniques used to enhance analytical storytelling, interactivity, and temporal interpretation of data.\nThe analysis integrates dynamic visualization approaches such as animated charts and interactive plots to demonstrate how data relationships evolve over time. These methods allow for deeper exploration of trends that are not easily observable in static visualizations.\nIn addition, the project explores multi-layer visualization design, including the combination of multiple variables in a single analytical framework. This approach improves the interpretability of complex datasets by reducing cognitive overload while maintaining analytical depth.\nA key strength of this project is the emphasis on data storytelling, where visual design choices are intentionally used to communicate insights clearly and effectively to both technical and non-technical audiences."
   },
   {
     "objectID": "class-projects.html#project-title-4-academic-performance-attendance-analysis",
     "href": "class-projects.html#project-title-4-academic-performance-attendance-analysis",
     "title": "Coursework Projects",
     "section": "Project Title 4: Academic Performance & Attendance Analysis",
-    "text": "Project Title 4: Academic Performance & Attendance Analysis\nThis project analyzes student academic performance using structured institutional data, focusing on the relationship between prior academic achievement, attendance behavior, and final academic outcomes.\nThe analysis explores how prior GPA, ACT scores, and attendance rates jointly influence term performance. Special attention is given to group-based differences, particularly between freshman and non-freshman students, to assess whether academic experience moderates performance outcomes.\nThe project applies regression analysis, correlation matrices, and distributional comparisons to uncover both linear relationships and group-level behavioral differences. These methods allow for a deeper understanding of how academic behaviors interact with performance outcomes.\nA key insight from this project is that academic performance is not solely determined by prior ability, but is also influenced by engagement factors such as attendance and institutional experience level.",
-    "crumbs": [
-      "Coursework Projects"
-    ]
+    "text": "Project Title 4: Academic Performance & Attendance Analysis\nThis project analyzes student academic performance using structured institutional data, focusing on the relationship between prior academic achievement, attendance behavior, and final academic outcomes.\nThe analysis explores how prior GPA, ACT scores, and attendance rates jointly influence term performance. Special attention is given to group-based differences, particularly between freshman and non-freshman students, to assess whether academic experience moderates performance outcomes.\nThe project applies regression analysis, correlation matrices, and distributional comparisons to uncover both linear relationships and group-level behavioral differences. These methods allow for a deeper understanding of how academic behaviors interact with performance outcomes.\nA key insight from this project is that academic performance is not solely determined by prior ability, but is also influenced by engagement factors such as attendance and institutional experience level."
   },
   {
-    "objectID": "index.html#hi-im-aliyan-mousa",
-    "href": "index.html#hi-im-aliyan-mousa",
-    "title": "Aliyan Mousa",
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
     "section": "",
-    "text": "Motivated marketing and e‑commerce professional. Social media manager. Content creator.\nI help brands grow by blending data‑driven strategies with creative storytelling. My experience spans social media management, content production (Adobe Creative Cloud), and retail operations. I’m currently building a portfolio that connects my professional work in e‑commerce with my academic background in business administration – including space for Google Analytics certificates, marketing projects, and case studies.\nEmail | GitHub | LinkedIn",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "The coursework below documents completed classes across business, marketing, analytics, data science, and general education at Cal Poly Pomona and Chaffey College."
   },
   {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Aliyan Mousa",
-    "section": "What I Do",
-    "text": "What I Do\n\n\n\nFor Brands & Clients\n\nSocial media strategy – planning and executing content calendars that boost engagement and reach\n\nContent creation – producing on‑brand visuals, short‑form video, and copy for multiple platforms\n\nCampaign analysis – using platform insights and Google Analytics to refine tactics and report ROI\n\n\n\n\n\nFor Teams & Projects\n\nCross‑functional coordination – aligning creative, marketing, and operations teams on project timelines\n\nTool adoption – training teams on Adobe Creative Cloud, scheduling software, and CRM tools\n\nProcess documentation – building repeatable workflows that save time and reduce errors",
-    "crumbs": [
-      "Home"
-    ]
+    "objectID": "coursework.html#marketing-and-business",
+    "href": "coursework.html#marketing-and-business",
+    "title": "Coursework",
+    "section": "Marketing and Business",
+    "text": "Marketing and Business\n\n\n\nCode\nCourse\n\n\n\n\nIBM 3012\nPrinciples of Marketing Management\n\n\nIBM 3202\nMarket Analysis and Control\n\n\nIBM 3302\nMarketing Research\n\n\nIBM 4112\nConsumer Behavior"
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Aliyan Mousa",
-    "section": "About",
-    "text": "About\nI’m a results‑focused marketing professional with hands‑on experience in social media management, content creation, and retail operations.\nCurrently, I serve as a Marketing & E‑commerce Coordinator where I drive audience growth and conversion through organic and paid campaigns.\nI am pursuing a Bachelor of Business Administration (expected June 2026) from Cal Poly Pomona, and hold an Associate Degree in Business Administration from Chaffey College. This portfolio will continue to grow with coursework, Google Analytics exercises, marketing projects, and applied business work.\n\nFor Teams & Projects\n\nCross‑functional coordination – aligning creative, marketing, and operations teams on project timelines\n\nTool adoption – training teams on Adobe Creative Cloud, scheduling software, and CRM tools\n\nProcess documentation – building repeatable workflows that save time and reduce errors",
-    "crumbs": [
-      "Home"
-    ]
+    "objectID": "coursework.html#data-science-and-analytics",
+    "href": "coursework.html#data-science-and-analytics",
+    "title": "Coursework",
+    "section": "Data Science and Analytics",
+    "text": "Data Science and Analytics\n\n\n\nCode\nCourse\n\n\n\n\nIBM 3202\nData Visualization with R (ggplot2)\n\n\nIBM 3202\nData Wrangling with Tidyverse\n\n\nIBM 3202\nAdvanced Data Visualization\n\n\nIBM 3202\nR Programming & Functions\n\n\nIBM 3202\nGoogle Analytics & BigQuery"
   },
   {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "Aliyan Mousa",
-    "section": "Selected Work",
-    "text": "Selected Work\n\nSocial Media Campaign for [Brand Name]\nDesigned and executed a 6‑week Instagram campaign that increased reach by 150% and conversion rate by 22% using organic content and targeted ads.\n[Case study →]\n\n\nContent Production for [Client]\nProduced a series of 12 short‑form videos and accompanying graphics that generated 50k+ views and 2k+ shares across TikTok and Instagram.\n[View project →]\n\n\nSEO & Analytics Audit\nPerformed a full SEO audit and Google Analytics 4 setup for a small e‑commerce store, resulting in a 35% increase in organic traffic within 3 months.\n[Read report →]",
-    "crumbs": [
-      "Home"
-    ]
+    "objectID": "coursework.html#business-administration",
+    "href": "coursework.html#business-administration",
+    "title": "Coursework",
+    "section": "Business Administration",
+    "text": "Business Administration\n\n\n\nCode\nCourse\n\n\n\n\n—\nBusiness Administration (BBA Program)\n\n\n—\nAssociate of Business Administration"
   },
   {
-    "objectID": "index.html#recognition",
-    "href": "index.html#recognition",
-    "title": "Aliyan Mousa",
-    "section": "Recognition",
-    "text": "Recognition\n\nCurrent role – Marketing & E‑commerce Coordinator at [Company Name]\n\nEducation – BBA, Cal Poly Pomona (2026); AA, Chaffey College (2024)\n\nCertifications – Google Analytics (in progress), HubSpot Content Marketing, Meta Blueprint\n\nPortfolio growth areas – Coursework, Google Analytics, marketing projects, and applied business work",
-    "crumbs": [
-      "Home"
-    ]
+    "objectID": "coursework.html#full-course-list",
+    "href": "coursework.html#full-course-list",
+    "title": "Coursework",
+    "section": "Full Course List",
+    "text": "Full Course List\n\n\n\n\nArea\n\n\nDescription\n\n\n\n\n\n\nMarketing\n\n\nPrinciples of Marketing, Market Analysis, Marketing Research, Consumer Behavior\n\n\n\n\nData Science\n\n\nData Visualization, Data Wrangling, Advanced Viz, R Programming, Google Analytics\n\n\n\n\nBusiness\n\n\nBusiness Administration, E-commerce, Operations, Leadership\n\n\n\n\nAnalytics\n\n\nGoogle Analytics, BigQuery, Looker Studio, Campaign Measurement\n\n\n\n\nCreative\n\n\nAdobe Creative Cloud, Content Creation, Video Production"
+  },
+  {
+    "objectID": "data-viz.html",
+    "href": "data-viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This section documents data visualization coursework using R, ggplot2, and the Wooldridge attendance dataset. Topics include scatter plots, bar charts, boxplots, correlation heatmaps, and interactive Plotly charts."
+  },
+  {
+    "objectID": "data-viz.html#dataset-wooldridge-attendance",
+    "href": "data-viz.html#dataset-wooldridge-attendance",
+    "title": "Data Visualization",
+    "section": "Dataset: Wooldridge Attendance",
+    "text": "Dataset: Wooldridge Attendance\n\nlibrary(tidyverse)\nlibrary(wooldridge)\nlibrary(gt)\n\ndf &lt;- as_tibble(attend)\n\ndf %&gt;%\n  gt() %&gt;%\n  fmt_number(\n    columns = c(termGPA, priGPA),\n    decimals = 2\n  ) %&gt;%\n  fmt_percent(\n    columns = atndrte,\n    decimals = 1,\n    scale_values = FALSE\n  ) %&gt;%\n  cols_label(\n    frosh = \"Freshman\",\n    soph = \"Sophomore\",\n    termGPA = \"Term GPA\",\n    priGPA = \"Prior GPA\",\n    atndrte = \"Attendance Rate\"\n  ) %&gt;%\n  tab_style(\n    style = cell_text(weight = \"bold\", align = \"center\"),\n    locations = cells_column_labels(everything())\n  ) %&gt;%\n  tab_footnote(\n    footnote = \"680 observations on 11 variables.\",\n    locations = cells_title(groups = \"title\")\n  ) %&gt;%\n  tab_options(\n    table.border.top.style = \"solid\",\n    table.border.top.color = \"black\",\n    table.border.bottom.style = \"solid\",\n    table.border.bottom.color = \"black\",\n    column_labels.border.bottom.style = \"solid\",\n    column_labels.border.bottom.color = \"black\"\n  ) %&gt;%\n  opt_stylize(style = 6, color = \"blue\")\n\n\n\n\n\n\n\nattend\nTerm GPA\nPrior GPA\nACT\nfinal\nAttendance Rate\nhwrte\nFreshman\nSophomore\nmissed\nstndfnl\n\n\n\n\n27\n3.19\n2.64\n23\n28\n84.4%\n100.0\n0\n1\n5\n0.47268906\n\n\n22\n2.73\n3.52\n25\n26\n68.8%\n87.5\n0\n0\n10\n0.05252101\n\n\n30\n3.00\n2.46\n24\n30\n93.8%\n87.5\n0\n0\n2\n0.89285713\n\n\n31\n2.04\n2.61\n20\n27\n96.9%\n100.0\n0\n1\n1\n0.26260504\n\n\n32\n3.68\n3.32\n23\n34\n100.0%\n100.0\n0\n1\n0\n1.73319328\n\n\n29\n3.23\n2.93\n26\n25\n90.6%\n100.0\n0\n1\n3\n-0.15756303\n\n\n30\n1.54\n1.94\n21\n10\n93.8%\n75.0\n1\n0\n2\n-3.30882359\n\n\n26\n2.00\n2.12\n22\n34\n81.2%\n100.0\n0\n1\n6\n1.73319328\n\n\n24\n2.25\n2.06\n24\n26\n75.0%\n100.0\n1\n0\n8\n0.05252101\n\n\n29\n3.00\n2.73\n21\n26\n90.6%\n100.0\n0\n1\n3\n0.05252101\n\n\n30\n3.21\n2.29\n16\n27\n93.8%\n100.0\n0\n0\n2\n0.26260504\n\n\n19\n2.05\n2.29\n24\n22\n59.4%\n50.0\n1\n0\n13\n-0.78781515\n\n\n19\n2.13\n2.64\n24\n27\n59.4%\n75.0\n0\n0\n13\n0.26260504\n\n\n29\n3.58\n3.39\n27\n33\n90.6%\n100.0\n0\n1\n3\n1.52310920\n\n\n29\n2.50\n2.76\n25\n29\n90.6%\n62.5\n0\n1\n3\n0.68277311\n\n\n30\n2.10\n2.33\n20\n23\n93.8%\n100.0\n1\n0\n2\n-0.57773107\n\n\n20\n1.27\n1.98\n22\n22\n62.5%\n75.0\n0\n1\n12\n-0.78781515\n\n\n32\n2.77\n2.29\n25\n21\n100.0%\n100.0\n0\n1\n0\n-0.99789917\n\n\n31\n3.15\n3.02\n18\n25\n96.9%\n100.0\n1\n0\n1\n-0.15756303\n\n\n29\n2.38\n2.33\n22\n22\n90.6%\n100.0\n0\n1\n3\n-0.78781515\n\n\n27\n1.77\n2.54\n21\n24\n84.4%\n75.0\n1\n0\n5\n-0.36764705\n\n\n25\n2.33\n2.39\n23\n27\n78.1%\n100.0\n0\n1\n7\n0.26260504\n\n\n31\n2.33\n2.43\n21\n19\n96.9%\n100.0\n0\n1\n1\n-1.41806722\n\n\n22\n3.88\n3.88\n28\n33\n68.8%\n75.0\n0\n1\n10\n1.52310920\n\n\n27\n3.29\n2.58\n26\n33\n84.4%\n87.5\n0\n0\n5\n1.52310920\n\n\n29\n3.80\n3.36\n29\n31\n90.6%\n100.0\n0\n1\n3\n1.10294116\n\n\n32\n3.50\n3.02\n28\n32\n100.0%\n100.0\n0\n0\n0\n1.31302524\n\n\n25\n2.14\n2.12\n16\n22\n78.1%\n100.0\n0\n1\n7\n-0.78781515\n\n\n30\n2.88\n2.37\n23\n30\n93.8%\n75.0\n1\n0\n2\n0.89285713\n\n\n25\n3.27\n2.93\n22\n27\n78.1%\n100.0\n0\n1\n7\n0.26260504\n\n\n27\n3.29\n2.02\n28\n30\n84.4%\n87.5\n1\n0\n5\n0.89285713\n\n\n27\n2.56\n2.78\n21\n26\n84.4%\n100.0\n0\n0\n5\n0.05252101\n\n\n23\n3.25\n2.85\n29\n25\n71.9%\n62.5\n0\n0\n9\n-0.15756303\n\n\n32\n2.71\n2.28\n22\n28\n100.0%\n100.0\n0\n1\n0\n0.47268906\n\n\n31\n2.86\n3.46\n16\n27\n96.9%\n100.0\n0\n1\n1\n0.26260504\n\n\n25\n2.50\n2.63\n25\n23\n78.1%\n100.0\n0\n1\n7\n-0.57773107\n\n\n18\n2.15\n2.19\n22\n32\n56.2%\n62.5\n0\n1\n14\n1.31302524\n\n\n32\n3.50\n3.57\n21\n32\n100.0%\n87.5\n0\n1\n0\n1.31302524\n\n\n31\n2.16\n1.98\n18\n26\n96.9%\n100.0\n1\n0\n1\n0.05252101\n\n\n24\n2.40\n3.05\n26\n19\n75.0%\n25.0\n0\n1\n8\n-1.41806722\n\n\n31\n3.54\n3.45\n25\n31\n96.9%\n100.0\n0\n1\n1\n1.10294116\n\n\n31\n3.65\n2.63\n23\n31\n96.9%\n100.0\n0\n1\n1\n1.10294116\n\n\n32\n2.50\n2.62\n24\n19\n100.0%\n100.0\n0\n0\n0\n-1.41806722\n\n\n25\n2.12\n2.13\n18\n24\n78.1%\n87.5\n0\n1\n7\n-0.36764705\n\n\n31\n2.50\n2.42\n18\n26\n96.9%\n100.0\n0\n1\n1\n0.05252101\n\n\n32\n3.81\n3.43\n29\n34\n100.0%\n100.0\n0\n1\n0\n1.73319328\n\n\n30\n3.10\n2.35\n21\n19\n93.8%\n50.0\n1\n0\n2\n-1.41806722\n\n\n30\n3.14\n3.61\n26\n24\n93.8%\n100.0\n0\n1\n2\n-0.36764705\n\n\n30\n3.00\n2.86\n24\n29\n93.8%\n87.5\n0\n1\n2\n0.68277311\n\n\n10\n1.21\n2.05\n30\n29\n31.2%\nNA\n1\n0\n22\n0.68277311\n\n\n19\n2.18\n2.95\n29\n23\n59.4%\n87.5\n0\n1\n13\n-0.57773107\n\n\n30\n2.81\n2.41\n19\n20\n93.8%\n87.5\n0\n1\n2\n-1.20798314\n\n\n17\n2.10\n2.32\n23\n27\n53.1%\n100.0\n0\n1\n15\n0.26260504\n\n\n27\n2.07\n2.30\n21\n25\n84.4%\n87.5\n0\n1\n5\n-0.15756303\n\n\n27\n1.36\n1.79\n21\n22\n84.4%\n62.5\n1\n0\n5\n-0.78781515\n\n\n27\n3.00\n2.30\n21\n30\n84.4%\n87.5\n0\n1\n5\n0.89285713\n\n\n28\n1.96\n2.48\n20\n21\n87.5%\n100.0\n0\n1\n4\n-0.99789917\n\n\n30\n2.86\n2.87\n22\n35\n93.8%\n100.0\n1\n0\n2\n1.94327736\n\n\n30\n2.61\n2.02\n25\n24\n93.8%\n87.5\n1\n0\n2\n-0.36764705\n\n\n30\n2.71\n2.66\n21\n23\n93.8%\n87.5\n0\n1\n2\n-0.57773107\n\n\n31\n2.89\n2.81\n25\n23\n96.9%\n100.0\n0\n1\n1\n-0.57773107\n\n\n26\n2.86\n2.34\n21\n28\n81.2%\n100.0\n0\n0\n6\n0.47268906\n\n\n25\n2.35\n2.53\n27\n31\n78.1%\n50.0\n0\n1\n7\n1.10294116\n\n\n24\n2.64\n2.09\n19\n21\n75.0%\n100.0\n0\n1\n8\n-0.99789917\n\n\n19\n3.29\n2.67\n21\n35\n59.4%\n87.5\n0\n1\n13\n1.94327736\n\n\n22\n1.54\n1.90\n25\n18\n68.8%\n87.5\n0\n1\n10\n-1.62815130\n\n\n28\n3.32\n2.80\n21\n21\n87.5%\n100.0\n1\n0\n4\n-0.99789917\n\n\n32\n4.00\n3.93\n25\n35\n100.0%\n100.0\n0\n1\n0\n1.94327736\n\n\n29\n2.63\n2.55\n26\n25\n90.6%\n100.0\n0\n1\n3\n-0.15756303\n\n\n19\n2.38\n2.17\n21\n22\n59.4%\n75.0\n1\n0\n13\n-0.78781515\n\n\n20\n1.30\n1.58\n18\n21\n62.5%\n62.5\n0\n1\n12\n-0.99789917\n\n\n29\n2.76\n2.12\n20\n29\n90.6%\n100.0\n1\n0\n3\n0.68277311\n\n\n26\n2.33\n2.20\n14\n20\n81.2%\n75.0\n0\n0\n6\n-1.20798314\n\n\n26\n2.64\n2.02\n27\n29\n81.2%\n12.5\n1\n0\n6\n0.68277311\n\n\n23\n2.31\n3.45\n23\n25\n71.9%\n62.5\n0\n1\n9\n-0.15756303\n\n\n27\n2.23\n1.96\n20\n20\n84.4%\n62.5\n0\n1\n5\n-1.20798314\n\n\n31\n2.31\n2.78\n23\n24\n96.9%\n100.0\n0\n1\n1\n-0.36764705\n\n\n31\n3.88\n3.59\n27\n35\n96.9%\n87.5\n0\n0\n1\n1.94327736\n\n\n29\n2.38\n2.00\n15\n19\n90.6%\n100.0\n1\n0\n3\n-1.41806722\n\n\n31\n3.22\n3.59\n27\n25\n96.9%\n100.0\n0\n1\n1\n-0.15756303\n\n\n24\n2.26\n2.04\n25\n28\n75.0%\n100.0\n0\n0\n8\n0.47268906\n\n\n25\n0.75\n2.12\n20\n22\n78.1%\n62.5\n0\n1\n7\n-0.78781515\n\n\n30\n2.85\n3.35\n20\n28\n93.8%\n75.0\n0\n1\n2\n0.47268906\n\n\n32\n1.65\n2.41\n19\n25\n100.0%\n62.5\n1\n0\n0\n-0.15756303\n\n\n30\n2.92\n2.56\n16\n20\n93.8%\n100.0\n0\n1\n2\n-1.20798314\n\n\n23\n2.50\n2.36\n20\n26\n71.9%\n75.0\n0\n1\n9\n0.05252101\n\n\n24\n2.14\n2.59\n25\n25\n75.0%\n62.5\n0\n1\n8\n-0.15756303\n\n\n32\n3.22\n3.17\n25\n28\n100.0%\n75.0\n0\n1\n0\n0.47268906\n\n\n20\n2.39\n2.61\n19\n23\n62.5%\n75.0\n0\n1\n12\n-0.57773107\n\n\n26\n3.15\n2.95\n18\n27\n81.2%\n100.0\n0\n1\n6\n0.26260504\n\n\n27\n1.75\n2.20\n20\n26\n84.4%\n87.5\n0\n1\n5\n0.05252101\n\n\n24\n1.75\n2.52\n28\n25\n75.0%\n75.0\n0\n0\n8\n-0.15756303\n\n\n30\n2.81\n2.55\n22\n25\n93.8%\n100.0\n0\n1\n2\n-0.15756303\n\n\n31\n3.05\n2.90\n25\n27\n96.9%\n100.0\n0\n1\n1\n0.26260504\n\n\n23\n2.27\n2.53\n26\n21\n71.9%\n75.0\n0\n1\n9\n-0.99789917\n\n\n25\n2.92\n2.27\n19\n28\n78.1%\n100.0\n0\n1\n7\n0.47268906\n\n\n29\n2.50\n2.71\n23\n26\n90.6%\n87.5\n0\n1\n3\n0.05252101\n\n\n28\n3.71\n2.00\n26\n34\n87.5%\n100.0\n1\n0\n4\n1.73319328\n\n\n20\n1.50\n2.29\n21\n21\n62.5%\n37.5\n0\n0\n12\n-0.99789917\n\n\n31\n2.11\n1.96\n24\n22\n96.9%\n100.0\n0\n1\n1\n-0.78781515\n\n\n31\n3.28\n2.46\n18\n34\n96.9%\n100.0\n0\n0\n1\n1.73319328\n\n\n23\n1.60\n2.18\n20\n27\n71.9%\n100.0\n0\n1\n9\n0.26260504\n\n\n25\n3.33\n3.05\n23\n30\n78.1%\n100.0\n0\n1\n7\n0.89285713\n\n\n28\n2.04\n2.47\n22\n23\n87.5%\n100.0\n1\n0\n4\n-0.57773107\n\n\n29\n2.86\n2.76\n25\n27\n90.6%\n100.0\n0\n1\n3\n0.26260504\n\n\n17\n0.82\n1.75\n17\n22\n53.1%\n12.5\n1\n0\n15\n-0.78781515\n\n\n28\n2.46\n2.74\n21\n30\n87.5%\n87.5\n0\n1\n4\n0.89285713\n\n\n32\n4.00\n3.07\n19\n35\n100.0%\n100.0\n0\n1\n0\n1.94327736\n\n\n20\n1.36\n1.91\n22\n21\n62.5%\n75.0\n0\n0\n12\n-0.99789917\n\n\n2\n0.00\n2.25\n25\n20\n6.2%\n37.5\n0\n1\n30\n-1.20798314\n\n\n21\n1.83\n2.03\n17\n22\n65.6%\n50.0\n0\n0\n11\n-0.78781515\n\n\n28\n3.75\n3.06\n30\n33\n87.5%\n100.0\n0\n0\n4\n1.52310920\n\n\n26\n1.65\n2.26\n17\n30\n81.2%\n75.0\n1\n0\n6\n0.89285713\n\n\n24\n3.00\n3.19\n28\n20\n75.0%\n100.0\n0\n1\n8\n-1.20798314\n\n\n31\n2.67\n2.57\n20\n20\n96.9%\n100.0\n0\n1\n1\n-1.20798314\n\n\n29\n2.87\n2.74\n17\n30\n90.6%\n100.0\n0\n0\n3\n0.89285713\n\n\n21\n2.31\n2.17\n22\n23\n65.6%\n100.0\n1\n0\n11\n-0.57773107\n\n\n24\n2.63\n3.30\n26\n25\n75.0%\n100.0\n0\n1\n8\n-0.15756303\n\n\n20\n1.83\n2.53\n27\n27\n62.5%\n62.5\n0\n1\n12\n0.26260504\n\n\n30\n2.00\n2.07\n23\n19\n93.8%\n87.5\n0\n1\n2\n-1.41806722\n\n\n31\n3.59\n3.25\n25\n30\n96.9%\n100.0\n0\n1\n1\n0.89285713\n\n\n32\n2.88\n2.82\n23\n19\n100.0%\n100.0\n0\n1\n0\n-1.41806722\n\n\n23\n1.93\n2.45\n20\n31\n71.9%\n87.5\n0\n1\n9\n1.10294116\n\n\n30\n2.70\n3.02\n20\n28\n93.8%\n100.0\n0\n1\n2\n0.47268906\n\n\n28\n2.69\n2.84\n23\n21\n87.5%\n87.5\n0\n1\n4\n-0.99789917\n\n\n25\n3.38\n3.39\n23\n25\n78.1%\n87.5\n0\n1\n7\n-0.15756303\n\n\n28\n2.50\n0.86\n18\n30\n87.5%\n100.0\n0\n1\n4\n0.89285713\n\n\n24\n3.53\n2.31\n32\n32\n75.0%\n100.0\n0\n0\n8\n1.31302524\n\n\n26\n2.15\n2.96\n16\n20\n81.2%\n100.0\n0\n1\n6\n-1.20798314\n\n\n25\n2.68\n2.38\n21\n23\n78.1%\n100.0\n1\n0\n7\n-0.57773107\n\n\n27\n2.71\n2.15\n20\n24\n84.4%\n100.0\n0\n1\n5\n-0.36764705\n\n\n23\n2.62\n1.90\n23\n29\n71.9%\n100.0\n1\n0\n9\n0.68277311\n\n\n29\n2.19\n1.80\n19\n19\n90.6%\n87.5\n1\n0\n3\n-1.41806722\n\n\n22\n2.68\n1.74\n21\n29\n68.8%\n100.0\n0\n1\n10\n0.68277311\n\n\n28\n2.75\n2.22\n21\n26\n87.5%\n62.5\n0\n1\n4\n0.05252101\n\n\n25\n1.60\n2.49\n21\n19\n78.1%\n50.0\n0\n0\n7\n-1.41806722\n\n\n25\n2.38\n2.92\n20\n20\n78.1%\n100.0\n0\n0\n7\n-1.20798314\n\n\n27\n2.30\n1.98\n22\n27\n84.4%\n87.5\n0\n0\n5\n0.26260504\n\n\n23\n3.36\n1.83\n17\n30\n71.9%\n100.0\n1\n0\n9\n0.89285713\n\n\n32\n3.25\n3.28\n21\n26\n100.0%\n100.0\n0\n1\n0\n0.05252101\n\n\n27\n1.50\n1.98\n16\n23\n84.4%\n62.5\n1\n0\n5\n-0.57773107\n\n\n31\n2.96\n3.02\n19\n25\n96.9%\n87.5\n0\n1\n1\n-0.15756303\n\n\n25\n3.10\n2.87\n26\n20\n78.1%\n62.5\n0\n1\n7\n-1.20798314\n\n\n26\n2.04\n2.75\n19\n26\n81.2%\n100.0\n0\n1\n6\n0.05252101\n\n\n29\n3.21\n3.45\n30\n31\n90.6%\n100.0\n0\n1\n3\n1.10294116\n\n\n28\n3.12\n3.21\n24\n22\n87.5%\n100.0\n0\n1\n4\n-0.78781515\n\n\n30\n1.50\n2.43\n18\n32\n93.8%\n100.0\n0\n0\n2\n1.31302524\n\n\n29\n1.96\n2.56\n23\n16\n90.6%\n75.0\n1\n0\n3\n-2.04831934\n\n\n29\n3.34\n3.42\n22\n24\n90.6%\n100.0\n0\n1\n3\n-0.36764705\n\n\n28\n2.90\n2.43\n21\n22\n87.5%\n100.0\n0\n1\n4\n-0.78781515\n\n\n32\n3.65\n3.49\n23\n31\n100.0%\n100.0\n0\n0\n0\n1.10294116\n\n\n25\n3.03\n2.34\n22\n25\n78.1%\n75.0\n0\n1\n7\n-0.15756303\n\n\n28\n2.68\n2.48\n28\n27\n87.5%\n62.5\n1\n0\n4\n0.26260504\n\n\n28\n2.43\n3.21\n23\n26\n87.5%\n75.0\n1\n0\n4\n0.05252101\n\n\n24\n1.50\n2.10\n17\n24\n75.0%\n100.0\n0\n1\n8\n-0.36764705\n\n\n29\n2.97\n2.82\n25\n28\n90.6%\n100.0\n0\n1\n3\n0.47268906\n\n\n30\n3.71\n3.22\n27\n37\n93.8%\n87.5\n0\n1\n2\n2.36344528\n\n\n29\n2.27\n2.10\n19\n21\n90.6%\n100.0\n0\n1\n3\n-0.99789917\n\n\n28\n2.68\n1.67\n22\n31\n87.5%\n87.5\n1\n0\n4\n1.10294116\n\n\n25\n3.63\n3.64\n26\n32\n78.1%\n100.0\n0\n1\n7\n1.31302524\n\n\n30\n2.59\n2.45\n25\n29\n93.8%\n100.0\n0\n1\n2\n0.68277311\n\n\n32\n2.77\n2.53\n20\n29\n100.0%\n100.0\n0\n0\n0\n0.68277311\n\n\n29\n3.30\n2.39\n16\n27\n90.6%\n100.0\n1\n0\n3\n0.26260504\n\n\n28\n2.13\n2.63\n20\n23\n87.5%\n87.5\n1\n0\n4\n-0.57773107\n\n\n24\n2.35\n2.54\n24\n30\n75.0%\n87.5\n0\n0\n8\n0.89285713\n\n\n26\n3.46\n3.54\n27\n29\n81.2%\n100.0\n0\n1\n6\n0.68277311\n\n\n3\n2.08\n1.85\n22\n23\n9.4%\n87.5\n0\n1\n29\n-0.57773107\n\n\n15\n3.05\n2.44\n24\n32\n46.9%\n75.0\n0\n0\n17\n1.31302524\n\n\n31\n3.55\n3.31\n22\n28\n96.9%\n100.0\n0\n1\n1\n0.47268906\n\n\n25\n2.13\n2.35\n20\n30\n78.1%\n50.0\n0\n1\n7\n0.89285713\n\n\n27\n2.38\n2.22\n20\n22\n84.4%\n100.0\n0\n0\n5\n-0.78781515\n\n\n27\n3.73\n3.20\n25\n37\n84.4%\n100.0\n0\n0\n5\n2.36344528\n\n\n27\n2.13\n2.58\n21\n17\n84.4%\n100.0\n0\n1\n5\n-1.83823526\n\n\n29\n3.71\n3.61\n26\n31\n90.6%\n100.0\n0\n1\n3\n1.10294116\n\n\n32\n2.55\n2.46\n18\n24\n100.0%\n75.0\n1\n0\n0\n-0.36764705\n\n\n23\n3.13\n3.34\n28\n26\n71.9%\n100.0\n0\n0\n9\n0.05252101\n\n\n32\n3.19\n3.13\n17\n23\n100.0%\n87.5\n1\n0\n0\n-0.57773107\n\n\n28\n2.59\n2.79\n26\n28\n87.5%\n100.0\n0\n1\n4\n0.47268906\n\n\n31\n2.79\n2.36\n23\n27\n96.9%\n100.0\n1\n0\n1\n0.26260504\n\n\n25\n3.00\n3.29\n28\n30\n78.1%\n100.0\n0\n1\n7\n0.89285713\n\n\n30\n2.75\n2.37\n20\n24\n93.8%\n87.5\n1\n0\n2\n-0.36764705\n\n\n24\n3.25\n3.57\n29\n30\n75.0%\n100.0\n0\n1\n8\n0.89285713\n\n\n22\n0.70\n2.07\n28\n28\n68.8%\n12.5\n1\n0\n10\n0.47268906\n\n\n31\n3.21\n3.20\n27\n30\n96.9%\n100.0\n1\n0\n1\n0.89285713\n\n\n16\n1.81\n1.98\n23\n25\n50.0%\nNA\n1\n0\n16\n-0.15756303\n\n\n28\n3.21\n2.80\n22\n22\n87.5%\n100.0\n0\n1\n4\n-0.78781515\n\n\n31\n3.00\n2.98\n18\n22\n96.9%\n100.0\n0\n1\n1\n-0.78781515\n\n\n21\n1.85\n2.85\n22\n21\n65.6%\n75.0\n0\n0\n11\n-0.99789917\n\n\n9\n2.00\n1.95\n20\n26\n28.1%\n37.5\n1\n0\n23\n0.05252101\n\n\n24\n1.35\n1.89\n21\n22\n75.0%\n75.0\n1\n0\n8\n-0.78781515\n\n\n31\n3.04\n3.29\n19\n32\n96.9%\n100.0\n1\n0\n1\n1.31302524\n\n\n28\n3.18\n2.76\n25\n26\n87.5%\n100.0\n1\n0\n4\n0.05252101\n\n\n26\n3.36\n1.78\n23\n34\n81.2%\n100.0\n0\n1\n6\n1.73319328\n\n\n31\n3.00\n2.89\n20\n26\n96.9%\n100.0\n0\n1\n1\n0.05252101\n\n\n20\n2.88\n1.95\n25\n26\n62.5%\n87.5\n0\n1\n12\n0.05252101\n\n\n23\n3.04\n2.48\n27\n30\n71.9%\n100.0\n0\n1\n9\n0.89285713\n\n\n29\n2.73\n2.30\n16\n24\n90.6%\n100.0\n1\n0\n3\n-0.36764705\n\n\n32\n2.78\n1.86\n21\n34\n100.0%\n87.5\n1\n0\n0\n1.73319328\n\n\n32\n2.96\n2.70\n24\n30\n100.0%\n87.5\n0\n1\n0\n0.89285713\n\n\n29\n2.25\n2.28\n15\n26\n90.6%\n87.5\n1\n0\n3\n0.05252101\n\n\n28\n2.11\n2.69\n19\n19\n87.5%\n87.5\n0\n1\n4\n-1.41806722\n\n\n31\n3.27\n2.47\n25\n34\n96.9%\n100.0\n0\n0\n1\n1.73319328\n\n\n28\n2.23\n2.67\n19\n22\n87.5%\n100.0\n1\n0\n4\n-0.78781515\n\n\n31\n2.94\n2.40\n22\n22\n96.9%\n100.0\n1\n0\n1\n-0.78781515\n\n\n30\n4.00\n3.45\n30\n36\n93.8%\n100.0\n0\n0\n2\n2.15336132\n\n\n27\n2.32\n2.35\n21\n27\n84.4%\n87.5\n1\n0\n5\n0.26260504\n\n\n25\n3.41\n2.92\n23\n24\n78.1%\n100.0\n0\n0\n7\n-0.36764705\n\n\n27\n2.29\n2.73\n18\n26\n84.4%\n100.0\n0\n1\n5\n0.05252101\n\n\n25\n1.54\n2.68\n19\n22\n78.1%\n87.5\n0\n1\n7\n-0.78781515\n\n\n32\n3.56\n3.52\n23\n31\n100.0%\n100.0\n0\n1\n0\n1.10294116\n\n\n10\n1.00\n1.41\n23\n20\n31.2%\n12.5\n1\n0\n22\n-1.20798314\n\n\n25\n2.94\n2.94\n20\n30\n78.1%\n100.0\n0\n0\n7\n0.89285713\n\n\n31\n3.14\n3.32\n23\n22\n96.9%\n100.0\n0\n1\n1\n-0.78781515\n\n\n29\n2.75\n2.91\n19\n22\n90.6%\n75.0\n0\n1\n3\n-0.78781515\n\n\n27\n2.23\n2.13\n24\n26\n84.4%\n100.0\n1\n0\n5\n0.05252101\n\n\n30\n3.80\n3.11\n24\n29\n93.8%\n100.0\n0\n1\n2\n0.68277311\n\n\n32\n3.54\n2.94\n16\n22\n100.0%\n100.0\n1\n0\n0\n-0.78781515\n\n\n31\n3.75\n3.53\n26\n31\n96.9%\n100.0\n0\n1\n1\n1.10294116\n\n\n32\n3.50\n2.83\n22\n27\n100.0%\n100.0\n0\n1\n0\n0.26260504\n\n\n29\n2.62\n2.66\n26\n23\n90.6%\n87.5\n0\n1\n3\n-0.57773107\n\n\n24\n1.76\n2.12\n23\n26\n75.0%\n50.0\n0\n1\n8\n0.05252101\n\n\n21\n2.36\n2.20\n19\n22\n65.6%\n87.5\n0\n1\n11\n-0.78781515\n\n\n21\n2.46\n2.25\n26\n24\n65.6%\n100.0\n1\n0\n11\n-0.36764705\n\n\n32\n3.73\n3.22\n28\n32\n100.0%\n100.0\n0\n1\n0\n1.31302524\n\n\n28\n3.23\n2.95\n21\n26\n87.5%\n100.0\n0\n1\n4\n0.05252101\n\n\n32\n2.61\n2.66\n17\n31\n100.0%\n87.5\n0\n1\n0\n1.10294116\n\n\n28\n2.63\n2.41\n20\n25\n87.5%\n100.0\n0\n1\n4\n-0.15756303\n\n\n28\n3.08\n2.59\n19\n27\n87.5%\n100.0\n0\n1\n4\n0.26260504\n\n\n30\n1.38\n2.55\n19\n17\n93.8%\n100.0\n0\n1\n2\n-1.83823526\n\n\n30\n3.54\n3.48\n28\n29\n93.8%\n100.0\n0\n1\n2\n0.68277311\n\n\n28\n3.15\n2.91\n23\n26\n87.5%\n87.5\n1\n0\n4\n0.05252101\n\n\n29\n2.21\n2.28\n18\n26\n90.6%\n100.0\n0\n1\n3\n0.05252101\n\n\n17\n2.18\n2.49\n30\n24\n53.1%\n62.5\n0\n0\n15\n-0.36764705\n\n\n32\n3.10\n2.94\n23\n25\n100.0%\n100.0\n0\n0\n0\n-0.15756303\n\n\n26\n2.62\n3.11\n27\n24\n81.2%\n100.0\n0\n1\n6\n-0.36764705\n\n\n31\n2.40\n2.69\n23\n28\n96.9%\n100.0\n1\n0\n1\n0.47268906\n\n\n30\n3.60\n3.36\n28\n21\n93.8%\n100.0\n0\n1\n2\n-0.99789917\n\n\n26\n2.04\n2.12\n22\n32\n81.2%\n100.0\n0\n1\n6\n1.31302524\n\n\n29\n3.12\n2.41\n23\n28\n90.6%\n100.0\n0\n0\n3\n0.47268906\n\n\n28\n3.19\n2.30\n19\n22\n87.5%\n100.0\n0\n1\n4\n-0.78781515\n\n\n25\n1.97\n2.07\n24\n24\n78.1%\n100.0\n0\n1\n7\n-0.36764705\n\n\n32\n3.00\n3.18\n25\n33\n100.0%\n100.0\n0\n1\n0\n1.52310920\n\n\n31\n3.36\n2.62\n27\n28\n96.9%\n100.0\n1\n0\n1\n0.47268906\n\n\n24\n1.79\n1.74\n24\n25\n75.0%\n100.0\n1\n0\n8\n-0.15756303\n\n\n27\n2.97\n3.15\n28\n27\n84.4%\n100.0\n0\n1\n5\n0.26260504\n\n\n23\n2.67\n2.31\n22\n27\n71.9%\n87.5\n0\n1\n9\n0.26260504\n\n\n29\n3.16\n2.84\n20\n26\n90.6%\n87.5\n0\n1\n3\n0.05252101\n\n\n26\n2.50\n2.07\n23\n22\n81.2%\n75.0\n0\n1\n6\n-0.78781515\n\n\n22\n1.71\n2.13\n20\n21\n68.8%\n87.5\n0\n1\n10\n-0.99789917\n\n\n29\n2.73\n2.55\n24\n27\n90.6%\n100.0\n0\n1\n3\n0.26260504\n\n\n29\n3.58\n2.79\n28\n30\n90.6%\n100.0\n0\n0\n3\n0.89285713\n\n\n27\n2.21\n2.39\n20\n26\n84.4%\n100.0\n0\n1\n5\n0.05252101\n\n\n18\n1.75\n2.19\n22\n21\n56.2%\n62.5\n0\n1\n14\n-0.99789917\n\n\n27\n2.11\n2.14\n20\n23\n84.4%\n100.0\n0\n1\n5\n-0.57773107\n\n\n29\n4.00\n3.84\n28\n37\n90.6%\n87.5\n0\n1\n3\n2.36344528\n\n\n23\n3.14\n3.21\n22\n24\n71.9%\n87.5\n0\n1\n9\n-0.36764705\n\n\n25\n2.92\n2.68\n20\n27\n78.1%\n75.0\n0\n1\n7\n0.26260504\n\n\n28\n2.29\n2.46\n19\n19\n87.5%\n100.0\n0\n1\n4\n-1.41806722\n\n\n30\n2.96\n2.34\n24\n25\n93.8%\n100.0\n0\n1\n2\n-0.15756303\n\n\n24\n2.07\n2.62\n25\n21\n75.0%\n100.0\n1\n0\n8\n-0.99789917\n\n\n30\n1.80\n2.61\n20\n30\n93.8%\n100.0\n0\n0\n2\n0.89285713\n\n\n32\n3.73\n3.81\n32\n38\n100.0%\n87.5\n0\n1\n0\n2.57352948\n\n\n28\n2.31\n2.42\n18\n19\n87.5%\n100.0\n1\n0\n4\n-1.41806722\n\n\n29\n2.39\n2.45\n20\n25\n90.6%\n100.0\n0\n1\n3\n-0.15756303\n\n\n25\n2.96\n2.93\n28\n35\n78.1%\n100.0\n0\n1\n7\n1.94327736\n\n\n31\n3.62\n3.48\n24\n32\n96.9%\n100.0\n0\n1\n1\n1.31302524\n\n\n31\n3.12\n2.96\n22\n29\n96.9%\n100.0\n0\n1\n1\n0.68277311\n\n\n30\n2.31\n2.36\n19\n30\n93.8%\n100.0\n0\n1\n2\n0.89285713\n\n\n23\n1.71\n2.89\n24\n22\n71.9%\n100.0\n0\n1\n9\n-0.78781515\n\n\n31\n2.69\n3.02\n26\n29\n96.9%\n75.0\n0\n0\n1\n0.68277311\n\n\n32\n2.43\n2.59\n16\n21\n100.0%\n87.5\n0\n1\n0\n-0.99789917\n\n\n32\n2.55\n2.57\n15\n20\n100.0%\n100.0\n1\n0\n0\n-1.20798314\n\n\n30\n2.77\n2.53\n24\n29\n93.8%\n100.0\n0\n1\n2\n0.68277311\n\n\n28\n3.40\n3.66\n29\n26\n87.5%\n100.0\n0\n1\n4\n0.05252101\n\n\n26\n2.50\n2.10\n17\n21\n81.2%\n87.5\n0\n0\n6\n-0.99789917\n\n\n24\n3.00\n1.81\n22\n30\n75.0%\n75.0\n0\n1\n8\n0.89285713\n\n\n28\n2.25\n2.39\n16\n19\n87.5%\n100.0\n0\n0\n4\n-1.41806722\n\n\n15\n2.50\n2.03\n26\n24\n46.9%\n50.0\n0\n1\n17\n-0.36764705\n\n\n28\n2.05\n2.59\n22\n24\n87.5%\n87.5\n0\n1\n4\n-0.36764705\n\n\n29\n1.38\n1.92\n16\n16\n90.6%\n100.0\n1\n0\n3\n-2.04831934\n\n\n27\n2.73\n1.85\n23\n25\n84.4%\n87.5\n1\n0\n5\n-0.15756303\n\n\n28\n3.30\n3.54\n26\n33\n87.5%\n25.0\n0\n0\n4\n1.52310920\n\n\n31\n2.79\n2.57\n19\n31\n96.9%\n100.0\n0\n1\n1\n1.10294116\n\n\n29\n3.31\n3.27\n26\n27\n90.6%\n100.0\n0\n1\n3\n0.26260504\n\n\n30\n1.79\n2.44\n20\n14\n93.8%\n75.0\n0\n1\n2\n-2.46848750\n\n\n24\n2.97\n2.37\n22\n31\n75.0%\n100.0\n1\n0\n8\n1.10294116\n\n\n31\n2.13\n2.63\n19\n14\n96.9%\n100.0\n0\n0\n1\n-2.46848750\n\n\n28\n3.04\n2.68\n25\n24\n87.5%\n100.0\n0\n0\n4\n-0.36764705\n\n\n21\n2.04\n2.50\n18\n23\n65.6%\n87.5\n1\n0\n11\n-0.57773107\n\n\n26\n2.75\n2.95\n21\n25\n81.2%\n100.0\n0\n1\n6\n-0.15756303\n\n\n32\n3.40\n3.16\n25\n29\n100.0%\n100.0\n0\n1\n0\n0.68277311\n\n\n32\n2.82\n3.13\n22\n19\n100.0%\n100.0\n0\n1\n0\n-1.41806722\n\n\n21\n0.55\n1.98\n18\n23\n65.6%\n37.5\n1\n0\n11\n-0.57773107\n\n\n9\n1.43\n2.03\n28\n25\n28.1%\n37.5\n0\n1\n23\n-0.15756303\n\n\n26\n2.15\n1.93\n16\n27\n81.2%\n87.5\n1\n0\n6\n0.26260504\n\n\n24\n2.54\n1.88\n23\n24\n75.0%\n75.0\n1\n0\n8\n-0.36764705\n\n\n26\n2.50\n2.86\n23\n25\n81.2%\n100.0\n0\n1\n6\n-0.15756303\n\n\n31\n2.38\n2.30\n17\n25\n96.9%\n100.0\n0\n1\n1\n-0.15756303\n\n\n27\n1.67\n2.19\n13\n15\n84.4%\n87.5\n0\n1\n5\n-2.25840330\n\n\n28\n3.21\n2.54\n23\n25\n87.5%\n100.0\n1\n0\n4\n-0.15756303\n\n\n32\n2.75\n2.94\n22\n24\n100.0%\n100.0\n0\n1\n0\n-0.36764705\n\n\n25\n2.50\n2.93\n25\n29\n78.1%\n87.5\n0\n1\n7\n0.68277311\n\n\n26\n2.90\n2.60\n19\n24\n81.2%\n100.0\n1\n0\n6\n-0.36764705\n\n\n27\n2.65\n3.26\n20\n29\n84.4%\n50.0\n0\n0\n5\n0.68277311\n\n\n32\n3.43\n3.29\n20\n22\n100.0%\n100.0\n0\n1\n0\n-0.78781515\n\n\n21\n2.85\n2.19\n24\n31\n65.6%\n75.0\n1\n0\n11\n1.10294116\n\n\n32\n3.21\n3.02\n27\n18\n100.0%\n100.0\n0\n1\n0\n-1.62815130\n\n\n25\n2.25\n2.09\n20\n25\n78.1%\n100.0\n0\n1\n7\n-0.15756303\n\n\n28\n2.44\n2.11\n24\n22\n87.5%\n100.0\n0\n0\n4\n-0.78781515\n\n\n24\n2.77\n2.83\n24\n32\n75.0%\n100.0\n0\n1\n8\n1.31302524\n\n\n23\n3.40\n2.35\n21\n27\n71.9%\n100.0\n0\n0\n9\n0.26260504\n\n\n31\n3.46\n2.38\n23\n30\n96.9%\n100.0\n0\n1\n1\n0.89285713\n\n\n32\n3.34\n3.14\n25\n27\n100.0%\n100.0\n0\n1\n0\n0.26260504\n\n\n29\n2.43\n2.48\n22\n22\n90.6%\n75.0\n0\n1\n3\n-0.78781515\n\n\n29\n2.71\n2.52\n21\n22\n90.6%\n62.5\n1\n0\n3\n-0.78781515\n\n\n31\n2.11\n2.76\n24\n26\n96.9%\n100.0\n0\n1\n1\n0.05252101\n\n\n29\n4.00\n3.70\n24\n39\n90.6%\n100.0\n0\n0\n3\n2.78361344\n\n\n24\n2.10\n2.08\n22\n30\n75.0%\n100.0\n0\n1\n8\n0.89285713\n\n\n17\n2.38\n2.39\n22\n24\n53.1%\n62.5\n0\n1\n15\n-0.36764705\n\n\n29\n2.12\n2.46\n21\n18\n90.6%\n100.0\n0\n1\n3\n-1.62815130\n\n\n31\n4.00\n3.70\n25\n35\n96.9%\n100.0\n0\n1\n1\n1.94327736\n\n\n27\n3.04\n1.99\n25\n26\n84.4%\n100.0\n0\n1\n5\n0.05252101\n\n\n20\n1.11\n2.58\n25\n28\n62.5%\n87.5\n0\n1\n12\n0.47268906\n\n\n31\n3.13\n2.67\n21\n30\n96.9%\n100.0\n0\n1\n1\n0.89285713\n\n\n27\n3.00\n1.91\n23\n29\n84.4%\n100.0\n1\n0\n5\n0.68277311\n\n\n17\n1.80\n1.96\n24\n25\n53.1%\nNA\n0\n1\n15\n-0.15756303\n\n\n17\n1.68\n2.15\n20\n24\n53.1%\n87.5\n0\n1\n15\n-0.36764705\n\n\n29\n3.00\n2.94\n22\n24\n90.6%\n100.0\n1\n0\n3\n-0.36764705\n\n\n27\n2.25\n2.11\n15\n25\n84.4%\n87.5\n0\n1\n5\n-0.15756303\n\n\n31\n3.25\n3.50\n25\n30\n96.9%\n100.0\n0\n1\n1\n0.89285713\n\n\n12\n1.14\n1.84\n22\n17\n37.5%\n37.5\n0\n1\n20\n-1.83823526\n\n\n27\n2.97\n3.10\n24\n25\n84.4%\n100.0\n0\n1\n5\n-0.15756303\n\n\n25\n1.89\n2.80\n23\n25\n78.1%\n100.0\n0\n1\n7\n-0.15756303\n\n\n27\n2.67\n1.76\n23\n26\n84.4%\n100.0\n1\n0\n5\n0.05252101\n\n\n26\n3.20\n2.97\n22\n29\n81.2%\n100.0\n0\n0\n6\n0.68277311\n\n\n27\n2.50\n2.37\n23\n23\n84.4%\n100.0\n1\n0\n5\n-0.57773107\n\n\n23\n1.79\n1.68\n21\n19\n71.9%\n100.0\n0\n1\n9\n-1.41806722\n\n\n25\n2.00\n2.27\n17\n22\n78.1%\n87.5\n0\n1\n7\n-0.78781515\n\n\n27\n3.62\n3.10\n28\n32\n84.4%\n87.5\n0\n1\n5\n1.31302524\n\n\n28\n2.50\n2.38\n16\n28\n87.5%\n87.5\n0\n0\n4\n0.47268906\n\n\n32\n3.05\n2.84\n15\n24\n100.0%\n100.0\n0\n1\n0\n-0.36764705\n\n\n28\n3.64\n3.69\n26\n31\n87.5%\n100.0\n0\n1\n4\n1.10294116\n\n\n26\n3.54\n3.37\n25\n31\n81.2%\n100.0\n0\n1\n6\n1.10294116\n\n\n23\n2.86\n2.17\n23\n28\n71.9%\n75.0\n1\n0\n9\n0.47268906\n\n\n32\n3.68\n3.60\n23\n31\n100.0%\n100.0\n0\n1\n0\n1.10294116\n\n\n28\n3.23\n3.28\n26\n29\n87.5%\n100.0\n0\n1\n4\n0.68277311\n\n\n30\n3.15\n3.49\n25\n18\n93.8%\n100.0\n0\n1\n2\n-1.62815130\n\n\n27\n3.11\n2.84\n21\n31\n84.4%\n100.0\n0\n1\n5\n1.10294116\n\n\n25\n2.59\n2.92\n24\n28\n78.1%\n62.5\n0\n1\n7\n0.47268906\n\n\n32\n2.79\n2.75\n24\n25\n100.0%\n100.0\n0\n1\n0\n-0.15756303\n\n\n25\n3.04\n3.17\n24\n26\n78.1%\n75.0\n0\n1\n7\n0.05252101\n\n\n27\n2.18\n2.44\n22\n22\n84.4%\n87.5\n1\n0\n5\n-0.78781515\n\n\n28\n2.81\n2.35\n22\n22\n87.5%\n100.0\n0\n0\n4\n-0.78781515\n\n\n32\n2.90\n2.19\n18\n24\n100.0%\n100.0\n0\n1\n0\n-0.36764705\n\n\n30\n3.50\n3.28\n28\n33\n93.8%\n100.0\n0\n1\n2\n1.52310920\n\n\n18\n2.17\n2.25\n25\n36\n56.2%\n87.5\n0\n1\n14\n2.15336132\n\n\n15\n1.35\n1.59\n31\n21\n46.9%\n50.0\n0\n1\n17\n-0.99789917\n\n\n21\n0.79\n1.65\n23\n23\n65.6%\n62.5\n1\n0\n11\n-0.57773107\n\n\n24\n3.19\n2.62\n19\n34\n75.0%\n100.0\n1\n0\n8\n1.73319328\n\n\n32\n3.38\n3.29\n23\n29\n100.0%\n100.0\n0\n1\n0\n0.68277311\n\n\n18\n1.85\n1.43\n25\n27\n56.2%\n75.0\n0\n0\n14\n0.26260504\n\n\n24\n2.63\n3.39\n24\n27\n75.0%\n75.0\n0\n0\n8\n0.26260504\n\n\n25\n2.04\n2.39\n21\n22\n78.1%\n100.0\n0\n1\n7\n-0.78781515\n\n\n30\n4.00\n2.24\n25\n35\n93.8%\n100.0\n0\n1\n2\n1.94327736\n\n\n32\n3.86\n3.87\n31\n34\n100.0%\n100.0\n0\n1\n0\n1.73319328\n\n\n32\n3.07\n2.90\n18\n23\n100.0%\n100.0\n0\n1\n0\n-0.57773107\n\n\n29\n2.65\n2.64\n23\n19\n90.6%\n100.0\n0\n1\n3\n-1.41806722\n\n\n10\n2.50\n2.25\n31\n35\n31.2%\n37.5\n0\n1\n22\n1.94327736\n\n\n27\n3.63\n2.18\n23\n29\n84.4%\n100.0\n0\n0\n5\n0.68277311\n\n\n19\n1.63\n2.46\n23\n24\n59.4%\n100.0\n0\n1\n13\n-0.36764705\n\n\n17\n2.65\n2.67\n28\n26\n53.1%\n87.5\n0\n1\n15\n0.05252101\n\n\n29\n2.81\n3.25\n22\n30\n90.6%\n100.0\n0\n1\n3\n0.89285713\n\n\n26\n2.38\n2.43\n23\n26\n81.2%\n100.0\n1\n0\n6\n0.05252101\n\n\n16\n1.65\n2.23\n20\n22\n50.0%\n50.0\n1\n0\n16\n-0.78781515\n\n\n18\n2.67\n2.63\n24\n24\n56.2%\n100.0\n1\n0\n14\n-0.36764705\n\n\n17\n1.68\n1.98\n22\n13\n53.1%\n75.0\n0\n1\n15\n-2.67857146\n\n\n6\n2.31\n1.80\n27\n28\n18.8%\n50.0\n0\n1\n26\n0.47268906\n\n\n27\n3.00\n2.81\n21\n30\n84.4%\n100.0\n1\n0\n5\n0.89285713\n\n\n24\n2.64\n2.27\n21\n22\n75.0%\n100.0\n0\n1\n8\n-0.78781515\n\n\n26\n2.00\n2.77\n22\n19\n81.2%\n100.0\n0\n0\n6\n-1.41806722\n\n\n15\n1.62\n2.08\n26\n19\n46.9%\n87.5\n0\n1\n17\n-1.41806722\n\n\n28\n2.69\n2.50\n25\n28\n87.5%\n100.0\n1\n0\n4\n0.47268906\n\n\n30\n3.95\n3.81\n31\n36\n93.8%\n100.0\n0\n1\n2\n2.15336132\n\n\n29\n1.62\n2.57\n21\n25\n90.6%\n62.5\n0\n0\n3\n-0.15756303\n\n\n30\n2.43\n1.93\n20\n17\n93.8%\n100.0\n0\n0\n2\n-1.83823526\n\n\n28\n2.50\n2.51\n24\n28\n87.5%\n100.0\n0\n0\n4\n0.47268906\n\n\n28\n3.46\n2.00\n20\n35\n87.5%\n100.0\n1\n0\n4\n1.94327736\n\n\n32\n3.09\n2.59\n23\n33\n100.0%\n100.0\n0\n0\n0\n1.52310920\n\n\n23\n2.33\n2.61\n24\n19\n71.9%\n75.0\n0\n0\n9\n-1.41806722\n\n\n12\n1.23\n2.51\n25\n21\n37.5%\n37.5\n0\n0\n20\n-0.99789917\n\n\n26\n3.25\n2.15\n27\n32\n81.2%\n100.0\n0\n1\n6\n1.31302524\n\n\n5\n1.77\n1.91\n27\n25\n15.6%\n50.0\n0\n1\n27\n-0.15756303\n\n\n30\n4.00\n3.92\n29\n37\n93.8%\n100.0\n0\n1\n2\n2.36344528\n\n\n25\n2.63\n2.84\n25\n22\n78.1%\n100.0\n0\n1\n7\n-0.78781515\n\n\n27\n3.70\n3.31\n24\n31\n84.4%\n100.0\n0\n1\n5\n1.10294116\n\n\n28\n1.96\n2.04\n21\n17\n87.5%\n87.5\n0\n1\n4\n-1.83823526\n\n\n14\n1.17\n1.84\n19\n28\n43.8%\n50.0\n0\n0\n18\n0.47268906\n\n\n28\n2.88\n2.97\n24\n27\n87.5%\n100.0\n0\n0\n4\n0.26260504\n\n\n28\n2.33\n2.36\n18\n22\n87.5%\n100.0\n0\n1\n4\n-0.78781515\n\n\n23\n2.00\n2.15\n19\n17\n71.9%\n100.0\n0\n1\n9\n-1.83823526\n\n\n28\n2.15\n2.00\n20\n23\n87.5%\n100.0\n0\n1\n4\n-0.57773107\n\n\n27\n1.88\n1.74\n15\n27\n84.4%\n87.5\n1\n0\n5\n0.26260504\n\n\n32\n2.90\n2.70\n21\n23\n100.0%\n100.0\n1\n0\n0\n-0.57773107\n\n\n29\n3.50\n3.59\n28\n35\n90.6%\n100.0\n0\n0\n3\n1.94327736\n\n\n25\n2.41\n2.75\n21\n23\n78.1%\n100.0\n0\n0\n7\n-0.57773107\n\n\n29\n2.38\n2.74\n19\n25\n90.6%\n100.0\n0\n0\n3\n-0.15756303\n\n\n22\n3.04\n2.48\n16\n24\n68.8%\n100.0\n0\n0\n10\n-0.36764705\n\n\n31\n2.41\n2.48\n27\n25\n96.9%\n87.5\n0\n1\n1\n-0.15756303\n\n\n29\n2.45\n2.44\n18\n23\n90.6%\n75.0\n0\n1\n3\n-0.57773107\n\n\n26\n3.66\n2.86\n27\n30\n81.2%\n87.5\n0\n1\n6\n0.89285713\n\n\n10\n1.53\n2.02\n28\n32\n31.2%\n25.0\n0\n1\n22\n1.31302524\n\n\n27\n1.89\n1.97\n21\n21\n84.4%\n100.0\n1\n0\n5\n-0.99789917\n\n\n23\n3.70\n2.82\n24\n34\n71.9%\n100.0\n0\n1\n9\n1.73319328\n\n\n32\n4.00\n3.90\n28\n38\n100.0%\n100.0\n0\n0\n0\n2.57352948\n\n\n28\n2.33\n2.42\n19\n17\n87.5%\n87.5\n1\n0\n4\n-1.83823526\n\n\n24\n2.85\n2.50\n25\n31\n75.0%\n75.0\n0\n1\n8\n1.10294116\n\n\n24\n2.00\n2.13\n15\n26\n75.0%\n62.5\n0\n0\n8\n0.05252101\n\n\n30\n3.62\n3.80\n27\n31\n93.8%\n100.0\n0\n1\n2\n1.10294116\n\n\n31\n2.40\n3.02\n23\n27\n96.9%\n100.0\n0\n1\n1\n0.26260504\n\n\n30\n3.71\n3.50\n28\n35\n93.8%\n87.5\n0\n1\n2\n1.94327736\n\n\n32\n3.54\n3.32\n23\n32\n100.0%\n100.0\n0\n0\n0\n1.31302524\n\n\n32\n3.57\n2.84\n19\n26\n100.0%\n100.0\n0\n1\n0\n0.05252101\n\n\n31\n3.11\n2.74\n19\n24\n96.9%\n87.5\n1\n0\n1\n-0.36764705\n\n\n28\n2.13\n2.03\n22\n19\n87.5%\n87.5\n0\n1\n4\n-1.41806722\n\n\n31\n3.50\n3.23\n24\n28\n96.9%\n100.0\n0\n1\n1\n0.47268906\n\n\n27\n3.31\n2.19\n27\n26\n84.4%\n100.0\n1\n0\n5\n0.05252101\n\n\n23\n2.25\n2.24\n21\n24\n71.9%\n87.5\n0\n1\n9\n-0.36764705\n\n\n25\n2.38\n2.15\n23\n28\n78.1%\n62.5\n1\n0\n7\n0.47268906\n\n\n28\n1.46\n2.32\n25\n32\n87.5%\n75.0\n0\n0\n4\n1.31302524\n\n\n28\n3.04\n2.94\n19\n27\n87.5%\n100.0\n0\n0\n4\n0.26260504\n\n\n23\n2.68\n2.70\n23\n21\n71.9%\n75.0\n0\n1\n9\n-0.99789917\n\n\n14\n1.11\n1.20\n25\n18\n43.8%\n87.5\n1\n0\n18\n-1.62815130\n\n\n27\n0.69\n1.74\n21\n19\n84.4%\n100.0\n0\n1\n5\n-1.41806722\n\n\n29\n2.96\n2.80\n16\n23\n90.6%\n100.0\n0\n1\n3\n-0.57773107\n\n\n25\n2.37\n2.46\n23\n32\n78.1%\n87.5\n0\n1\n7\n1.31302524\n\n\n25\n2.25\n2.20\n19\n24\n78.1%\n100.0\n1\n0\n7\n-0.36764705\n\n\n27\n2.25\n2.60\n26\n31\n84.4%\n62.5\n0\n1\n5\n1.10294116\n\n\n30\n2.50\n2.21\n16\n29\n93.8%\n87.5\n1\n0\n2\n0.68277311\n\n\n28\n2.00\n2.17\n18\n21\n87.5%\n87.5\n0\n0\n4\n-0.99789917\n\n\n26\n3.00\n2.60\n23\n23\n81.2%\n87.5\n0\n1\n6\n-0.57773107\n\n\n6\n2.13\n2.94\n28\n29\n18.8%\n37.5\n0\n0\n26\n0.68277311\n\n\n27\n1.23\n2.71\n25\n26\n84.4%\n75.0\n0\n0\n5\n0.05252101\n\n\n26\n2.00\n1.80\n16\n26\n81.2%\n100.0\n0\n1\n6\n0.05252101\n\n\n28\n3.50\n2.59\n19\n29\n87.5%\n100.0\n1\n0\n4\n0.68277311\n\n\n17\n2.00\n2.64\n24\n24\n53.1%\n75.0\n0\n1\n15\n-0.36764705\n\n\n24\n2.32\n2.10\n25\n30\n75.0%\n87.5\n1\n0\n8\n0.89285713\n\n\n26\n1.90\n2.49\n24\n20\n81.2%\n87.5\n0\n1\n6\n-1.20798314\n\n\n30\n2.50\n2.43\n22\n19\n93.8%\n100.0\n0\n1\n2\n-1.41806722\n\n\n25\n3.29\n2.90\n25\n35\n78.1%\n75.0\n0\n1\n7\n1.94327736\n\n\n29\n2.00\n2.91\n23\n20\n90.6%\n75.0\n0\n0\n3\n-1.20798314\n\n\n29\n3.41\n2.98\n27\n35\n90.6%\n87.5\n0\n1\n3\n1.94327736\n\n\n21\n1.50\n2.39\n19\n24\n65.6%\n87.5\n0\n1\n11\n-0.36764705\n\n\n29\n3.50\n3.04\n27\n28\n90.6%\n100.0\n1\n0\n3\n0.47268906\n\n\n19\n0.57\n1.74\n21\n23\n59.4%\n50.0\n1\n0\n13\n-0.57773107\n\n\n29\n3.19\n3.50\n25\n32\n90.6%\n87.5\n0\n1\n3\n1.31302524\n\n\n28\n1.88\n2.54\n17\n20\n87.5%\n100.0\n0\n1\n4\n-1.20798314\n\n\n32\n2.00\n2.45\n17\n29\n100.0%\n100.0\n0\n1\n0\n0.68277311\n\n\n26\n2.62\n2.98\n31\n22\n81.2%\n75.0\n1\n0\n6\n-0.78781515\n\n\n29\n2.82\n1.96\n22\n26\n90.6%\n87.5\n1\n0\n3\n0.05252101\n\n\n28\n3.14\n2.02\n20\n20\n87.5%\n100.0\n0\n1\n4\n-1.20798314\n\n\n32\n2.85\n1.91\n20\n27\n100.0%\n100.0\n0\n1\n0\n0.26260504\n\n\n31\n2.13\n2.30\n17\n20\n96.9%\n87.5\n0\n0\n1\n-1.20798314\n\n\n27\n2.64\n2.56\n19\n19\n84.4%\n87.5\n1\n0\n5\n-1.41806722\n\n\n27\n2.12\n2.21\n20\n19\n84.4%\n87.5\n0\n0\n5\n-1.41806722\n\n\n24\n3.35\n2.12\n17\n29\n75.0%\n100.0\n0\n0\n8\n0.68277311\n\n\n26\n2.73\n3.09\n25\n22\n81.2%\n100.0\n0\n1\n6\n-0.78781515\n\n\n31\n3.00\n1.50\n20\n22\n96.9%\n100.0\n1\n0\n1\n-0.78781515\n\n\n20\n1.75\n1.98\n17\n22\n62.5%\n87.5\n1\n0\n12\n-0.78781515\n\n\n28\n2.88\n2.82\n25\n21\n87.5%\n100.0\n0\n0\n4\n-0.99789917\n\n\n23\n3.23\n3.12\n28\n30\n71.9%\n87.5\n0\n1\n9\n0.89285713\n\n\n31\n2.96\n2.68\n21\n24\n96.9%\n100.0\n0\n1\n1\n-0.36764705\n\n\n12\n2.32\n2.58\n23\n20\n37.5%\n50.0\n0\n1\n20\n-1.20798314\n\n\n29\n2.54\n2.26\n21\n24\n90.6%\n100.0\n0\n1\n3\n-0.36764705\n\n\n12\n0.33\n2.47\n26\n23\n37.5%\nNA\n0\n0\n20\n-0.57773107\n\n\n27\n1.82\n2.26\n18\n17\n84.4%\n100.0\n0\n1\n5\n-1.83823526\n\n\n31\n3.34\n3.21\n21\n28\n96.9%\n100.0\n0\n1\n1\n0.47268906\n\n\n29\n2.90\n2.66\n22\n29\n90.6%\n100.0\n0\n0\n3\n0.68277311\n\n\n26\n2.92\n3.00\n23\n25\n81.2%\n62.5\n0\n1\n6\n-0.15756303\n\n\n29\n3.16\n3.25\n23\n26\n90.6%\n100.0\n0\n1\n3\n0.05252101\n\n\n30\n3.05\n2.83\n21\n19\n93.8%\n100.0\n0\n0\n2\n-1.41806722\n\n\n22\n2.54\n2.84\n22\n33\n68.8%\n100.0\n0\n1\n10\n1.52310920\n\n\n29\n2.10\n1.95\n22\n30\n90.6%\n100.0\n0\n0\n3\n0.89285713\n\n\n30\n3.77\n3.53\n25\n27\n93.8%\n100.0\n0\n0\n2\n0.26260504\n\n\n15\n1.25\n1.75\n27\n28\n46.9%\n25.0\n0\n1\n17\n0.47268906\n\n\n29\n2.65\n2.27\n25\n17\n90.6%\n100.0\n0\n1\n3\n-1.83823526\n\n\n25\n2.30\n2.04\n19\n21\n78.1%\n100.0\n0\n1\n7\n-0.99789917\n\n\n29\n1.07\n1.32\n21\n16\n90.6%\n87.5\n1\n0\n3\n-2.04831934\n\n\n25\n2.56\n2.71\n24\n24\n78.1%\n100.0\n0\n0\n7\n-0.36764705\n\n\n21\n2.54\n1.88\n22\n30\n65.6%\n62.5\n1\n0\n11\n0.89285713\n\n\n31\n2.91\n2.67\n23\n28\n96.9%\n100.0\n1\n0\n1\n0.47268906\n\n\n26\n3.00\n2.92\n19\n24\n81.2%\n100.0\n0\n0\n6\n-0.36764705\n\n\n29\n2.43\n1.34\n18\n21\n90.6%\n100.0\n1\n0\n3\n-0.99789917\n\n\n31\n3.21\n2.68\n26\n32\n96.9%\n87.5\n0\n1\n1\n1.31302524\n\n\n10\n1.60\n2.29\n24\n17\n31.2%\n50.0\n0\n1\n22\n-1.83823526\n\n\n29\n2.85\n2.39\n24\n29\n90.6%\n100.0\n0\n1\n3\n0.68277311\n\n\n23\n3.03\n3.60\n29\n31\n71.9%\n100.0\n0\n1\n9\n1.10294116\n\n\n26\n3.04\n2.56\n27\n30\n81.2%\n100.0\n0\n1\n6\n0.89285713\n\n\n27\n1.69\n2.61\n23\n20\n84.4%\n100.0\n0\n0\n5\n-1.20798314\n\n\n27\n1.95\n2.75\n24\n30\n84.4%\n75.0\n1\n0\n5\n0.89285713\n\n\n21\n1.93\n2.38\n20\n28\n65.6%\n100.0\n0\n1\n11\n0.47268906\n\n\n18\n1.81\n2.75\n27\n27\n56.2%\n62.5\n0\n1\n14\n0.26260504\n\n\n27\n2.86\n3.13\n21\n11\n84.4%\n25.0\n0\n1\n5\n-3.09873939\n\n\n27\n3.25\n2.63\n26\n30\n84.4%\n100.0\n0\n1\n5\n0.89285713\n\n\n28\n2.50\n2.62\n20\n23\n87.5%\n87.5\n0\n1\n4\n-0.57773107\n\n\n27\n2.39\n2.29\n17\n30\n84.4%\n75.0\n1\n0\n5\n0.89285713\n\n\n16\n2.53\n2.89\n32\n29\n50.0%\n87.5\n0\n1\n16\n0.68277311\n\n\n23\n2.65\n1.25\n25\n29\n71.9%\n87.5\n1\n0\n9\n0.68277311\n\n\n22\n3.42\n2.51\n23\n26\n68.8%\n100.0\n0\n0\n10\n0.05252101\n\n\n26\n2.68\n2.46\n22\n24\n81.2%\n100.0\n1\n0\n6\n-0.36764705\n\n\n19\n1.79\n1.82\n20\n25\n59.4%\n75.0\n0\n1\n13\n-0.15756303\n\n\n9\n1.35\n1.52\n27\n30\n28.1%\nNA\n1\n0\n23\n0.89285713\n\n\n30\n3.38\n3.00\n21\n16\n93.8%\n100.0\n0\n1\n2\n-2.04831934\n\n\n4\n0.45\n2.14\n27\n25\n12.5%\nNA\n0\n0\n28\n-0.15756303\n\n\n32\n3.88\n3.23\n22\n30\n100.0%\n100.0\n0\n0\n0\n0.89285713\n\n\n31\n2.85\n2.38\n20\n29\n96.9%\n100.0\n1\n0\n1\n0.68277311\n\n\n28\n2.31\n1.88\n20\n24\n87.5%\n87.5\n1\n0\n4\n-0.36764705\n\n\n28\n2.65\n2.77\n23\n28\n87.5%\n100.0\n0\n1\n4\n0.47268906\n\n\n25\n2.86\n2.61\n25\n25\n78.1%\n62.5\n0\n0\n7\n-0.15756303\n\n\n25\n1.63\n2.01\n20\n27\n78.1%\n25.0\n0\n0\n7\n0.26260504\n\n\n32\n3.07\n2.89\n26\n31\n100.0%\n100.0\n0\n0\n0\n1.10294116\n\n\n19\n2.12\n2.16\n22\n31\n59.4%\n87.5\n0\n1\n13\n1.10294116\n\n\n32\n4.00\n3.81\n25\n36\n100.0%\n100.0\n0\n1\n0\n2.15336132\n\n\n25\n1.96\n2.00\n22\n28\n78.1%\n75.0\n1\n0\n7\n0.47268906\n\n\n28\n1.77\n1.89\n19\n17\n87.5%\n87.5\n1\n0\n4\n-1.83823526\n\n\n24\n2.69\n2.12\n23\n28\n75.0%\n87.5\n0\n1\n8\n0.47268906\n\n\n32\n2.97\n2.88\n25\n30\n100.0%\n100.0\n0\n0\n0\n0.89285713\n\n\n31\n3.27\n3.05\n22\n32\n96.9%\n87.5\n0\n1\n1\n1.31302524\n\n\n27\n2.31\n2.23\n22\n22\n84.4%\n100.0\n0\n1\n5\n-0.78781515\n\n\n30\n1.88\n2.11\n22\n24\n93.8%\n87.5\n0\n1\n2\n-0.36764705\n\n\n27\n2.25\n2.61\n18\n24\n84.4%\n87.5\n1\n0\n5\n-0.36764705\n\n\n29\n2.75\n2.98\n31\n35\n90.6%\n75.0\n0\n1\n3\n1.94327736\n\n\n26\n1.79\n2.73\n27\n24\n81.2%\n75.0\n1\n0\n6\n-0.36764705\n\n\n32\n3.86\n3.93\n24\n34\n100.0%\n100.0\n0\n1\n0\n1.73319328\n\n\n21\n2.08\n1.99\n24\n23\n65.6%\n87.5\n0\n0\n11\n-0.57773107\n\n\n28\n2.96\n2.76\n23\n31\n87.5%\n100.0\n1\n0\n4\n1.10294116\n\n\n26\n2.23\n1.83\n18\n21\n81.2%\n100.0\n0\n1\n6\n-0.99789917\n\n\n25\n2.46\n2.58\n20\n21\n78.1%\n100.0\n0\n1\n7\n-0.99789917\n\n\n26\n1.70\n2.12\n28\n26\n81.2%\n87.5\n1\n0\n6\n0.05252101\n\n\n30\n3.13\n2.68\n23\n29\n93.8%\n100.0\n1\n0\n2\n0.68277311\n\n\n27\n2.38\n2.02\n16\n21\n84.4%\n100.0\n0\n1\n5\n-0.99789917\n\n\n16\n2.75\n2.06\n20\n22\n50.0%\n75.0\n0\n1\n16\n-0.78781515\n\n\n27\n2.64\n2.27\n22\n19\n84.4%\n100.0\n1\n0\n5\n-1.41806722\n\n\n13\n2.46\n3.04\n24\n24\n40.6%\n87.5\n0\n1\n19\n-0.36764705\n\n\n5\n0.67\n1.60\n26\n23\n15.6%\n12.5\n1\n0\n27\n-0.57773107\n\n\n32\n2.82\n2.71\n18\n29\n100.0%\n100.0\n0\n1\n0\n0.68277311\n\n\n11\n0.00\n1.74\n24\n27\n34.4%\n12.5\n0\n1\n21\n0.26260504\n\n\n32\n2.68\n1.66\n19\n23\n100.0%\n100.0\n1\n0\n0\n-0.57773107\n\n\n25\n0.62\n2.22\n23\n24\n78.1%\n100.0\n0\n0\n7\n-0.36764705\n\n\n29\n2.89\n3.05\n23\n25\n90.6%\n100.0\n0\n1\n3\n-0.15756303\n\n\n13\n1.96\n2.06\n22\n25\n40.6%\n37.5\n0\n0\n19\n-0.15756303\n\n\n27\n2.47\n2.90\n18\n27\n84.4%\n87.5\n0\n0\n5\n0.26260504\n\n\n30\n3.10\n2.63\n22\n25\n93.8%\n100.0\n0\n1\n2\n-0.15756303\n\n\n28\n2.15\n2.28\n23\n27\n87.5%\n100.0\n1\n0\n4\n0.26260504\n\n\n9\n0.32\n1.79\n21\n26\n28.1%\n62.5\n0\n0\n23\n0.05252101\n\n\n21\n2.70\n2.80\n26\n22\n65.6%\n100.0\n0\n0\n11\n-0.78781515\n\n\n30\n3.13\n2.91\n26\n29\n93.8%\n87.5\n0\n1\n2\n0.68277311\n\n\n19\n3.12\n1.60\n20\n33\n59.4%\n75.0\n1\n0\n13\n1.52310920\n\n\n17\n2.63\n1.35\n26\n23\n53.1%\n62.5\n0\n0\n15\n-0.57773107\n\n\n30\n2.96\n3.18\n25\n28\n93.8%\n100.0\n0\n1\n2\n0.47268906\n\n\n31\n2.80\n2.92\n20\n22\n96.9%\n100.0\n0\n1\n1\n-0.78781515\n\n\n31\n3.86\n3.05\n27\n34\n96.9%\n100.0\n0\n0\n1\n1.73319328\n\n\n29\n2.90\n3.09\n24\n22\n90.6%\n100.0\n0\n1\n3\n-0.78781515\n\n\n18\n2.43\n2.60\n16\n29\n56.2%\n37.5\n0\n1\n14\n0.68277311\n\n\n30\n2.89\n2.43\n17\n28\n93.8%\n100.0\n1\n0\n2\n0.47268906\n\n\n24\n2.38\n2.67\n25\n21\n75.0%\n75.0\n1\n0\n8\n-0.99789917\n\n\n14\n0.87\n1.63\n25\n23\n43.8%\n62.5\n0\n1\n18\n-0.57773107\n\n\n30\n2.50\n2.65\n20\n24\n93.8%\n100.0\n1\n0\n2\n-0.36764705\n\n\n31\n3.55\n3.25\n23\n27\n96.9%\n100.0\n0\n1\n1\n0.26260504\n\n\n28\n3.50\n3.65\n20\n29\n87.5%\n50.0\n1\n0\n4\n0.68277311\n\n\n30\n1.61\n2.05\n23\n18\n93.8%\n87.5\n0\n1\n2\n-1.62815130\n\n\n27\n2.69\n2.16\n23\n25\n84.4%\n100.0\n0\n1\n5\n-0.15756303\n\n\n19\n2.65\n1.55\n22\n34\n59.4%\n62.5\n1\n0\n13\n1.73319328\n\n\n29\n2.85\n2.75\n20\n28\n90.6%\n100.0\n0\n0\n3\n0.47268906\n\n\n31\n2.25\n2.66\n18\n25\n96.9%\n100.0\n0\n1\n1\n-0.15756303\n\n\n28\n2.96\n2.80\n23\n32\n87.5%\n100.0\n0\n0\n4\n1.31302524\n\n\n29\n3.64\n3.08\n17\n31\n90.6%\n100.0\n0\n1\n3\n1.10294116\n\n\n27\n2.63\n2.14\n20\n21\n84.4%\n75.0\n0\n1\n5\n-0.99789917\n\n\n29\n3.46\n3.49\n27\n29\n90.6%\n100.0\n0\n0\n3\n0.68277311\n\n\n12\n2.00\n1.43\n25\n24\n37.5%\n75.0\n0\n0\n20\n-0.36764705\n\n\n28\n2.50\n2.43\n19\n23\n87.5%\n100.0\n1\n0\n4\n-0.57773107\n\n\n31\n2.90\n2.30\n21\n16\n96.9%\n100.0\n0\n1\n1\n-2.04831934\n\n\n30\n2.77\n2.78\n18\n27\n93.8%\n100.0\n0\n1\n2\n0.26260504\n\n\n25\n2.29\n2.36\n18\n23\n78.1%\n62.5\n0\n1\n7\n-0.57773107\n\n\n26\n2.50\n2.86\n22\n23\n81.2%\n87.5\n0\n0\n6\n-0.57773107\n\n\n30\n2.83\n2.80\n24\n25\n93.8%\n100.0\n0\n1\n2\n-0.15756303\n\n\n32\n3.07\n2.42\n25\n26\n100.0%\n100.0\n0\n1\n0\n0.05252101\n\n\n30\n3.25\n3.88\n26\n32\n93.8%\n100.0\n0\n1\n2\n1.31302524\n\n\n26\n3.62\n3.28\n29\n36\n81.2%\n100.0\n1\n0\n6\n2.15336132\n\n\n30\n2.81\n1.98\n15\n28\n93.8%\n100.0\n1\n0\n2\n0.47268906\n\n\n32\n3.00\n2.96\n19\n26\n100.0%\n100.0\n0\n1\n0\n0.05252101\n\n\n29\n2.69\n2.86\n27\n25\n90.6%\n100.0\n0\n1\n3\n-0.15756303\n\n\n28\n1.18\n2.16\n22\n29\n87.5%\n100.0\n0\n1\n4\n0.68277311\n\n\n31\n1.93\n2.30\n19\n21\n96.9%\n100.0\n1\n0\n1\n-0.99789917\n\n\n15\n0.92\n1.48\n22\n19\n46.9%\n12.5\n1\n0\n17\n-1.41806722\n\n\n30\n3.50\n2.98\n26\n27\n93.8%\n87.5\n0\n1\n2\n0.26260504\n\n\n25\n2.79\n3.48\n26\n26\n78.1%\n100.0\n0\n1\n7\n0.05252101\n\n\n15\n0.60\n1.67\n24\n22\n46.9%\n37.5\n0\n1\n17\n-0.78781515\n\n\n28\n2.80\n3.91\n26\n29\n87.5%\n100.0\n1\n0\n4\n0.68277311\n\n\n32\n2.90\n3.25\n20\n25\n100.0%\n100.0\n0\n0\n0\n-0.15756303\n\n\n28\n2.50\n2.25\n19\n22\n87.5%\n87.5\n0\n0\n4\n-0.78781515\n\n\n31\n2.60\n2.66\n21\n25\n96.9%\n100.0\n0\n1\n1\n-0.15756303\n\n\n15\n2.63\n2.48\n27\n26\n46.9%\n100.0\n0\n1\n17\n0.05252101\n\n\n27\n2.33\n3.07\n28\n28\n84.4%\n62.5\n0\n1\n5\n0.47268906\n\n\n30\n3.64\n2.50\n20\n32\n93.8%\n100.0\n0\n1\n2\n1.31302524\n\n\n31\n2.79\n2.67\n17\n21\n96.9%\n100.0\n1\n0\n1\n-0.99789917\n\n\n16\n1.23\n2.95\n27\n24\n50.0%\n12.5\n0\n1\n16\n-0.36764705\n\n\n30\n2.65\n2.57\n18\n25\n93.8%\n100.0\n0\n1\n2\n-0.15756303\n\n\n30\n2.39\n2.50\n20\n23\n93.8%\n75.0\n1\n0\n2\n-0.57773107\n\n\n30\n2.63\n2.54\n25\n26\n93.8%\n100.0\n1\n0\n2\n0.05252101\n\n\n28\n3.08\n2.17\n21\n26\n87.5%\n87.5\n1\n0\n4\n0.05252101\n\n\n30\n1.94\n2.66\n23\n20\n93.8%\n100.0\n1\n0\n2\n-1.20798314\n\n\n25\n2.63\n2.20\n18\n25\n78.1%\n100.0\n0\n0\n7\n-0.15756303\n\n\n30\n3.04\n3.36\n20\n23\n93.8%\n100.0\n0\n1\n2\n-0.57773107\n\n\n16\n1.85\n2.24\n23\n22\n50.0%\n37.5\n0\n1\n16\n-0.78781515\n\n\n27\n2.93\n2.03\n24\n28\n84.4%\n37.5\n0\n1\n5\n0.47268906\n\n\n24\n2.92\n3.10\n22\n24\n75.0%\n100.0\n0\n1\n8\n-0.36764705\n\n\n16\n2.20\n2.00\n22\n29\n50.0%\n12.5\n0\n1\n16\n0.68277311\n\n\n10\n0.80\n1.80\n21\n17\n31.2%\n12.5\n0\n1\n22\n-1.83823526\n\n\n28\n2.25\n2.52\n20\n24\n87.5%\n75.0\n0\n0\n4\n-0.36764705\n\n\n30\n3.47\n2.97\n30\n35\n93.8%\n100.0\n0\n1\n2\n1.94327736\n\n\n11\n2.05\n2.27\n20\n22\n34.4%\n75.0\n1\n0\n21\n-0.78781515\n\n\n27\n3.42\n3.13\n25\n24\n84.4%\n87.5\n1\n0\n5\n-0.36764705\n\n\n27\n2.11\n2.16\n25\n31\n84.4%\n87.5\n0\n0\n5\n1.10294116\n\n\n20\n2.47\n2.06\n20\n27\n62.5%\n87.5\n1\n0\n12\n0.26260504\n\n\n18\n1.14\n2.11\n20\n18\n56.2%\n37.5\n0\n1\n14\n-1.62815130\n\n\n10\n0.62\n2.01\n22\n24\n31.2%\n50.0\n0\n1\n22\n-0.36764705\n\n\n27\n3.21\n3.24\n27\n22\n84.4%\n100.0\n0\n1\n5\n-0.78781515\n\n\n31\n3.77\n3.53\n23\n28\n96.9%\n100.0\n0\n1\n1\n0.47268906\n\n\n32\n2.86\n2.41\n17\n29\n100.0%\n100.0\n0\n1\n0\n0.68277311\n\n\n30\n3.27\n2.62\n24\n28\n93.8%\n100.0\n0\n1\n2\n0.47268906\n\n\n31\n2.79\n3.13\n25\n31\n96.9%\n100.0\n0\n0\n1\n1.10294116\n\n\n32\n3.27\n2.95\n22\n30\n100.0%\n100.0\n0\n1\n0\n0.89285713\n\n\n28\n2.74\n2.95\n22\n26\n87.5%\n87.5\n0\n0\n4\n0.05252101\n\n\n29\n3.89\n3.66\n27\n28\n90.6%\n100.0\n0\n1\n3\n0.47268906\n\n\n17\n2.07\n2.05\n23\n24\n53.1%\n62.5\n1\n0\n15\n-0.36764705\n\n\n26\n3.88\n3.08\n27\n36\n81.2%\n100.0\n0\n0\n6\n2.15336132\n\n\n18\n2.81\n2.28\n22\n24\n56.2%\n87.5\n0\n1\n14\n-0.36764705\n\n\n28\n2.54\n2.39\n19\n22\n87.5%\n100.0\n1\n0\n4\n-0.78781515\n\n\n32\n3.75\n2.56\n20\n29\n100.0%\n100.0\n1\n0\n0\n0.68277311\n\n\n31\n1.75\n2.21\n20\n23\n96.9%\n100.0\n0\n0\n1\n-0.57773107\n\n\n18\n2.80\n2.86\n26\n25\n56.2%\n75.0\n0\n1\n14\n-0.15756303\n\n\n24\n3.37\n2.95\n26\n28\n75.0%\n75.0\n0\n1\n8\n0.47268906\n\n\n30\n3.25\n3.00\n21\n27\n93.8%\n100.0\n1\n0\n2\n0.26260504\n\n\n31\n3.70\n3.41\n28\n34\n96.9%\n100.0\n0\n1\n1\n1.73319328\n\n\n32\n3.04\n3.00\n21\n28\n100.0%\n100.0\n0\n1\n0\n0.47268906\n\n\n26\n1.77\n1.38\n21\n21\n81.2%\n100.0\n1\n0\n6\n-0.99789917\n\n\n21\n1.88\n2.27\n27\n20\n65.6%\n37.5\n1\n0\n11\n-1.20798314\n\n\n25\n2.39\n2.42\n28\n23\n78.1%\n62.5\n1\n0\n7\n-0.57773107\n\n\n23\n2.97\n2.62\n20\n34\n71.9%\n100.0\n0\n1\n9\n1.73319328\n\n\n29\n2.42\n3.01\n24\n26\n90.6%\n100.0\n0\n0\n3\n0.05252101\n\n\n16\n0.46\n1.95\n19\n22\n50.0%\n62.5\n0\n0\n16\n-0.78781515\n\n\n31\n3.11\n2.83\n24\n25\n96.9%\n100.0\n0\n1\n1\n-0.15756303\n\n\n24\n2.88\n3.05\n20\n31\n75.0%\n87.5\n0\n1\n8\n1.10294116\n\n\n18\n2.10\n2.51\n22\n21\n56.2%\n50.0\n0\n0\n14\n-0.99789917\n\n\n17\n1.32\n1.48\n23\n22\n53.1%\n62.5\n0\n1\n15\n-0.78781515\n\n\n29\n1.77\n1.94\n20\n26\n90.6%\n100.0\n0\n1\n3\n0.05252101\n\n\n28\n2.64\n2.46\n21\n26\n87.5%\n100.0\n0\n1\n4\n0.05252101\n\n\n23\n3.35\n3.50\n28\n26\n71.9%\n87.5\n0\n1\n9\n0.05252101\n\n\n19\n1.25\n2.18\n23\n22\n59.4%\n37.5\n0\n0\n13\n-0.78781515\n\n\n31\n3.18\n2.48\n21\n27\n96.9%\n100.0\n0\n0\n1\n0.26260504\n\n\n18\n3.11\n3.33\n27\n32\n56.2%\n37.5\n0\n1\n14\n1.31302524\n\n\n27\n3.00\n2.83\n26\n27\n84.4%\n100.0\n0\n0\n5\n0.26260504\n\n\n26\n2.65\n2.65\n22\n27\n81.2%\n87.5\n0\n1\n6\n0.26260504\n\n\n31\n2.05\n2.50\n15\n16\n96.9%\n100.0\n0\n1\n1\n-2.04831934\n\n\n31\n3.77\n3.78\n25\n34\n96.9%\n100.0\n0\n1\n1\n1.73319328\n\n\n32\n3.57\n3.54\n19\n26\n100.0%\n100.0\n0\n1\n0\n0.05252101\n\n\n29\n2.97\n3.07\n27\n25\n90.6%\n87.5\n0\n1\n3\n-0.15756303\n\n\n30\n3.27\n3.72\n28\n30\n93.8%\n87.5\n0\n1\n2\n0.89285713\n\n\n23\n2.46\n2.48\n24\n28\n71.9%\n100.0\n0\n0\n9\n0.47268906\n\n\n26\n2.75\n3.10\n24\n26\n81.2%\n100.0\n0\n0\n6\n0.05252101\n\n\n31\n3.43\n3.50\n23\n26\n96.9%\n100.0\n0\n1\n1\n0.05252101\n\n\n24\n2.73\n1.96\n22\n22\n75.0%\n100.0\n0\n1\n8\n-0.78781515\n\n\n19\n0.85\n1.84\n18\n26\n59.4%\n50.0\n0\n0\n13\n0.05252101\n\n\n31\n2.61\n2.73\n27\n23\n96.9%\n87.5\n0\n1\n1\n-0.57773107\n\n\n29\n3.41\n3.48\n27\n26\n90.6%\n100.0\n0\n1\n3\n0.05252101\n\n\n25\n1.00\n2.31\n18\n22\n78.1%\n100.0\n0\n1\n7\n-0.78781515\n\n\n32\n2.69\n2.38\n19\n19\n100.0%\n100.0\n0\n1\n0\n-1.41806722\n\n\n32\n3.66\n3.61\n22\n30\n100.0%\n100.0\n0\n1\n0\n0.89285713\n\n\n28\n3.17\n3.02\n24\n27\n87.5%\n100.0\n0\n1\n4\n0.26260504\n\n\n14\n1.80\n1.19\n24\n29\n43.8%\n62.5\n1\n0\n18\n0.68277311\n\n\n\n1 680 observations on 11 variables."
+  },
+  {
+    "objectID": "data-viz.html#scatter-plot-prior-gpa-vs-missed-classes",
+    "href": "data-viz.html#scatter-plot-prior-gpa-vs-missed-classes",
+    "title": "Data Visualization",
+    "section": "Scatter Plot: Prior GPA vs Missed Classes",
+    "text": "Scatter Plot: Prior GPA vs Missed Classes\n\ndf %&gt;%\n  mutate(soph = recode(soph, `1` = \"Sophomore\", `0` = \"Non-Sophomore\"),\n         soph = factor(soph)) %&gt;%\n  ggplot(aes(priGPA, missed)) +\n  geom_point(size = 2, color = \"blue\") +\n  geom_smooth(method = \"lm\", se = FALSE, color = \"red\") +\n  facet_wrap(~ soph) +\n  theme_bw() +\n  labs(\n    title = \"Relationship Between Prior GPA and Missed Classes\",\n    x = \"Prior GPA\",\n    y = \"Missed Classes\"\n  )\n\n\n\n\n\n\n\n\nThere is a negative linear association between Prior GPA and missed classes. This association is present in both groups — sophomore and non-sophomore."
+  },
+  {
+    "objectID": "data-viz.html#distribution-of-act-scores",
+    "href": "data-viz.html#distribution-of-act-scores",
+    "title": "Data Visualization",
+    "section": "Distribution of ACT Scores",
+    "text": "Distribution of ACT Scores\n\ndf %&gt;%\n  ggplot(aes(x = ACT)) +\n  geom_bar(fill = \"lightblue\") +\n  labs(title = \"Distribution of ACT Scores\",\n       x = \"ACT Score\", y = \"Count\") +\n  theme_minimal()\n\n\n\n\n\n\n\n\nThis resembles a normal distribution."
+  },
+  {
+    "objectID": "data-viz.html#bar-charts-final-score-by-act-and-sophomore-status",
+    "href": "data-viz.html#bar-charts-final-score-by-act-and-sophomore-status",
+    "title": "Data Visualization",
+    "section": "Bar Charts: Final Score by ACT and Sophomore Status",
+    "text": "Bar Charts: Final Score by ACT and Sophomore Status\n\ndf %&gt;%\n  mutate(soph_label = factor(soph, levels = c(0, 1),\n                              labels = c(\"Not Sophomore\", \"Sophomore\"))) %&gt;%\n  group_by(ACT, soph_label) %&gt;%\n  summarise(mean_final = mean(final, na.rm = TRUE), .groups = \"drop\") %&gt;%\n  ggplot(aes(x = ACT, y = mean_final, fill = soph_label)) +\n  geom_col(position = position_dodge(width = 0.9), width = 0.9) +\n  scale_fill_manual(values = c(\"Not Sophomore\" = \"orange\", \"Sophomore\" = \"lightblue\")) +\n  labs(title = \"Mean Final Score by ACT and Sophomore Status\",\n       x = \"ACT Score\", y = \"Mean Final Score\",\n       fill = \"Sophomore Status\") +\n  theme_minimal()"
+  },
+  {
+    "objectID": "data-viz.html#boxplot-final-scores-by-act-and-sophomore-status",
+    "href": "data-viz.html#boxplot-final-scores-by-act-and-sophomore-status",
+    "title": "Data Visualization",
+    "section": "Boxplot: Final Scores by ACT and Sophomore Status",
+    "text": "Boxplot: Final Scores by ACT and Sophomore Status\n\ndf %&gt;%\n  mutate(soph_label = factor(soph, levels = c(0, 1),\n                              labels = c(\"Not Sophomore\", \"Sophomore\"))) %&gt;%\n  ggplot(aes(x = factor(ACT), y = final, fill = soph_label)) +\n  geom_boxplot(outlier.shape = NA, alpha = 0.7) +\n  geom_jitter(position = position_jitterdodge(jitter.width = 0.2, dodge.width = 0.8),\n              aes(color = soph_label), alpha = 0.4, size = 1) +\n  scale_fill_manual(values = c(\"Not Sophomore\" = \"yellow\", \"Sophomore\" = \"lightblue\")) +\n  scale_color_manual(values = c(\"Not Sophomore\" = \"orange\", \"Sophomore\" = \"pink\")) +\n  labs(title = \"Final Scores by ACT and Sophomore Status\",\n       x = \"ACT Score\", y = \"Final Score\",\n       fill = \"Sophomore Status\", color = \"Sophomore Status\") +\n  theme_bw()\n\n\n\n\n\n\n\n\nThe boxplot with jitter delivers a more complete and nuanced summary of the data, showing the distribution’s spread, median, and potential outliers."
+  },
+  {
+    "objectID": "data-viz.html#correlation-analysis",
+    "href": "data-viz.html#correlation-analysis",
+    "title": "Data Visualization",
+    "section": "Correlation Analysis",
+    "text": "Correlation Analysis\n\nlibrary(GGally)\n\nvariables &lt;- df %&gt;%\n  select(attend, termGPA, priGPA, ACT, final, atndrte, hwrte)\n\nggpairs(variables, title = \"Correlation Matrix (ggpairs)\") +\n  theme_minimal()\n\nWarning: Removed 6 rows containing missing values\nRemoved 6 rows containing missing values\nRemoved 6 rows containing missing values\nRemoved 6 rows containing missing values\nRemoved 6 rows containing missing values\nRemoved 6 rows containing missing values\n\n\nWarning: Removed 6 rows containing missing values or values outside the scale range\n(`geom_point()`).\nRemoved 6 rows containing missing values or values outside the scale range\n(`geom_point()`).\nRemoved 6 rows containing missing values or values outside the scale range\n(`geom_point()`).\nRemoved 6 rows containing missing values or values outside the scale range\n(`geom_point()`).\nRemoved 6 rows containing missing values or values outside the scale range\n(`geom_point()`).\nRemoved 6 rows containing missing values or values outside the scale range\n(`geom_point()`).\n\n\nWarning: Removed 6 rows containing non-finite outside the scale range\n(`stat_density()`).\n\n\n\n\n\n\n\n\n\n\nggcorr(variables, label = TRUE,\n       label_round = 2,\n       hjust = 0.75,\n       size = 3,\n       layout.exp = 2) +\n  labs(title = \"Correlation Heatmap (ggcorr)\") +\n  theme_bw()\n\n\n\n\n\n\n\n\nAttendance rate correlates more strongly with both term GPA and prior GPA than homework submission does. This implies that attending classes regularly may be more beneficial for grades than submitting homework."
+  },
+  {
+    "objectID": "data-viz.html#interactive-scatter-plot",
+    "href": "data-viz.html#interactive-scatter-plot",
+    "title": "Data Visualization",
+    "section": "Interactive Scatter Plot",
+    "text": "Interactive Scatter Plot\n\nlibrary(plotly)\n\n\nAttaching package: 'plotly'\n\n\nThe following object is masked from 'package:ggplot2':\n\n    last_plot\n\n\nThe following object is masked from 'package:stats':\n\n    filter\n\n\nThe following object is masked from 'package:graphics':\n\n    layout\n\ndf_sophomore &lt;- df %&gt;%\n  mutate(soph_label = factor(soph, levels = c(0, 1),\n                              labels = c(\"Not Sophomore\", \"Sophomore\")))\n\nscatter_plot &lt;- ggplot(df_sophomore, aes(x = priGPA, y = termGPA, color = soph_label)) +\n  geom_point(alpha = 0.4) +\n  geom_smooth(method = \"lm\", se = FALSE) +\n  scale_color_manual(values = c(\"Not Sophomore\" = \"black\", \"Sophomore\" = \"grey\")) +\n  labs(title = \"Prior GPA vs. Term GPA\",\n       subtitle = \"Separated by Sophomore Status\",\n       x = \"Prior GPA\", y = \"Term GPA\",\n       color = \"Sophomore Status\") +\n  theme_bw()\n\nggplotly(scatter_plot, tooltip = c(\"x\", \"y\", \"color\"))\n\n`geom_smooth()` using formula = 'y ~ x'\n\n\n\n\n\n\nThe scatter plot shows a moderate to strong positive linear relationship between prior GPA and term GPA in both groups. Prior GPA is a good predictor of current performance."
+  },
+  {
+    "objectID": "digital-marketing.html",
+    "href": "digital-marketing.html",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "I focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth.\nMy experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution."
+  },
+  {
+    "objectID": "digital-marketing.html#data-driven-marketing-growth-strategy",
+    "href": "digital-marketing.html#data-driven-marketing-growth-strategy",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "I focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth.\nMy experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution."
+  },
+  {
+    "objectID": "digital-marketing.html#professional-experience",
+    "href": "digital-marketing.html#professional-experience",
+    "title": "Digital Marketing",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nSocial Media Marketing Lead – La Rose Medical Spa\nUpland, California\nOctober 2023 – March 2024\nLed multi-platform marketing initiatives focused on engagement growth, customer acquisition, and conversion performance.\n\n\nKey Achievements\n\nIncreased engagement by 20%\n\nDeveloped a fitness website generating $10,000+ in global sales\n\nExecuted ROI-focused digital campaigns\n\nOptimized campaigns using Meta Insights and Google Analytics\n\nDeveloped strategic content calendars\n\nImproved targeting and campaign performance"
+  },
+  {
+    "objectID": "digital-marketing.html#marketing-strategy",
+    "href": "digital-marketing.html#marketing-strategy",
+    "title": "Digital Marketing",
+    "section": "Marketing Strategy",
+    "text": "Marketing Strategy\nI use analytical insights and audience behavior data to design campaigns that improve visibility, strengthen customer engagement, and increase conversion performance.\n\nCore Marketing Areas\n\nSocial Media Marketing\n\nPaid Campaign Strategy\n\nAudience Segmentation\n\nConversion Optimization\n\nMarketing Analytics\n\nPerformance Reporting"
+  },
+  {
+    "objectID": "digital-marketing.html#marketing-tools-platforms",
+    "href": "digital-marketing.html#marketing-tools-platforms",
+    "title": "Digital Marketing",
+    "section": "Marketing Tools & Platforms",
+    "text": "Marketing Tools & Platforms\n\n\n\nAnalytics & Reporting\n\nGoogle Analytics\n\nMeta Insights\n\nCampaign Metrics\n\nAudience Tracking\n\nROI Reporting\n\n\n\n\nMarketing Execution\n\nContent Calendars\n\nPaid Media Campaigns\n\nConversion Strategy\n\nBrand Positioning\n\nCustomer Engagement"
+  },
+  {
+    "objectID": "digital-marketing.html#business-impact",
+    "href": "digital-marketing.html#business-impact",
+    "title": "Digital Marketing",
+    "section": "Business Impact",
+    "text": "Business Impact\n\nRevenue Growth\n\nGenerated $10,000+ in online sales\n\n\n\nCampaign Performance\n\nIncreased engagement by 20%\n\nImproved campaign targeting efficiency\n\nEnhanced conversion-focused marketing strategies"
+  },
+  {
+    "objectID": "digital-marketing.html#marketing-philosophy",
+    "href": "digital-marketing.html#marketing-philosophy",
+    "title": "Digital Marketing",
+    "section": "Marketing Philosophy",
+    "text": "Marketing Philosophy\nI believe effective digital marketing combines creativity with measurable performance.\nMy campaigns are guided by:\n\nAudience insights\n\nData-driven decision making\n\nPlatform-specific optimization\n\nContinuous testing and refinement\n\nConversion-focused strategy"
+  },
+  {
+    "objectID": "digital-marketing.html#featured-work",
+    "href": "digital-marketing.html#featured-work",
+    "title": "Digital Marketing",
+    "section": "Featured Work",
+    "text": "Featured Work\n\nCampaign Analytics Showcase"
+  },
+  {
+    "objectID": "marketing.html",
+    "href": "marketing.html",
+    "title": "Marketing",
+    "section": "",
+    "text": "This section highlights my professional experience in digital marketing, content creation, and social media management."
+  },
+  {
+    "objectID": "marketing.html#digital-marketing-growth-strategy",
+    "href": "marketing.html#digital-marketing-growth-strategy",
+    "title": "Marketing",
+    "section": "Digital Marketing & Growth Strategy",
+    "text": "Digital Marketing & Growth Strategy\nI focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth. My experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution.\n\n\nSocial Media Marketing Lead — La Rose Medical Spa\nUpland, California · October 2023 – March 2024\nLed multi-platform marketing initiatives focused on engagement growth, customer acquisition, and conversion performance.\n\nIncreased engagement by 20%\nDeveloped a fitness website generating $10,000+ in global sales\nExecuted ROI-focused digital campaigns\nOptimized campaigns using Meta Insights and Google Analytics\n\nSocial Media Google Analytics\n\n\nContent Creator — NounNaturals & BPI Sports\nFontana, California · May 2021 – Present\nDeveloped platform-native campaigns focused on maximizing visibility, audience retention, and engagement performance.\n\nGrew TikTok audience to 300,000+ followers\nBuilt Instagram presence to 50,000+ followers\nImproved engagement by 30%\nCollaborated with creators and influencers\n\nTikTok Instagram\n\n\nFounder & Manager — Deal Bargains\nFontana, CA · Jan 2024 – Present\nBuilt and scaled a tactical and kitchen knife brand with 140+ SKUs on e-commerce platforms.\n\n$65K annual revenue generated\n2.5K+ items sold with 99.8% positive reviews\nDesigned SEO-optimized product descriptions and ad campaigns\n100% fulfillment accuracy\n\nE-Commerce SEO\n\n\nCreative Marketing Lead — MESA\nCal Poly Pomona · Aug 2024 – Present\nLead branding and digital storytelling for campus-wide events at the Middle Eastern Student Association.\n\nIncreased event engagement through targeted social campaigns\nManage content planning and engagement tracking\n\nBranding Events"
+  },
+  {
+    "objectID": "marketing.html#marketing-strategy",
+    "href": "marketing.html#marketing-strategy",
+    "title": "Marketing",
+    "section": "Marketing Strategy",
+    "text": "Marketing Strategy\nI use analytical insights and audience behavior data to design campaigns that improve visibility, strengthen customer engagement, and increase conversion performance.\n\n\nAnalytics & Reporting\n\nGoogle Analytics\nMeta Insights\nCampaign Metrics\nAudience Tracking\nROI Reporting\n\n\n\nMarketing Execution\n\nContent Calendars\nPaid Media Campaigns\nConversion Strategy\nBrand Positioning\nCustomer Engagement\n\n\n\nCreative Skills\n\nVideo Editing\nContent Planning\nStorytelling\nCreative Direction\nVisual Branding"
+  },
+  {
+    "objectID": "marketing.html#content-strategy",
+    "href": "marketing.html#content-strategy",
+    "title": "Marketing",
+    "section": "Content Strategy",
+    "text": "Content Strategy\nMy approach combines creativity with performance optimization to ensure content is both visually engaging and strategically effective.\n\nAreas of Focus\n\nShort-form video production\nAudience growth strategy\nViral content development\nTrend analysis\nBrand storytelling\nPlatform optimization"
+  },
+  {
+    "objectID": "marketing.html#marketing-philosophy",
+    "href": "marketing.html#marketing-philosophy",
+    "title": "Marketing",
+    "section": "Marketing Philosophy",
+    "text": "Marketing Philosophy\nI believe effective digital marketing combines creativity with measurable performance. My campaigns are guided by:\n\nAudience insights\nData-driven decision making\nPlatform-specific optimization\nContinuous testing and refinement\nConversion-focused strategy"
+  },
+  {
+    "objectID": "r-programming.html",
+    "href": "r-programming.html",
+    "title": "R Programming",
+    "section": "",
+    "text": "This section documents R programming coursework covering data types, custom functions, functional programming with purrr, factor handling with forcats, and date-time operations with lubridate."
+  },
+  {
+    "objectID": "r-programming.html#working-with-vectors-and-data-frames",
+    "href": "r-programming.html#working-with-vectors-and-data-frames",
+    "title": "R Programming",
+    "section": "Working with Vectors and Data Frames",
+    "text": "Working with Vectors and Data Frames\n\nlibrary(tidyverse)\n\n# Create vectors\nstock_prices &lt;- c(42.5, 43.0, 44.1, 2.7)\nstock_company &lt;- c(\"Microsoft\", \"Apple\", \"Facebook\", \"Tesla\")\nstock_ticker &lt;- c(\"MSFT\", \"AAPL\", \"FB\", \"TSLA\")\nmake_cars &lt;- c(FALSE, FALSE, FALSE, TRUE)\n\n# Update and name\nstock_prices &lt;- stock_prices + 5\nnames(stock_prices) &lt;- stock_company\n\n# Build data frame\nstock_info.df &lt;- data.frame(\n  stock_prices,\n  stock_company,\n  stock_ticker,\n  make_cars,\n  stringsAsFactors = FALSE\n)\n\n# Correct Tesla\nstock_info.df[stock_info.df$stock_company == \"Tesla\", \"stock_prices\"] &lt;- 47.7\n\n# Add new row\nextra &lt;- data.frame(\n  stock_prices = 50.4,\n  stock_company = \"General Motors\",\n  stock_ticker = \"GM\",\n  make_cars = TRUE\n)\nstock_info.df &lt;- rbind(stock_info.df, extra)\nstock_info.df$open_price &lt;- c(47.3, 47.8, 49.5, 47.9, 55.3)\n\n# Percentage change\nstock_info.df$change_percent &lt;-\n  ((stock_info.df$stock_prices - stock_info.df$open_price) /\n     stock_info.df$open_price) * 100\n\nstock_info.df\n\n          stock_prices  stock_company stock_ticker make_cars open_price\nMicrosoft         47.5      Microsoft         MSFT     FALSE       47.3\nApple             48.0          Apple         AAPL     FALSE       47.8\nFacebook          49.1       Facebook           FB     FALSE       49.5\nTesla             47.7          Tesla         TSLA      TRUE       47.9\n1                 50.4 General Motors           GM      TRUE       55.3\n          change_percent\nMicrosoft      0.4228330\nApple          0.4184100\nFacebook      -0.8080808\nTesla         -0.4175365\n1             -8.8607595"
+  },
+  {
+    "objectID": "r-programming.html#functional-programming-with-purrr",
+    "href": "r-programming.html#functional-programming-with-purrr",
+    "title": "R Programming",
+    "section": "Functional Programming with purrr",
+    "text": "Functional Programming with purrr\nThe purrr package simplifies iteration by replacing traditional loops with cleaner functions like map(). Instead of calculating the mean of each column separately, map_dbl() computes all means in a single step.\n\nlibrary(purrr)\n\ncols &lt;- c(\"mpg\", \"hp\", \"wt\")\nmap_dbl(mtcars[cols], mean)\n\n      mpg        hp        wt \n 20.09062 146.68750   3.21725"
+  },
+  {
+    "objectID": "r-programming.html#factor-handling-with-forcats",
+    "href": "r-programming.html#factor-handling-with-forcats",
+    "title": "R Programming",
+    "section": "Factor Handling with forcats",
+    "text": "Factor Handling with forcats\n\nlibrary(gapminder)\nlibrary(forcats)\n\n# Population by continent in 2007\npop_2007 &lt;- gapminder |&gt;\n  filter(year == 2007) |&gt;\n  summarise(total_pop = sum(pop), .by = continent)\n\npop_2007 |&gt;\n  arrange(desc(total_pop))\n\n# A tibble: 5 × 2\n  continent  total_pop\n  &lt;fct&gt;          &lt;dbl&gt;\n1 Asia      3811953827\n2 Africa     929539692\n3 Americas   898871184\n4 Europe     586098529\n5 Oceania     24549947\n\n# Reorder factor levels\ngapminder |&gt;\n  filter(year == 2007) |&gt;\n  summarise(total_pop = sum(pop), .by = continent) |&gt;\n  ggplot(aes(fct_reorder(continent, total_pop), total_pop)) +\n  geom_col() +\n  coord_flip() +\n  labs(title = \"Population by Continent (2007)\",\n       x = \"Continent\",\n       y = \"Population\")"
+  },
+  {
+    "objectID": "r-programming.html#top-bottom-countries-life-expectancy",
+    "href": "r-programming.html#top-bottom-countries-life-expectancy",
+    "title": "R Programming",
+    "section": "Top & Bottom Countries: Life Expectancy",
+    "text": "Top & Bottom Countries: Life Expectancy\n\nlibrary(patchwork)\n\nasia_2007 &lt;- gapminder |&gt;\n  filter(year == 2007, continent == \"Asia\")\n\n# Top 5\ntop_plot &lt;- asia_2007 |&gt;\n  slice_max(lifeExp, n = 5) |&gt;\n  ggplot(aes(fct_reorder(country, lifeExp), lifeExp)) +\n  geom_col() +\n  coord_flip() +\n  labs(title = \"Top 5 Countries\")\n\n# Bottom 5\nbottom_plot &lt;- asia_2007 |&gt;\n  slice_min(lifeExp, n = 5) |&gt;\n  ggplot(aes(fct_reorder(country, lifeExp), lifeExp)) +\n  geom_col() +\n  coord_flip() +\n  labs(title = \"Bottom 5 Countries\")\n\ntop_plot + bottom_plot"
+  },
+  {
+    "objectID": "r-programming.html#date-time-operations-with-lubridate",
+    "href": "r-programming.html#date-time-operations-with-lubridate",
+    "title": "R Programming",
+    "section": "Date-Time Operations with lubridate",
+    "text": "Date-Time Operations with lubridate\n\nlibrary(nycflights13)\nlibrary(lubridate)\n\nflights_lub &lt;- flights |&gt;\n  filter(!is.na(dep_time), !is.na(arr_time), !is.na(air_time)) |&gt;\n  mutate(\n    dep_time = make_datetime(year, month, day, dep_time %/% 100, dep_time %% 100),\n    arr_time = make_datetime(year, month, day, arr_time %/% 100, arr_time %% 100)\n  ) |&gt;\n  select(origin, dest, air_time, starts_with(\"dep\"), starts_with(\"arr\"))\n\n# Daily flight distribution\nflights_lub |&gt;\n  count(date = as.Date(dep_time)) |&gt;\n  ggplot(aes(date, n)) +\n  geom_line() +\n  labs(title = \"Flights per Day (2013)\")"
+  },
+  {
+    "objectID": "r-programming.html#string-operations",
+    "href": "r-programming.html#string-operations",
+    "title": "R Programming",
+    "section": "String Operations",
+    "text": "String Operations\n\nlibrary(stringr)\n\n# Extract first words from sentences\nfirst_words &lt;- str_trim(word(sentences, 1))\nhead(first_words, 20)\n\n [1] \"The\"   \"Glue\"  \"It's\"  \"These\" \"Rice\"  \"The\"   \"The\"   \"The\"   \"Four\" \n[10] \"A\"     \"The\"   \"A\"     \"The\"   \"Kick\"  \"Help\"  \"A\"     \"Smoky\" \"The\"  \n[19] \"The\"   \"The\"  \n\n# Count \"The\" as first word\ncount_the &lt;- sum(first_words == \"The\")\nprop_the &lt;- mean(first_words == \"The\")\n\ncat(\"Count:\", count_the, \"\\n\")\n\nCount: 256 \n\ncat(\"Proportion:\", round(prop_the, 3), \"\\n\")\n\nProportion: 0.356"
+  },
+  {
+    "objectID": "r-programming.html#key-programming-concepts",
+    "href": "r-programming.html#key-programming-concepts",
+    "title": "R Programming",
+    "section": "Key Programming Concepts",
+    "text": "Key Programming Concepts\n\n\nCustom Functions\nDefine reusable functions to reduce repetition and make code more readable. Whenever code is repeated more than twice, convert it into a function.\nDRY Principle\n\n\nFunctional Iteration\nUse map(), map_dbl(), and map_dfr() from purrr instead of traditional for loops for cleaner, more expressive code.\npurrr\n\n\nFactor Reordering\nUse fct_reorder() from forcats to arrange categorical variables by a numeric summary for more meaningful visualizations.\nforcats\n\n\nAnonymous Functions\nDefine functions inline without naming them. This makes code more concise for one-time operations inside pipes.\nFunctional"
   }
 ]
