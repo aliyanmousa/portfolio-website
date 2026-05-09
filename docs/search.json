@@ -1,0 +1,416 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aliyan Mousa",
+    "section": "",
+    "text": "Motivated marketing and e‑commerce professional. Social media manager. Content creator.\nI help brands grow by blending data‑driven strategies with creative storytelling. My experience spans social media management, content production (Adobe Creative Cloud), and retail operations. I’m currently building a portfolio that connects my professional work in e‑commerce with my academic background in business administration – including space for Google Analytics certificates, marketing projects, and case studies.\nEmail | GitHub | LinkedIn",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Aliyan Mousa",
+    "section": "About Me",
+    "text": "About Me\nI hold a Bachelor of Business Administration (expecting to graduate in June 2026) from California State Polytechnic University, Pomona (Cal Poly Pomona), and an Associate Degree in Business Administration (June 2024) from Chaffey College, Rancho Cucamonga, CA.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Aliyan Mousa",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nWhether you’re looking for a social media manager, marketing coordinator, or e‑commerce specialist, I’d be glad to connect.\nEmail | GitHub | LinkedIn",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
+    "href": "strategic-marketing.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
+    "title": "Marketing Projects",
+    "section": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)",
+    "text": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)\nThis project involved a comprehensive exploratory data analysis of student research participation data to understand how academic background influences perceived value of research engagement.\nThe analysis focused on transforming raw survey responses into meaningful analytical structures through data cleaning, recoding, and index construction. A key aspect of the project was the development of a composite perception index using multiple survey items, validated using internal consistency measures.\nThe study further explored differences across academic major groups by aggregating responses and identifying patterns in perceived value. This allowed for a structured comparison of how students from different academic disciplines evaluate the usefulness of participating in research activities.\nBeyond descriptive analysis, this project emphasized data preparation workflows, feature engineering, and group-level statistical interpretation, demonstrating how raw survey data can be transformed into actionable insights.",
+    "crumbs": [
+      "Marketing Projects"
+    ]
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-multi-dataset-analysis-visualization",
+    "href": "strategic-marketing.html#project-title-2-multi-dataset-analysis-visualization",
+    "title": "Marketing Projects",
+    "section": "Project Title 2: Multi-Dataset Analysis & Visualization",
+    "text": "Project Title 2: Multi-Dataset Analysis & Visualization\nThis project demonstrates applied data manipulation and visualization across multiple structured datasets, focusing on income, religion, air quality, and transportation data.\nThe primary objective was to explore how data structure impacts analysis and visualization outcomes. A key focus was reshaping datasets between wide and long formats to enable meaningful comparisons and graphical representation.\nThe project also involved handling missing values, deriving summary statistics, and constructing visual outputs that reveal relationships between variables such as income distribution patterns, flight delays, and environmental measurements.\nA significant analytical component was the transformation of raw tabular datasets into formats suitable for heatmaps, scatter plots, and grouped summaries, highlighting the importance of data preparation in any analytical workflow.",
+    "crumbs": [
+      "Marketing Projects"
+    ]
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-3-advanced-data-visualization-storytelling",
+    "href": "strategic-marketing.html#project-title-3-advanced-data-visualization-storytelling",
+    "title": "Marketing Projects",
+    "section": "Project Title 3: Advanced Data Visualization & Storytelling",
+    "text": "Project Title 3: Advanced Data Visualization & Storytelling\nThis project focuses on advanced data visualization techniques used to enhance analytical storytelling, interactivity, and temporal interpretation of data.\nThe analysis integrates dynamic visualization approaches such as animated charts and interactive plots to demonstrate how data relationships evolve over time. These methods allow for deeper exploration of trends that are not easily observable in static visualizations.\nIn addition, the project explores multi-layer visualization design, including the combination of multiple variables in a single analytical framework. This approach improves the interpretability of complex datasets by reducing cognitive overload while maintaining analytical depth.\nA key strength of this project is the emphasis on data storytelling, where visual design choices are intentionally used to communicate insights clearly and effectively to both technical and non-technical audiences.",
+    "crumbs": [
+      "Marketing Projects"
+    ]
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-4-academic-performance-attendance-analysis",
+    "href": "strategic-marketing.html#project-title-4-academic-performance-attendance-analysis",
+    "title": "Marketing Projects",
+    "section": "Project Title 4: Academic Performance & Attendance Analysis",
+    "text": "Project Title 4: Academic Performance & Attendance Analysis\nThis project analyzes student academic performance using structured institutional data, focusing on the relationship between prior academic achievement, attendance behavior, and final academic outcomes.\nThe analysis explores how prior GPA, ACT scores, and attendance rates jointly influence term performance. Special attention is given to group-based differences, particularly between freshman and non-freshman students, to assess whether academic experience moderates performance outcomes.\nThe project applies regression analysis, correlation matrices, and distributional comparisons to uncover both linear relationships and group-level behavioral differences. These methods allow for a deeper understanding of how academic behaviors interact with performance outcomes.\nA key insight from this project is that academic performance is not solely determined by prior ability, but is also influenced by engagement factors such as attendance and institutional experience level.",
+    "crumbs": [
+      "Marketing Projects"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "About Mousa",
+    "section": "",
+    "text": "Digital marketing professional and Business Administration student at California State Polytechnic University, Pomona, with hands-on experience in social media strategy, SEO, content creation, and e-commerce management. Skilled in Adobe Creative Cloud, campaign analytics, and audience growth. Proven ability to design and execute cross-platform marketing initiatives that drive brand engagement, sales conversions, and measurable growth.",
+    "crumbs": [
+      "About Mousa"
+    ]
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "About Mousa",
+    "section": "",
+    "text": "Digital marketing professional and Business Administration student at California State Polytechnic University, Pomona, with hands-on experience in social media strategy, SEO, content creation, and e-commerce management. Skilled in Adobe Creative Cloud, campaign analytics, and audience growth. Proven ability to design and execute cross-platform marketing initiatives that drive brand engagement, sales conversions, and measurable growth.",
+    "crumbs": [
+      "About Mousa"
+    ]
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "About Mousa",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nDegree\nInstitution\nYear\n\n\n\n\nBachelor of Business Administration\nCalifornia State Polytechnic University, Pomona\nExpected June 2025\n\n\nAssociate of Business Administration\nChaffey College, Rancho Cucamonga, CA\nJune 2024",
+    "crumbs": [
+      "About Mousa"
+    ]
+  },
+  {
+    "objectID": "resume.html#marketing-experience",
+    "href": "resume.html#marketing-experience",
+    "title": "About Mousa",
+    "section": "Marketing Experience",
+    "text": "Marketing Experience\n\nSales Representative – AWS EXPO LAS VEGAS\nTouch Hardware Inc., Rancho Cucamonga, CA | July 2025 - Engaged 500+ attendees with tailored product storytelling, increasing booth conversions by 20%. - Executed visual merchandising strategies with marketing teams, improving customer journey flow. - Collected consumer insights to refine messaging and targeting strategies.\n\n\n\nFounder & Manager – Deal Bargains\nFontana, CA | Jan 2024 – Present - Built and scaled tactical and kitchen knife brand with 140+ SKUs. - Designed SEO-optimized product descriptions and ad campaigns generating $65K annual revenue. - Achieved 2.5K+ items sold with 99.8% positive customer reviews. - Maintained 100% fulfillment accuracy through vendor and inventory management. —",
+    "crumbs": [
+      "About Mousa"
+    ]
+  },
+  {
+    "objectID": "resume.html#leadership-experience",
+    "href": "resume.html#leadership-experience",
+    "title": "About Mousa",
+    "section": "Leadership Experience",
+    "text": "Leadership Experience\n\nCreative Marketing Lead – Middle Eastern Student Association\nPomona, CA | Aug 2024 – Present - Lead branding and digital storytelling for campus-wide events. - Increased event engagement through targeted social campaigns.\n\n\n\nMarketing & Strategy Member – Lebanese Student Association\nPomona, CA | Aug 2024 – Present - Support startup-style marketing campaigns and go-to-market strategies. - Manage content planning and engagement tracking for events.",
+    "crumbs": [
+      "About Mousa"
+    ]
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "About Mousa",
+    "section": "Skills",
+    "text": "Skills\nDigital Marketing & Strategy - Social Media Campaigns - Brand Storytelling - Content Calendars\nAnalytics & SEO - Google Analytics - Meta Insights - Keyword Research - Campaign Optimization\nCreative Tools - Adobe Premiere Pro - Photoshop - Canva\nE-commerce & Operations - Shopify - CRM Systems - Inventory Management\nSoft Skills - Leadership - Adaptability - Fast-paced execution",
+    "crumbs": [
+      "About Mousa"
+    ]
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Home | EDA | Results"
+  },
+  {
+    "objectID": "dashboard.html#project-title-1-key-visualization",
+    "href": "dashboard.html#project-title-1-key-visualization",
+    "title": "Class Projects Dashboard",
+    "section": "Project Title 1: Key Visualization",
+    "text": "Project Title 1: Key Visualization",
+    "crumbs": [
+      "Class Projects Dashboard"
+    ]
+  },
+  {
+    "objectID": "dashboard.html#project-title-2",
+    "href": "dashboard.html#project-title-2",
+    "title": "Class Projects Dashboard",
+    "section": "**Project Title 2",
+    "text": "**Project Title 2\nKey Visualization: Income Distribution Heatmap",
+    "crumbs": [
+      "Class Projects Dashboard"
+    ]
+  },
+  {
+    "objectID": "dashboard.html#project-title-3",
+    "href": "dashboard.html#project-title-3",
+    "title": "Class Projects Dashboard",
+    "section": "Project Title 3:",
+    "text": "Project Title 3:\nKey Visualization: Animated Trend (Example)",
+    "crumbs": [
+      "Class Projects Dashboard"
+    ]
+  },
+  {
+    "objectID": "dashboard.html#project-title-4",
+    "href": "dashboard.html#project-title-4",
+    "title": "Class Projects Dashboard",
+    "section": "Project Title 4:",
+    "text": "Project Title 4:\nKey Visualization: Prior GPA vs Term GPA",
+    "crumbs": [
+      "Class Projects Dashboard"
+    ]
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Marketing Projects",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "digital-marketing.html",
+    "href": "digital-marketing.html",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "I focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth.\nMy experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution.",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "digital-marketing.html#data-driven-marketing-growth-strategy",
+    "href": "digital-marketing.html#data-driven-marketing-growth-strategy",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "I focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth.\nMy experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution.",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "digital-marketing.html#professional-experience",
+    "href": "digital-marketing.html#professional-experience",
+    "title": "Digital Marketing",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nSocial Media Marketing Lead – La Rose Medical Spa\nUpland, California\nOctober 2023 – March 2024\nLed multi-platform marketing initiatives focused on engagement growth, customer acquisition, and conversion performance.\n\n\nKey Achievements\n\nIncreased engagement by 20%\n\nDeveloped a fitness website generating $10,000+ in global sales\n\nExecuted ROI-focused digital campaigns\n\nOptimized campaigns using Meta Insights and Google Analytics\n\nDeveloped strategic content calendars\n\nImproved targeting and campaign performance",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "digital-marketing.html#marketing-strategy",
+    "href": "digital-marketing.html#marketing-strategy",
+    "title": "Digital Marketing",
+    "section": "Marketing Strategy",
+    "text": "Marketing Strategy\nI use analytical insights and audience behavior data to design campaigns that improve visibility, strengthen customer engagement, and increase conversion performance.\n\nCore Marketing Areas\n\nSocial Media Marketing\n\nPaid Campaign Strategy\n\nAudience Segmentation\n\nConversion Optimization\n\nMarketing Analytics\n\nPerformance Reporting",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "digital-marketing.html#marketing-tools-platforms",
+    "href": "digital-marketing.html#marketing-tools-platforms",
+    "title": "Digital Marketing",
+    "section": "Marketing Tools & Platforms",
+    "text": "Marketing Tools & Platforms\n\n\n\nAnalytics & Reporting\n\nGoogle Analytics\n\nMeta Insights\n\nCampaign Metrics\n\nAudience Tracking\n\nROI Reporting\n\n\n\n\nMarketing Execution\n\nContent Calendars\n\nPaid Media Campaigns\n\nConversion Strategy\n\nBrand Positioning\n\nCustomer Engagement",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "digital-marketing.html#business-impact",
+    "href": "digital-marketing.html#business-impact",
+    "title": "Digital Marketing",
+    "section": "Business Impact",
+    "text": "Business Impact\n\nRevenue Growth\n\nGenerated $10,000+ in online sales\n\n\n\nCampaign Performance\n\nIncreased engagement by 20%\n\nImproved campaign targeting efficiency\n\nEnhanced conversion-focused marketing strategies",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "digital-marketing.html#marketing-philosophy",
+    "href": "digital-marketing.html#marketing-philosophy",
+    "title": "Digital Marketing",
+    "section": "Marketing Philosophy",
+    "text": "Marketing Philosophy\nI believe effective digital marketing combines creativity with measurable performance.\nMy campaigns are guided by:\n\nAudience insights\n\nData-driven decision making\n\nPlatform-specific optimization\n\nContinuous testing and refinement\n\nConversion-focused strategy",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "content-creation.html",
+    "href": "content-creation.html",
+    "title": "Content Creation",
+    "section": "",
+    "text": "I specialize in creating high-impact short-form and social-first content designed to increase audience engagement, strengthen brand identity, and drive platform growth.\nThrough creative storytelling, trend analysis, and audience-focused strategies, I develop content that captures attention and delivers measurable results across multiple platforms.",
+    "crumbs": [
+      "Content Creation"
+    ]
+  },
+  {
+    "objectID": "content-creation.html#building-engaging-digital-experiences",
+    "href": "content-creation.html#building-engaging-digital-experiences",
+    "title": "Content Creation",
+    "section": "",
+    "text": "I specialize in creating high-impact short-form and social-first content designed to increase audience engagement, strengthen brand identity, and drive platform growth.\nThrough creative storytelling, trend analysis, and audience-focused strategies, I develop content that captures attention and delivers measurable results across multiple platforms.",
+    "crumbs": [
+      "Content Creation"
+    ]
+  },
+  {
+    "objectID": "content-creation.html#professional-experience",
+    "href": "content-creation.html#professional-experience",
+    "title": "Content Creation",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nContent Creator – NounNaturals & BPI Sports\nFontana, California\nMay 2021 – Present\nAs a content creator for health and wellness brands, I develop platform-native campaigns focused on maximizing visibility, audience retention, and engagement performance.\n\n\nKey Achievements\n\nGrew TikTok audience to 300,000+ followers\nBuilt Instagram presence to 50,000+ followers\nImproved engagement by 30%\nProduced high-performing fitness and lifestyle content\nCollaborated with creators and influencers to expand reach\nCreated trend-based campaigns aligned with audience interests",
+    "crumbs": [
+      "Content Creation"
+    ]
+  },
+  {
+    "objectID": "content-creation.html#content-strategy",
+    "href": "content-creation.html#content-strategy",
+    "title": "Content Creation",
+    "section": "Content Strategy",
+    "text": "Content Strategy\nMy approach combines creativity with performance optimization to ensure content is both visually engaging and strategically effective.\n\nAreas of Focus\n\nShort-form video production\n\nAudience growth strategy\n\nViral content development\n\nTrend analysis\n\nBrand storytelling\n\nPlatform optimization",
+    "crumbs": [
+      "Content Creation"
+    ]
+  },
+  {
+    "objectID": "content-creation.html#featured-skills",
+    "href": "content-creation.html#featured-skills",
+    "title": "Content Creation",
+    "section": "Featured Skills",
+    "text": "Featured Skills\n\n\n\nCreative Skills\n\nVideo Editing\n\nContent Planning\n\nStorytelling\n\nCreative Direction\n\nVisual Branding\n\n\n\n\nPlatform Skills\n\nTikTok Growth\n\nInstagram Strategy\n\nAudience Engagement\n\nCreator Collaboration\n\nSocial Analytics",
+    "crumbs": [
+      "Content Creation"
+    ]
+  },
+  {
+    "objectID": "content-creation.html#featured-platforms",
+    "href": "content-creation.html#featured-platforms",
+    "title": "Content Creation",
+    "section": "Featured Platforms",
+    "text": "Featured Platforms\n\n\nTikTok Showcase\n\n\n\n\nInstagram Showcase",
+    "crumbs": [
+      "Content Creation"
+    ]
+  },
+  {
+    "objectID": "digital-marketing.html#featured-work",
+    "href": "digital-marketing.html#featured-work",
+    "title": "Digital Marketing",
+    "section": "Featured Work",
+    "text": "Featured Work\n\nCampaign Analytics Showcase",
+    "crumbs": [
+      "Digital Marketing"
+    ]
+  },
+  {
+    "objectID": "class-projects.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
+    "href": "class-projects.html#project-title-1-research-participation-data-insight-analysis-rpe-project",
+    "title": "Coursework Projects",
+    "section": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)",
+    "text": "Project Title 1: Research Participation & Data Insight Analysis (RPE Project)\nThis project involved a comprehensive exploratory data analysis of student research participation data to understand how academic background influences perceived value of research engagement.\nThe analysis focused on transforming raw survey responses into meaningful analytical structures through data cleaning, recoding, and index construction. A key aspect of the project was the development of a composite perception index using multiple survey items, validated using internal consistency measures.\nThe study further explored differences across academic major groups by aggregating responses and identifying patterns in perceived value. This allowed for a structured comparison of how students from different academic disciplines evaluate the usefulness of participating in research activities.\nBeyond descriptive analysis, this project emphasized data preparation workflows, feature engineering, and group-level statistical interpretation, demonstrating how raw survey data can be transformed into actionable insights.",
+    "crumbs": [
+      "Coursework Projects"
+    ]
+  },
+  {
+    "objectID": "class-projects.html#project-title-2-multi-dataset-analysis-visualization",
+    "href": "class-projects.html#project-title-2-multi-dataset-analysis-visualization",
+    "title": "Coursework Projects",
+    "section": "Project Title 2: Multi-Dataset Analysis & Visualization",
+    "text": "Project Title 2: Multi-Dataset Analysis & Visualization\nThis project demonstrates applied data manipulation and visualization across multiple structured datasets, focusing on income, religion, air quality, and transportation data.\nThe primary objective was to explore how data structure impacts analysis and visualization outcomes. A key focus was reshaping datasets between wide and long formats to enable meaningful comparisons and graphical representation.\nThe project also involved handling missing values, deriving summary statistics, and constructing visual outputs that reveal relationships between variables such as income distribution patterns, flight delays, and environmental measurements.\nA significant analytical component was the transformation of raw tabular datasets into formats suitable for heatmaps, scatter plots, and grouped summaries, highlighting the importance of data preparation in any analytical workflow.",
+    "crumbs": [
+      "Coursework Projects"
+    ]
+  },
+  {
+    "objectID": "class-projects.html#project-title-3-advanced-data-visualization-storytelling",
+    "href": "class-projects.html#project-title-3-advanced-data-visualization-storytelling",
+    "title": "Coursework Projects",
+    "section": "Project Title 3: Advanced Data Visualization & Storytelling",
+    "text": "Project Title 3: Advanced Data Visualization & Storytelling\nThis project focuses on advanced data visualization techniques used to enhance analytical storytelling, interactivity, and temporal interpretation of data.\nThe analysis integrates dynamic visualization approaches such as animated charts and interactive plots to demonstrate how data relationships evolve over time. These methods allow for deeper exploration of trends that are not easily observable in static visualizations.\nIn addition, the project explores multi-layer visualization design, including the combination of multiple variables in a single analytical framework. This approach improves the interpretability of complex datasets by reducing cognitive overload while maintaining analytical depth.\nA key strength of this project is the emphasis on data storytelling, where visual design choices are intentionally used to communicate insights clearly and effectively to both technical and non-technical audiences.",
+    "crumbs": [
+      "Coursework Projects"
+    ]
+  },
+  {
+    "objectID": "class-projects.html#project-title-4-academic-performance-attendance-analysis",
+    "href": "class-projects.html#project-title-4-academic-performance-attendance-analysis",
+    "title": "Coursework Projects",
+    "section": "Project Title 4: Academic Performance & Attendance Analysis",
+    "text": "Project Title 4: Academic Performance & Attendance Analysis\nThis project analyzes student academic performance using structured institutional data, focusing on the relationship between prior academic achievement, attendance behavior, and final academic outcomes.\nThe analysis explores how prior GPA, ACT scores, and attendance rates jointly influence term performance. Special attention is given to group-based differences, particularly between freshman and non-freshman students, to assess whether academic experience moderates performance outcomes.\nThe project applies regression analysis, correlation matrices, and distributional comparisons to uncover both linear relationships and group-level behavioral differences. These methods allow for a deeper understanding of how academic behaviors interact with performance outcomes.\nA key insight from this project is that academic performance is not solely determined by prior ability, but is also influenced by engagement factors such as attendance and institutional experience level.",
+    "crumbs": [
+      "Coursework Projects"
+    ]
+  },
+  {
+    "objectID": "index.html#hi-im-aliyan-mousa",
+    "href": "index.html#hi-im-aliyan-mousa",
+    "title": "Aliyan Mousa",
+    "section": "",
+    "text": "Motivated marketing and e‑commerce professional. Social media manager. Content creator.\nI help brands grow by blending data‑driven strategies with creative storytelling. My experience spans social media management, content production (Adobe Creative Cloud), and retail operations. I’m currently building a portfolio that connects my professional work in e‑commerce with my academic background in business administration – including space for Google Analytics certificates, marketing projects, and case studies.\nEmail | GitHub | LinkedIn",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Aliyan Mousa",
+    "section": "What I Do",
+    "text": "What I Do\n\n\n\nFor Brands & Clients\n\nSocial media strategy – planning and executing content calendars that boost engagement and reach\n\nContent creation – producing on‑brand visuals, short‑form video, and copy for multiple platforms\n\nCampaign analysis – using platform insights and Google Analytics to refine tactics and report ROI\n\n\n\n\n\nFor Teams & Projects\n\nCross‑functional coordination – aligning creative, marketing, and operations teams on project timelines\n\nTool adoption – training teams on Adobe Creative Cloud, scheduling software, and CRM tools\n\nProcess documentation – building repeatable workflows that save time and reduce errors",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Aliyan Mousa",
+    "section": "About",
+    "text": "About\nI’m a results‑focused marketing professional with hands‑on experience in social media management, content creation, and retail operations.\nCurrently, I serve as a Marketing & E‑commerce Coordinator where I drive audience growth and conversion through organic and paid campaigns.\nI am pursuing a Bachelor of Business Administration (expected June 2026) from Cal Poly Pomona, and hold an Associate Degree in Business Administration from Chaffey College. This portfolio will continue to grow with coursework, Google Analytics exercises, marketing projects, and applied business work.\n\nFor Teams & Projects\n\nCross‑functional coordination – aligning creative, marketing, and operations teams on project timelines\n\nTool adoption – training teams on Adobe Creative Cloud, scheduling software, and CRM tools\n\nProcess documentation – building repeatable workflows that save time and reduce errors",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Aliyan Mousa",
+    "section": "Selected Work",
+    "text": "Selected Work\n\nSocial Media Campaign for [Brand Name]\nDesigned and executed a 6‑week Instagram campaign that increased reach by 150% and conversion rate by 22% using organic content and targeted ads.\n[Case study →]\n\n\nContent Production for [Client]\nProduced a series of 12 short‑form videos and accompanying graphics that generated 50k+ views and 2k+ shares across TikTok and Instagram.\n[View project →]\n\n\nSEO & Analytics Audit\nPerformed a full SEO audit and Google Analytics 4 setup for a small e‑commerce store, resulting in a 35% increase in organic traffic within 3 months.\n[Read report →]",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#recognition",
+    "href": "index.html#recognition",
+    "title": "Aliyan Mousa",
+    "section": "Recognition",
+    "text": "Recognition\n\nCurrent role – Marketing & E‑commerce Coordinator at [Company Name]\n\nEducation – BBA, Cal Poly Pomona (2026); AA, Chaffey College (2024)\n\nCertifications – Google Analytics (in progress), HubSpot Content Marketing, Meta Blueprint\n\nPortfolio growth areas – Coursework, Google Analytics, marketing projects, and applied business work",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]
