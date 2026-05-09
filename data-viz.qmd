@@ -1,0 +1,187 @@
+---
+title: "Data Visualization"
+description: "Data visualization projects using ggplot2, Plotly, and the Wooldridge attendance dataset."
+---
+
+This section documents data visualization coursework using R, ggplot2, and the Wooldridge attendance dataset. Topics include scatter plots, bar charts, boxplots, correlation heatmaps, and interactive Plotly charts.
+
+## Dataset: Wooldridge Attendance
+
+```{r}
+#| echo: true
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(wooldridge)
+library(gt)
+
+df <- as_tibble(attend)
+
+df %>%
+  gt() %>%
+  fmt_number(
+    columns = c(termGPA, priGPA),
+    decimals = 2
+  ) %>%
+  fmt_percent(
+    columns = atndrte,
+    decimals = 1,
+    scale_values = FALSE
+  ) %>%
+  cols_label(
+    frosh = "Freshman",
+    soph = "Sophomore",
+    termGPA = "Term GPA",
+    priGPA = "Prior GPA",
+    atndrte = "Attendance Rate"
+  ) %>%
+  tab_style(
+    style = cell_text(weight = "bold", align = "center"),
+    locations = cells_column_labels(everything())
+  ) %>%
+  tab_footnote(
+    footnote = "680 observations on 11 variables.",
+    locations = cells_title(groups = "title")
+  ) %>%
+  tab_options(
+    table.border.top.style = "solid",
+    table.border.top.color = "black",
+    table.border.bottom.style = "solid",
+    table.border.bottom.color = "black",
+    column_labels.border.bottom.style = "solid",
+    column_labels.border.bottom.color = "black"
+  ) %>%
+  opt_stylize(style = 6, color = "blue")
+```
+
+## Scatter Plot: Prior GPA vs Missed Classes
+
+```{r}
+#| echo: true
+#| warning: false
+
+df %>%
+  mutate(soph = recode(soph, `1` = "Sophomore", `0` = "Non-Sophomore"),
+         soph = factor(soph)) %>%
+  ggplot(aes(priGPA, missed)) +
+  geom_point(size = 2, color = "blue") +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  facet_wrap(~ soph) +
+  theme_bw() +
+  labs(
+    title = "Relationship Between Prior GPA and Missed Classes",
+    x = "Prior GPA",
+    y = "Missed Classes"
+  )
+```
+
+There is a negative linear association between Prior GPA and missed classes. This association is present in both groups — sophomore and non-sophomore.
+
+## Distribution of ACT Scores
+
+```{r}
+#| echo: true
+
+df %>%
+  ggplot(aes(x = ACT)) +
+  geom_bar(fill = "lightblue") +
+  labs(title = "Distribution of ACT Scores",
+       x = "ACT Score", y = "Count") +
+  theme_minimal()
+```
+
+This resembles a **normal distribution**.
+
+## Bar Charts: Final Score by ACT and Sophomore Status
+
+```{r}
+#| echo: true
+
+df %>%
+  mutate(soph_label = factor(soph, levels = c(0, 1),
+                              labels = c("Not Sophomore", "Sophomore"))) %>%
+  group_by(ACT, soph_label) %>%
+  summarise(mean_final = mean(final, na.rm = TRUE), .groups = "drop") %>%
+  ggplot(aes(x = ACT, y = mean_final, fill = soph_label)) +
+  geom_col(position = position_dodge(width = 0.9), width = 0.9) +
+  scale_fill_manual(values = c("Not Sophomore" = "orange", "Sophomore" = "lightblue")) +
+  labs(title = "Mean Final Score by ACT and Sophomore Status",
+       x = "ACT Score", y = "Mean Final Score",
+       fill = "Sophomore Status") +
+  theme_minimal()
+```
+
+## Boxplot: Final Scores by ACT and Sophomore Status
+
+```{r}
+#| echo: true
+
+df %>%
+  mutate(soph_label = factor(soph, levels = c(0, 1),
+                              labels = c("Not Sophomore", "Sophomore"))) %>%
+  ggplot(aes(x = factor(ACT), y = final, fill = soph_label)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.7) +
+  geom_jitter(position = position_jitterdodge(jitter.width = 0.2, dodge.width = 0.8),
+              aes(color = soph_label), alpha = 0.4, size = 1) +
+  scale_fill_manual(values = c("Not Sophomore" = "yellow", "Sophomore" = "lightblue")) +
+  scale_color_manual(values = c("Not Sophomore" = "orange", "Sophomore" = "pink")) +
+  labs(title = "Final Scores by ACT and Sophomore Status",
+       x = "ACT Score", y = "Final Score",
+       fill = "Sophomore Status", color = "Sophomore Status") +
+  theme_bw()
+```
+
+The boxplot with jitter delivers a more complete and nuanced summary of the data, showing the distribution's spread, median, and potential outliers.
+
+## Correlation Analysis
+
+```{r}
+#| echo: true
+library(GGally)
+
+variables <- df %>%
+  select(attend, termGPA, priGPA, ACT, final, atndrte, hwrte)
+
+ggpairs(variables, title = "Correlation Matrix (ggpairs)") +
+  theme_minimal()
+```
+
+```{r}
+#| echo: true
+
+ggcorr(variables, label = TRUE,
+       label_round = 2,
+       hjust = 0.75,
+       size = 3,
+       layout.exp = 2) +
+  labs(title = "Correlation Heatmap (ggcorr)") +
+  theme_bw()
+```
+
+Attendance rate correlates more strongly with both term GPA and prior GPA than homework submission does. This implies that attending classes regularly may be more beneficial for grades than submitting homework.
+
+## Interactive Scatter Plot
+
+```{r}
+#| echo: true
+library(plotly)
+
+df_sophomore <- df %>%
+  mutate(soph_label = factor(soph, levels = c(0, 1),
+                              labels = c("Not Sophomore", "Sophomore")))
+
+scatter_plot <- ggplot(df_sophomore, aes(x = priGPA, y = termGPA, color = soph_label)) +
+  geom_point(alpha = 0.4) +
+  geom_smooth(method = "lm", se = FALSE) +
+  scale_color_manual(values = c("Not Sophomore" = "black", "Sophomore" = "grey")) +
+  labs(title = "Prior GPA vs. Term GPA",
+       subtitle = "Separated by Sophomore Status",
+       x = "Prior GPA", y = "Term GPA",
+       color = "Sophomore Status") +
+  theme_bw()
+
+ggplotly(scatter_plot, tooltip = c("x", "y", "color"))
+```
+
+The scatter plot shows a moderate to strong positive linear relationship between prior GPA and term GPA in both groups. Prior GPA is a good predictor of current performance.

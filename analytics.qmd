@@ -1,0 +1,110 @@
+---
+title: "Analytics"
+description: "Analytics coursework, Google Analytics, BigQuery, and Looker Studio."
+---
+
+This section documents analytics coursework, Google Analytics work, BigQuery projects, and measurement-focused work that supports data-informed marketing and business decisions.
+
+## Analytics Coursework
+
+::: {.project-grid}
+::: {.project-card}
+### Google Analytics Reporting
+
+Summary of audience, acquisition, engagement, and conversion behavior using Google Analytics reporting tools. Coursework focused on interpreting traffic patterns, identifying acquisition channels, and translating metrics into actionable business recommendations.
+
+<span class="tag">Google Analytics</span>
+<span class="tag">Reporting</span>
+:::
+
+::: {.project-card}
+### Campaign Measurement Planning
+
+Measurement plan connecting marketing goals to KPIs, traffic sources, event tracking, and reporting cadence. Developed frameworks for evaluating campaign performance and ROI across digital channels.
+
+<span class="tag">KPIs</span>
+<span class="tag">Campaign Measurement</span>
+:::
+
+::: {.project-card}
+### Data Analytics with BigQuery
+
+Learned to use Google Cloud BigQuery as an effective tool to analyze large datasets through SQL queries. Worked with publicly available data including global temperature patterns to practice aggregation functions, table joins, and data summarization.
+
+<span class="tag">BigQuery</span>
+<span class="tag">SQL</span>
+<span class="tag">Google Cloud</span>
+:::
+
+::: {.project-card}
+### Looker Studio Dashboards
+
+Connected BigQuery data to Looker Studio to generate visual reports including line charts for temporal patterns, column charts for comparisons, and geo charts for geographic analysis. Practiced customizing dimensions and measurements.
+
+<span class="tag">Looker Studio</span>
+<span class="tag">Dashboards</span>
+:::
+:::
+
+## BigQuery & Looker Studio Workflow
+
+### Data Analysis in BigQuery
+
+In the course, I learned to use Google Cloud BigQuery as an effective tool to analyze large datasets through an efficient data warehouse format. BigQuery enables querying large volumes of data with SQL within a brief period without having to administer infrastructure.
+
+Key skills developed:
+
+- Writing SQL queries with SELECT statements, filtering, and table structures
+- Using aggregation functions like averages and counts to summarize big datasets
+- Joining two or more datasets for complex analysis
+- Processing raw data into actionable insights for business decision-making
+
+### Designing Visualizations in Looker Studio
+
+After processing data in BigQuery, I connected it to Looker Studio to generate visual reports. Key activities:
+
+- Created line charts to demonstrate temporal patterns including global temperature changes
+- Operated various chart types including column charts and geo charts
+- Customized dimensions and measurements to make charts more personalized
+- Applied data storytelling techniques for both technical and non-technical audiences
+
+### Real-World Application
+
+The analytics workflow addressed real-world problems by:
+
+1. Starting with a problem statement
+2. Collecting corresponding data
+3. Analyzing it with SQL and aggregation
+4. Presenting results in visual dashboards
+
+## Introduction to Positron
+
+Positron is a modern integrated development environment designed for data science workflows, supporting multiple programming languages such as R and Python.
+
+### Key Features
+
+- Support for multiple programming languages
+- A modern interface designed for extensibility
+- Integration with development tools and extensions
+- AI integration for code suggestions and debugging
+
+### AI Tools Comparison
+
+| Tool | Type | Cost |
+|---|---|---|
+| GitHub Copilot | Code completion assistant | Free for students |
+| OpenAI integrations | Chat-based assistance | May require API |
+| Other extensions | Code suggestions and automation | Varies |
+
+## Data Science in R
+
+In addition to analytics tools, I have applied R and the Tidyverse ecosystem for statistical analysis and data visualization:
+
+- [Data Visualization in R](data-viz.qmd) — ggplot2, Plotly, correlation analysis, and interactive charts
+- [Data Wrangling with Tidyverse](data-wrangling.qmd) — Reshaping, cleaning, and transforming datasets
+- [Advanced Data Visualization](advanced-viz.qmd) — gganimate, scales, geospatial mapping, and design principles
+- [R Programming](r-programming.qmd) — Custom functions, purrr, forcats, and functional programming
+
+## Certifications
+
+View my professional certifications on the [Certifications](certifications.qmd) page.

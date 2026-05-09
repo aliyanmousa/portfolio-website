@@ -1,0 +1,42 @@
+---
+title: "About"
+---
+
+I'm Aliyan Mousa, a marketing, e‑commerce, and data science student at California State Polytechnic University, Pomona. I'm passionate about building a portfolio that brings together my academic and applied work across digital marketing, content creation, data visualization, analytics, and business operations.
+
+## Academic Profile
+
+My coursework reflects a business-focused education with emphasis in marketing management, consumer behavior, data analytics, and applied data science. I have completed hands-on work with:
+
+- **R & the Tidyverse** — Data visualization with ggplot2, data wrangling with dplyr/tidyr, interactive visualizations with Plotly, animated charts with gganimate, and functional programming with purrr
+- **Google Analytics & BigQuery** — Campaign measurement, audience analysis, SQL queries on large datasets, and Looker Studio dashboards
+- **Marketing Tools** — Meta Insights, Google Analytics, campaign optimization, content calendars, and ROI reporting
+- **Creative Tools** — Adobe Premiere Pro, Photoshop, Canva, and video production for social platforms
+
+## What This Site Includes
+
+- **Data Science Work** — Complete R-based projects with live visualizations including scatter plots, bar charts, boxplots, correlation heatmaps, animated charts, and interactive Plotly charts
+- **Project Summaries** — Research participation analysis, multi-dataset visualization, academic performance modeling, and e-commerce brand building
+- **Marketing Projects** — Digital marketing campaigns, social media strategy, content creation achievements, and ROI-focused execution
+- **Certifications** — Google Analytics certifications and professional training
+- **Analytics** — BigQuery, Looker Studio, and campaign measurement work
+
+## Professional Experience
+
+Beyond academics, I bring real-world marketing and business experience:
+
+- **Content Creator** — NounNaturals & BPI Sports: Grew TikTok to 300K+ followers and Instagram to 50K+ followers
+- **Founder & Manager** — Deal Bargains: Built an e-commerce brand with 140+ SKUs and $65K annual revenue
+- **Social Media Marketing Lead** — La Rose Medical Spa: Increased engagement by 20% and generated $10K+ in global sales
+- **Creative Marketing Lead** — Middle Eastern Student Association at Cal Poly Pomona
+
+## Education
+
+- **Bachelor of Business Administration** — California State Polytechnic University, Pomona (Expected June 2026)
+- **Associate of Business Administration** — Chaffey College, Rancho Cucamonga, CA (June 2024)
+
+## Let's Connect
+
+- [Email](mailto:mousa.aliyan@outlook.com)
+- [GitHub](https://github.com/aliyanmousa)
+- [LinkedIn](https://www.linkedin.com/in/mousa-aliyan-553488356)

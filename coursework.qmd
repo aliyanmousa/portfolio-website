@@ -1,0 +1,47 @@
+---
+title: "Coursework"
+description: "Completed classes grouped by academic area."
+---
+
+The coursework below documents completed classes across business, marketing, analytics, data science, and general education at Cal Poly Pomona and Chaffey College.
+
+## Marketing and Business
+
+| Code | Course |
+|---|---|
+| IBM 3012 | Principles of Marketing Management |
+| IBM 3202 | Market Analysis and Control |
+| IBM 3302 | Marketing Research |
+| IBM 4112 | Consumer Behavior |
+
+## Data Science and Analytics
+
+| Code | Course |
+|---|---|
+| IBM 3202 | Data Visualization with R (ggplot2) |
+| IBM 3202 | Data Wrangling with Tidyverse |
+| IBM 3202 | Advanced Data Visualization |
+| IBM 3202 | R Programming & Functions |
+| IBM 3202 | Google Analytics & BigQuery |
+
+## Business Administration
+
+| Code | Course |
+|---|---|
+| — | Business Administration (BBA Program) |
+| — | Associate of Business Administration |
+
+## Full Course List
+
+<table class="course-table">
+<thead>
+<tr><th>Area</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr><td class="course-code">Marketing</td><td>Principles of Marketing, Market Analysis, Marketing Research, Consumer Behavior</td></tr>
+<tr><td class="course-code">Data Science</td><td>Data Visualization, Data Wrangling, Advanced Viz, R Programming, Google Analytics</td></tr>
+<tr><td class="course-code">Business</td><td>Business Administration, E-commerce, Operations, Leadership</td></tr>
+<tr><td class="course-code">Analytics</td><td>Google Analytics, BigQuery, Looker Studio, Campaign Measurement</td></tr>
+<tr><td class="course-code">Creative</td><td>Adobe Creative Cloud, Content Creation, Video Production</td></tr>
+</tbody>
+</table>

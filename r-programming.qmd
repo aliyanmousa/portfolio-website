@@ -1,0 +1,204 @@
+---
+title: "R Programming"
+description: "R programming projects covering functions, purrr, forcats, lubridate, and functional programming."
+---
+
+This section documents R programming coursework covering data types, custom functions, functional programming with purrr, factor handling with forcats, and date-time operations with lubridate.
+
+## Working with Vectors and Data Frames
+
+```{r}
+#| echo: true
+#| warning: false
+#| message: false
+
+library(tidyverse)
+
+# Create vectors
+stock_prices <- c(42.5, 43.0, 44.1, 2.7)
+stock_company <- c("Microsoft", "Apple", "Facebook", "Tesla")
+stock_ticker <- c("MSFT", "AAPL", "FB", "TSLA")
+make_cars <- c(FALSE, FALSE, FALSE, TRUE)
+
+# Update and name
+stock_prices <- stock_prices + 5
+names(stock_prices) <- stock_company
+
+# Build data frame
+stock_info.df <- data.frame(
+  stock_prices,
+  stock_company,
+  stock_ticker,
+  make_cars,
+  stringsAsFactors = FALSE
+)
+
+# Correct Tesla
+stock_info.df[stock_info.df$stock_company == "Tesla", "stock_prices"] <- 47.7
+
+# Add new row
+extra <- data.frame(
+  stock_prices = 50.4,
+  stock_company = "General Motors",
+  stock_ticker = "GM",
+  make_cars = TRUE
+)
+stock_info.df <- rbind(stock_info.df, extra)
+stock_info.df$open_price <- c(47.3, 47.8, 49.5, 47.9, 55.3)
+
+# Percentage change
+stock_info.df$change_percent <-
+  ((stock_info.df$stock_prices - stock_info.df$open_price) /
+     stock_info.df$open_price) * 100
+
+stock_info.df
+```
+
+## Functional Programming with purrr
+
+The purrr package simplifies iteration by replacing traditional loops with cleaner functions like `map()`. Instead of calculating the mean of each column separately, `map_dbl()` computes all means in a single step.
+
+```{r}
+#| echo: true
+
+library(purrr)
+
+cols <- c("mpg", "hp", "wt")
+map_dbl(mtcars[cols], mean)
+```
+
+## Factor Handling with forcats
+
+```{r}
+#| echo: true
+
+library(gapminder)
+library(forcats)
+
+# Population by continent in 2007
+pop_2007 <- gapminder |>
+  filter(year == 2007) |>
+  summarise(total_pop = sum(pop), .by = continent)
+
+pop_2007 |>
+  arrange(desc(total_pop))
+
+# Reorder factor levels
+gapminder |>
+  filter(year == 2007) |>
+  summarise(total_pop = sum(pop), .by = continent) |>
+  ggplot(aes(fct_reorder(continent, total_pop), total_pop)) +
+  geom_col() +
+  coord_flip() +
+  labs(title = "Population by Continent (2007)",
+       x = "Continent",
+       y = "Population")
+```
+
+## Top & Bottom Countries: Life Expectancy
+
+```{r}
+#| echo: true
+
+library(patchwork)
+
+asia_2007 <- gapminder |>
+  filter(year == 2007, continent == "Asia")
+
+# Top 5
+top_plot <- asia_2007 |>
+  slice_max(lifeExp, n = 5) |>
+  ggplot(aes(fct_reorder(country, lifeExp), lifeExp)) +
+  geom_col() +
+  coord_flip() +
+  labs(title = "Top 5 Countries")
+
+# Bottom 5
+bottom_plot <- asia_2007 |>
+  slice_min(lifeExp, n = 5) |>
+  ggplot(aes(fct_reorder(country, lifeExp), lifeExp)) +
+  geom_col() +
+  coord_flip() +
+  labs(title = "Bottom 5 Countries")
+
+top_plot + bottom_plot
+```
+
+## Date-Time Operations with lubridate
+
+```{r}
+#| echo: true
+
+library(nycflights13)
+library(lubridate)
+
+flights_lub <- flights |>
+  filter(!is.na(dep_time), !is.na(arr_time), !is.na(air_time)) |>
+  mutate(
+    dep_time = make_datetime(year, month, day, dep_time %/% 100, dep_time %% 100),
+    arr_time = make_datetime(year, month, day, arr_time %/% 100, arr_time %% 100)
+  ) |>
+  select(origin, dest, air_time, starts_with("dep"), starts_with("arr"))
+
+# Daily flight distribution
+flights_lub |>
+  count(date = as.Date(dep_time)) |>
+  ggplot(aes(date, n)) +
+  geom_line() +
+  labs(title = "Flights per Day (2013)")
+```
+
+## String Operations
+
+```{r}
+#| echo: true
+
+library(stringr)
+
+# Extract first words from sentences
+first_words <- str_trim(word(sentences, 1))
+head(first_words, 20)
+
+# Count "The" as first word
+count_the <- sum(first_words == "The")
+prop_the <- mean(first_words == "The")
+
+cat("Count:", count_the, "\n")
+cat("Proportion:", round(prop_the, 3), "\n")
+```
+
+## Key Programming Concepts
+
+::: {.project-grid}
+::: {.project-card}
+### Custom Functions
+
+Define reusable functions to reduce repetition and make code more readable. Whenever code is repeated more than twice, convert it into a function.
+
+<span class="tag">DRY Principle</span>
+:::
+
+::: {.project-card}
+### Functional Iteration
+
+Use `map()`, `map_dbl()`, and `map_dfr()` from purrr instead of traditional for loops for cleaner, more expressive code.
+
+<span class="tag">purrr</span>
+:::
+
+::: {.project-card}
+### Factor Reordering
+
+Use `fct_reorder()` from forcats to arrange categorical variables by a numeric summary for more meaningful visualizations.
+
+<span class="tag">forcats</span>
+:::
+
+::: {.project-card}
+### Anonymous Functions
+
+Define functions inline without naming them. This makes code more concise for one-time operations inside pipes.
+
+<span class="tag">Functional</span>
+:::
+:::
