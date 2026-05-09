@@ -1,5 +1,13 @@
 ---
-title: "About Mousa"
+title: "Resume"
+page-class: resume
+---
+
+## Aliyan Mousa
+
+Fontana, California
+[mousa.aliyan@outlook.com](mailto:mousa.aliyan@outlook.com) | [GitHub](https://github.com/aliyanmousa) | [LinkedIn](https://www.linkedin.com/in/mousa-aliyan-553488356)
+
 ---
 
 ## Professional Summary
@@ -10,71 +18,127 @@ Digital marketing professional and Business Administration student at California
 
 ## Education
 
-| Degree | Institution | Year |
-|--------|------------|------|
-| Bachelor of Business Administration | California State Polytechnic University, Pomona | Expected June 2025 |
-| Associate of Business Administration | Chaffey College, Rancho Cucamonga, CA | June 2024 |
+### California State Polytechnic University, Pomona
+
+*Pomona, California*
+**Bachelor of Business Administration**
+*Expected June 2026*
+
+### Chaffey College
+
+*Rancho Cucamonga, California*
+**Associate of Business Administration**
+*June 2024*
 
 ---
 
 ## Marketing Experience
 
-### Sales Representative – AWS EXPO LAS VEGAS  
-**Touch Hardware Inc., Rancho Cucamonga, CA | July 2025**
-- Engaged 500+ attendees with tailored product storytelling, increasing booth conversions by 20%.
-- Executed visual merchandising strategies with marketing teams, improving customer journey flow.
-- Collected consumer insights to refine messaging and targeting strategies.
+### Sales Representative — AWS EXPO LAS VEGAS
+
+**Touch Hardware Inc., Rancho Cucamonga, CA · July 2025**
+
+- Engaged 500+ attendees with tailored product storytelling, increasing booth conversions by 20%
+- Executed visual merchandising strategies with marketing teams, improving customer journey flow
+- Collected consumer insights to refine messaging and targeting strategies
 
 ---
 
-### Founder & Manager – Deal Bargains  
-**Fontana, CA | Jan 2024 – Present**
-- Built and scaled tactical and kitchen knife brand with 140+ SKUs.
-- Designed SEO-optimized product descriptions and ad campaigns generating $65K annual revenue.
-- Achieved 2.5K+ items sold with 99.8% positive customer reviews.
-- Maintained 100% fulfillment accuracy through vendor and inventory management.
+### Founder & Manager — Deal Bargains
+
+**Fontana, CA · Jan 2024 – Present**
+
+- Built and scaled tactical and kitchen knife brand with 140+ SKUs
+- Designed SEO-optimized product descriptions and ad campaigns generating $65K annual revenue
+- Achieved 2.5K+ items sold with 99.8% positive customer reviews
+- Maintained 100% fulfillment accuracy through vendor and inventory management
+
+---
+
+### Social Media Marketing Lead — La Rose Medical Spa
+
+**Upland, CA · October 2023 – March 2024**
+
+- Increased engagement by 20%
+- Developed a fitness website generating $10,000+ in global sales
+- Executed ROI-focused digital campaigns
+- Optimized campaigns using Meta Insights and Google Analytics
+
+---
+
+### Content Creator — NounNaturals & BPI Sports
+
+**Fontana, CA · May 2021 – Present**
+
+- Grew TikTok audience to 300,000+ followers
+- Built Instagram presence to 50,000+ followers
+- Improved engagement by 30%
+- Produced high-performing fitness and lifestyle content
+
 ---
 
 ## Leadership Experience
 
-### Creative Marketing Lead – Middle Eastern Student Association  
-**Pomona, CA | Aug 2024 – Present**
-- Lead branding and digital storytelling for campus-wide events.
-- Increased event engagement through targeted social campaigns.
+### Creative Marketing Lead — Middle Eastern Student Association
+
+**Cal Poly Pomona · Aug 2024 – Present**
+
+- Lead branding and digital storytelling for campus-wide events
+- Increased event engagement through targeted social campaigns
 
 ---
 
-### Marketing & Strategy Member – Lebanese Student Association  
-**Pomona, CA | Aug 2024 – Present**
-- Support startup-style marketing campaigns and go-to-market strategies.
-- Manage content planning and engagement tracking for events.
+### Marketing & Strategy Member — Lebanese Student Association
+
+**Cal Poly Pomona · Aug 2024 – Present**
+
+- Support startup-style marketing campaigns and go-to-market strategies
+- Manage content planning and engagement tracking for events
 
 ---
 
 ## Skills
 
 **Digital Marketing & Strategy**
+
 - Social Media Campaigns
 - Brand Storytelling
 - Content Calendars
 
 **Analytics & SEO**
+
 - Google Analytics
 - Meta Insights
 - Keyword Research
 - Campaign Optimization
 
 **Creative Tools**
+
 - Adobe Premiere Pro
 - Photoshop
 - Canva
 
 **E-commerce & Operations**
+
 - Shopify
 - CRM Systems
 - Inventory Management
 
+**Data Science**
+
+- R Programming
+- ggplot2 & Tidyverse
+- Data Visualization
+- Data Wrangling
+
 **Soft Skills**
+
 - Leadership
 - Adaptability
 - Fast-paced execution
+
+---
+
+## References
+
+Available upon request.

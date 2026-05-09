@@ -1,0 +1,75 @@
+---
+title: "Projects"
+description: "Selected academic and applied work."
+---
+
+This section showcases completed projects from academic coursework and professional work.
+
+::: {.project-grid}
+::: {.project-card}
+### Research Participation & Data Insight Analysis
+
+Comprehensive exploratory data analysis of student research participation data examining how academic background influences perceived value of research engagement. Included data cleaning, recoding, index construction, and group-level statistical interpretation.
+
+<span class="tag">R</span>
+<span class="tag">Data Analysis</span>
+<span class="tag">Survey Data</span>
+:::
+
+::: {.project-card}
+### Multi-Dataset Analysis & Visualization
+
+Applied data manipulation and visualization across income, religion, air quality, and transportation datasets. Focused on reshaping between wide and long formats, handling missing values, and constructing heatmaps and scatter plots.
+
+<span class="tag">Tidyverse</span>
+<span class="tag">Data Wrangling</span>
+:::
+
+::: {.project-card}
+### Advanced Data Visualization & Storytelling
+
+Advanced visualization techniques including animated charts with gganimate, interactive plots with Plotly, multi-layer visualization design, and data storytelling for technical and non-technical audiences.
+
+<span class="tag">gganimate</span>
+<span class="tag">Plotly</span>
+<span class="tag">ggplot2</span>
+:::
+
+::: {.project-card}
+### Academic Performance & Attendance Analysis
+
+Analysis of student academic performance using regression analysis, correlation matrices, and distributional comparisons. Examined how prior GPA, ACT scores, and attendance jointly influence term performance with group-based comparisons.
+
+<span class="tag">Regression</span>
+<span class="tag">Correlation</span>
+<span class="tag">Wooldridge</span>
+:::
+
+::: {.project-card}
+### E-Commerce Brand: Deal Bargains
+
+Built and scaled a tactical and kitchen knife brand with 140+ SKUs, generating $65K annual revenue with 2.5K+ items sold and 99.8% positive customer reviews.
+
+<span class="tag">E-Commerce</span>
+<span class="tag">SEO</span>
+<span class="tag">Brand Building</span>
+:::
+
+::: {.project-card}
+### Social Media Marketing: La Rose Medical Spa
+
+Led multi-platform marketing initiatives that increased engagement by 20%, developed a fitness website generating $10,000+ in global sales, and optimized campaigns using Meta Insights and Google Analytics.
+
+<span class="tag">Social Media</span>
+<span class="tag">Digital Marketing</span>
+:::
+:::
+
+## Data Science Projects
+
+Detailed data science coursework with live R code and visualizations:
+
+- [Data Visualization in R](data-viz.qmd) — Scatter plots, bar charts, boxplots, correlation heatmaps, and interactive Plotly charts
+- [Data Wrangling with Tidyverse](data-wrangling.qmd) — Air quality, NYC flights, religion/income reshaping, rent vs. income
+- [Advanced Data Visualization](advanced-viz.qmd) — gganimate, scales, geospatial mapping, and design principles
+- [R Programming](r-programming.qmd) — Custom functions, purrr, forcats, lubridate, and functional programming

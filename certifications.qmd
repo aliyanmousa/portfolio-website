@@ -1,0 +1,44 @@
+---
+title: "Certifications"
+description: "Professional certifications and completed training."
+---
+
+This section highlights my professional certifications and completed training in digital marketing and analytics.
+
+---
+
+::: {.cert-grid}
+
+::: {.cert-card}
+![Google Analytics Certification](certs/Evidence of course completions.png){.cert-preview}
+
+::: {.cert-details}
+### Google Analytics Certification
+
+**Date Completed:** 2026
+
+**Skills:** Google Analytics, Data Analysis, Campaign Measurement
+
+**Issuer:** Google
+
+This certification demonstrates proficiency in using Google Analytics to track website performance, analyze audience behavior, and measure marketing ROI.
+:::
+:::
+
+::: {.cert-card}
+![GA4 Data and Reports](certs/GA4 Data and Reports.jpg){.cert-preview}
+
+::: {.cert-details}
+### GA4: Data and Reports Certification
+
+**Date Completed:** 2026
+
+**Skills:** GA4, Event Tracking, Conversion Reporting, Attribution
+
+**Issuer:** Google Analytics Academy
+
+Focuses on the latest generation of Google Analytics, covering event-based tracking, cross-platform measurement, and advanced reporting features in GA4.
+:::
+:::
+
+:::

@@ -1,0 +1,139 @@
+---
+title: "Marketing"
+description: "Digital marketing campaigns, content creation, and social media growth."
+---
+
+This section highlights my professional experience in digital marketing, content creation, and social media management.
+
+## Digital Marketing & Growth Strategy
+
+I focus on developing performance-driven marketing campaigns that combine analytics, audience targeting, and strategic communication to improve engagement, conversion, and brand growth. My experience spans campaign optimization, content strategy, website marketing, and ROI-focused digital execution.
+
+::: {.project-grid}
+::: {.project-card}
+### Social Media Marketing Lead — La Rose Medical Spa
+
+**Upland, California** · October 2023 – March 2024
+
+Led multi-platform marketing initiatives focused on engagement growth, customer acquisition, and conversion performance.
+
+- Increased engagement by **20%**
+- Developed a fitness website generating **$10,000+ in global sales**
+- Executed ROI-focused digital campaigns
+- Optimized campaigns using Meta Insights and Google Analytics
+
+<span class="tag">Social Media</span>
+<span class="tag">Google Analytics</span>
+:::
+
+::: {.project-card}
+### Content Creator — NounNaturals & BPI Sports
+
+**Fontana, California** · May 2021 – Present
+
+Developed platform-native campaigns focused on maximizing visibility, audience retention, and engagement performance.
+
+- Grew TikTok audience to **300,000+ followers**
+- Built Instagram presence to **50,000+ followers**
+- Improved engagement by **30%**
+- Collaborated with creators and influencers
+
+<span class="tag">TikTok</span>
+<span class="tag">Instagram</span>
+:::
+
+::: {.project-card}
+### Founder & Manager — Deal Bargains
+
+**Fontana, CA** · Jan 2024 – Present
+
+Built and scaled a tactical and kitchen knife brand with 140+ SKUs on e-commerce platforms.
+
+- **$65K annual revenue** generated
+- **2.5K+ items sold** with 99.8% positive reviews
+- Designed SEO-optimized product descriptions and ad campaigns
+- 100% fulfillment accuracy
+
+<span class="tag">E-Commerce</span>
+<span class="tag">SEO</span>
+:::
+
+::: {.project-card}
+### Creative Marketing Lead — MESA
+
+**Cal Poly Pomona** · Aug 2024 – Present
+
+Lead branding and digital storytelling for campus-wide events at the Middle Eastern Student Association.
+
+- Increased event engagement through targeted social campaigns
+- Manage content planning and engagement tracking
+
+<span class="tag">Branding</span>
+<span class="tag">Events</span>
+:::
+:::
+
+---
+
+## Marketing Strategy
+
+I use analytical insights and audience behavior data to design campaigns that improve visibility, strengthen customer engagement, and increase conversion performance.
+
+::: {.feature-grid}
+::: {.feature-card}
+### Analytics & Reporting
+
+- Google Analytics
+- Meta Insights
+- Campaign Metrics
+- Audience Tracking
+- ROI Reporting
+:::
+
+::: {.feature-card}
+### Marketing Execution
+
+- Content Calendars
+- Paid Media Campaigns
+- Conversion Strategy
+- Brand Positioning
+- Customer Engagement
+:::
+
+::: {.feature-card}
+### Creative Skills
+
+- Video Editing
+- Content Planning
+- Storytelling
+- Creative Direction
+- Visual Branding
+:::
+:::
+
+---
+
+## Content Strategy
+
+My approach combines creativity with performance optimization to ensure content is both visually engaging and strategically effective.
+
+### Areas of Focus
+
+- Short-form video production
+- Audience growth strategy
+- Viral content development
+- Trend analysis
+- Brand storytelling
+- Platform optimization
+
+---
+
+## Marketing Philosophy
+
+I believe effective digital marketing combines creativity with measurable performance. My campaigns are guided by:
+
+- Audience insights
+- Data-driven decision making
+- Platform-specific optimization
+- Continuous testing and refinement
+- Conversion-focused strategy

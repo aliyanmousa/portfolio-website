@@ -3,49 +3,49 @@ project:
   output-dir: docs
 
 website:
-  title: "portfolio_website"
-  open-graph: true
-
+  title: "Aliyan Mousa Portfolio"
   navbar:
     title: "Aliyan Mousa"
-    pinned: true
-    background: "#ffffff"
-    foreground: "#111111"
-    tools:
-      - icon: github
-        href: https://github.com
-
-  sidebar:
-    style: "floating"
-    collapse-level: 1
-    search: true
-    pinned: false
-    background: "#ffffff"
-
-    contents:
+    left:
       - href: index.qmd
         text: Home
+      - href: coursework.qmd
+        text: Coursework
+      - href: projects.qmd
+        text: Projects
+      - text: Data Science
+        menu:
+          - href: data-viz.qmd
+            text: Data Visualization
+          - href: advanced-viz.qmd
+            text: Advanced Visualization
+          - href: data-wrangling.qmd
+            text: Data Wrangling
+          - href: r-programming.qmd
+            text: R Programming
+      - href: marketing.qmd
+        text: Marketing
+      - href: certifications.qmd
+        text: Certifications
+      - href: analytics.qmd
+        text: Analytics
       - href: resume.qmd
-      - href: content-creation.qmd
-      - href: digital-marketing.qmd
-      - href: class-projects.qmd
-      - href: dashboard.qmd
+        text: Resume
+      - href: about.qmd
+        text: About
+    right:
+      - icon: envelope
+        href: mailto:mousa.aliyan@outlook.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mousa-aliyan-553488356
+      - icon: github
+        href: https://github.com/aliyanmousa
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - flatly
     css: styles.css
-    toc: true
-    page-layout: full
-    smooth-scroll: true
-
-    fontsize: 1.05rem
-    linestretch: 1.7
-
-    backgroundcolor: "#f8f9fb"
-    fontcolor: "#1a1a1a"
-    linkcolor: "#3a3a3a"
-
-    mainfont: "Inter"
+    toc: false
 
 editor: visual

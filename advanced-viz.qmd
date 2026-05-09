@@ -1,0 +1,100 @@
+---
+title: "Advanced Visualization"
+description: "Advanced data visualization techniques including gganimate, geospatial mapping, and design principles."
+---
+
+This section documents advanced data visualization coursework covering animated charts, geospatial mapping, multi-layer visualization design, and data storytelling best practices.
+
+## Animated Visualization with gganimate
+
+The gganimate package adds animation to charts, giving viewers the ability to observe how patterns change over time or category. This animated chart tracks life expectancy vs. GDP per capita across continents.
+
+```{r}
+#| echo: true
+#| warning: false
+#| message: false
+
+library(scales)
+library(gapminder)
+library(tidyverse)
+library(gganimate)
+library(gifski)
+
+p_country <- gapminder %>%
+  filter(continent != "Oceania") %>%
+  ggplot(aes(x = gdpPercap, y = lifeExp, size = pop, color = country)) +
+  geom_point(alpha = 0.7) +
+  scale_color_manual(values = country_colors) +
+  scale_x_log10(labels = dollar, limits = c(200, 10000)) +
+  scale_size(range = c(1, 20)) +
+  theme_bw() +
+  facet_wrap(~continent) +
+  theme(legend.position = "none")
+
+anim <- p_country +
+  labs(x = "GDP Per Capita in USD",
+       y = "Life Expectancy in Years",
+       title = "Year: {frame_time}",
+       subtitle = "Animating Life Expectancy vs. GDP Per Capita over time") +
+  transition_time(year) +
+  theme(plot.title = element_text(
+    size = 23,
+    face = "bold"
+  ))
+anim
+```
+
+## Key Concepts: Scales and Transformations
+
+Scales regulate the association of data values with visual representations of position, size, and color. Key takeaways:
+
+- Nonlinear transformations like logarithmic scaling balance skewed data distributions
+- Custom color palettes enhance accessibility and focus on valuable insights
+- Theme customization provides consistent visual identity across plots
+- Minimizing clutter by streamlining extraneous gridlines and decorative features improves readability
+
+## Useful Visualization Functions
+
+Three functions from David Robinson's impromptu visualization demonstration:
+
+::: {.project-grid}
+::: {.project-card}
+### geom_count()
+
+Visualizes overlapping observations by adjusting point size based on frequency, making dense data easier to interpret.
+
+<span class="tag">ggplot2</span>
+:::
+
+::: {.project-card}
+### gganimate()
+
+Enables dynamic visualizations that show change across time or categories, helping viewers understand trends through motion.
+
+<span class="tag">Animation</span>
+:::
+
+::: {.project-card}
+### ggplotly()
+
+Allows integration of interactive charts where users can hover over data points and explore detailed values.
+
+<span class="tag">Plotly</span>
+:::
+
+::: {.project-card}
+### gt + gtExtra
+
+Converts regular tables into attractive and publication-ready summary reports with mini-visualizations like sparklines and distribution plots.
+
+<span class="tag">Tables</span>
+:::
+:::
+
+## Design Principles from Cédric Scherer
+
+Key tips for improving data visualization:
+
+- **Color palettes** — Use considered palettes that make a difference but are not overwhelming. Adequate choice of colors enhances accessibility and focus on valuable insights.
+- **Theme customization** — Personalize themes and types to provide consistent visual identity and enhance professionalism and readability.
+- **Reduce clutter** — Minimize extraneous gridlines, labels, and decorative features that divert attention from the data narrative.
