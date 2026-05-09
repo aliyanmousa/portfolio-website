@@ -1,0 +1,112 @@
+---
+title: "Coursework Projects"
+format: 
+  revealjs:
+    theme: white
+    slide-number: true
+    toc: true
+    transition: slide
+    fig-width: 6
+    fig-height: 4
+    fig-align: center
+    code-fold: false
+    include-in-header: nav1.html
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
+
+## **Project Title 1: Research Participation & Data Insight Analysis (RPE Project)**
+
+This project involved a comprehensive exploratory data analysis of student research participation data to understand how academic background influences perceived value of research engagement.
+
+The analysis focused on transforming raw survey responses into meaningful analytical structures through data cleaning, recoding, and index construction. A key aspect of the project was the development of a composite perception index using multiple survey items, validated using internal consistency measures.
+
+The study further explored differences across academic major groups by aggregating responses and identifying patterns in perceived value. This allowed for a structured comparison of how students from different academic disciplines evaluate the usefulness of participating in research activities.
+
+Beyond descriptive analysis, this project emphasized data preparation workflows, feature engineering, and group-level statistical interpretation, demonstrating how raw survey data can be transformed into actionable insights.
+
+
+---
+
+**Skills Demonstrated:**
+
+Data cleaning and standardization of survey responses
+Recoding categorical academic variables into meaningful groups
+Construction of a perception index using multi-item aggregation
+Group-based comparative analysis across academic disciplines
+Interpretation of behavioral patterns in research participation
+
+---
+
+## **Project Title 2: Multi-Dataset Analysis & Visualization**
+
+This project demonstrates applied data manipulation and visualization across multiple structured datasets, focusing on income, religion, air quality, and transportation data.
+
+The primary objective was to explore how data structure impacts analysis and visualization outcomes. A key focus was reshaping datasets between wide and long formats to enable meaningful comparisons and graphical representation.
+
+The project also involved handling missing values, deriving summary statistics, and constructing visual outputs that reveal relationships between variables such as income distribution patterns, flight delays, and environmental measurements.
+
+A significant analytical component was the transformation of raw tabular datasets into formats suitable for heatmaps, scatter plots, and grouped summaries, highlighting the importance of data preparation in any analytical workflow.
+
+
+---
+
+**Skills Demonstrated:**
+
+Data reshaping using pivoting techniques (wide ↔ long formats)
+Handling missing data and improving dataset consistency
+Aggregation and summarization of grouped variables
+Construction of relational visual insights (income vs rent, categorical distributions)
+Interpretation of multi-domain datasets
+
+
+---
+
+## **Project Title 3: Advanced Data Visualization & Storytelling**
+
+This project focuses on advanced data visualization techniques used to enhance analytical storytelling, interactivity, and temporal interpretation of data.
+
+The analysis integrates dynamic visualization approaches such as animated charts and interactive plots to demonstrate how data relationships evolve over time. These methods allow for deeper exploration of trends that are not easily observable in static visualizations.
+
+In addition, the project explores multi-layer visualization design, including the combination of multiple variables in a single analytical framework. This approach improves the interpretability of complex datasets by reducing cognitive overload while maintaining analytical depth.
+
+A key strength of this project is the emphasis on data storytelling, where visual design choices are intentionally used to communicate insights clearly and effectively to both technical and non-technical audiences.
+
+---
+
+**Skills Demonstrated:**
+
+Development of animated visualizations to show temporal change
+Creation of interactive plots for exploratory analysis
+Multi-layer visualization design for complex datasets
+Application of advanced ggplot2 extension tools
+Emphasis on narrative-driven data communication
+
+
+---
+
+## **Project Title 4: Academic Performance & Attendance Analysis**
+
+This project analyzes student academic performance using structured institutional data, focusing on the relationship between prior academic achievement, attendance behavior, and final academic outcomes.
+
+The analysis explores how prior GPA, ACT scores, and attendance rates jointly influence term performance. Special attention is given to group-based differences, particularly between freshman and non-freshman students, to assess whether academic experience moderates performance outcomes.
+
+The project applies regression analysis, correlation matrices, and distributional comparisons to uncover both linear relationships and group-level behavioral differences. These methods allow for a deeper understanding of how academic behaviors interact with performance outcomes.
+
+A key insight from this project is that academic performance is not solely determined by prior ability, but is also influenced by engagement factors such as attendance and institutional experience level.
+
+---
+
+**Skills Demonstrated:**
+
+Regression analysis of academic performance indicators
+Correlation analysis across multiple academic variables
+Group comparison between freshman and non-freshman students
+Distributional analysis of exam performance
+Interpretation of interaction effects in academic data
+
+📌 Full code and visual outputs are documented in: [Projects Dashboard](dashboard.html)

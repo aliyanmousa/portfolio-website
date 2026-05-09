@@ -1,0 +1,244 @@
+---
+title: "Class Projects Dashboard"
+format: 
+  revealjs:
+    theme: white
+    slide-number: true
+    toc: true
+    transition: slide
+    fig-width: 6
+    fig-height: 4
+    fig-align: center
+    code-fold: false
+    include-in-header: nav.html
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## **Project Title 1: Key Visualization**
+
+```{r}
+#| echo: false
+
+#| fig-width: 14
+#| fig-height: 8
+#| out-width: "100%"
+
+library(tidyverse)
+library(haven)
+library(janitor)
+
+data <- read_sav("RPE - Combined-2019-12-19.sav") %>%
+  clean_names()
+
+# Recode major groups
+data <- data %>%
+  mutate(major_grp = case_when(
+    major == 6 ~ "Marketing",
+    major == 9 ~ "Hospitality and Restaurant",
+    major %in% c(1,2,3,4,5,7) ~ "Other Business",
+    major %in% c(8,10) ~ "Non-Business",
+    TRUE ~ NA_character_
+  ))
+
+# Create value index
+data <- data %>%
+  mutate(valu_index = rowMeans(select(., valu_worth_time, valu_worth_effo), na.rm = TRUE))
+
+# Plot
+data %>%
+  group_by(major_grp) %>%
+  summarise(avg_value = mean(valu_index, na.rm = TRUE)) %>%
+  ggplot(aes(x = reorder(major_grp, avg_value), y = avg_value)) +
+  geom_col(fill = "steelblue") +
+  labs(
+    title = "Perceived Value of Research Participation by Major",
+    x = "Major Group",
+    y = "Average Value Index"
+  ) +
+  theme_minimal()
+```
+
+------------------------------------------------------------------------
+
+## \*\*Project Title 2
+
+### **Key Visualization: Income Distribution Heatmap**
+
+```{r}
+#| echo: false
+
+#| fig-width: 16
+#| fig-height: 9
+#| out-width: "100%"
+#| 
+library(tidyverse)
+
+relig_income_long <- relig_income %>%
+  pivot_longer(
+    cols = -religion,
+    names_to = "income",
+    values_to = "count"
+  ) %>%
+  filter(income != "Don't know/refused")
+
+ggplot(relig_income_long, aes(x = income, y = religion, fill = count)) +
+  geom_tile() +
+  labs(
+    title = "Income Distribution by Religion",
+    x = "Income Bracket",
+    y = "Religion"
+  ) +
+  theme_minimal()
+```
+
+------------------------------------------------------------------------
+
+### **Key Visualization: Income vs Rent Relationship**
+
+```{r}
+#| echo: false
+
+#| fig-width: 16
+#| fig-height: 9
+#| out-width: "100%"
+
+library(tidyverse)
+
+relig_income_long <- relig_income %>%
+  pivot_longer(
+    cols = -religion,
+    names_to = "income",
+    values_to = "count"
+  ) %>%
+  filter(income != "Don't know/refused")
+
+ggplot(relig_income_long, aes(x = income, y = religion, fill = count)) +
+  geom_tile() +
+  labs(
+    title = "Income Distribution by Religion",
+    x = "Income Bracket",
+    y = "Religion"
+  ) +
+  theme_minimal()
+```
+
+------------------------------------------------------------------------
+
+## **Project Title 3:**
+
+### **Key Visualization: Animated Trend (Example)**
+
+```{r}
+#| echo: false
+
+#| fig-width: 16
+#| fig-height: 9
+#| out-width: "100%"
+
+library(ggplot2)
+library(gganimate)
+library(gapminder)
+
+p <- ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, color = continent)) +
+  geom_point(alpha = 0.7) +
+  scale_x_log10() +
+  labs(title = "Year: {frame_time}") +
+  theme_minimal()
+
+p + transition_time(year)
+```
+
+------------------------------------------------------------------------
+
+### **Interactive Visualization**
+
+```{r}
+#| echo: false
+
+#| fig-width: 16
+#| fig-height: 9
+#| out-width: "100%"
+
+library(plotly)
+
+p_static <- ggplot(gapminder, aes(gdpPercap, lifeExp)) +
+  geom_point()
+
+ggplotly(p_static)
+```
+
+------------------------------------------------------------------------
+
+## **Project Title 4:**
+
+### **Key Visualization: Prior GPA vs Term GPA**
+
+```{r}
+#| echo: false
+
+#| fig-width: 16
+#| fig-height: 9
+#| out-width: "100%"
+
+library(wooldridge)
+library(tidyverse)
+
+df <- as_tibble(attend)
+
+ggplot(df, aes(x = priGPA, y = termGPA)) +
+  geom_point(alpha = 0.4, color = "blue") +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  labs(
+    title = "Prior GPA vs Term GPA",
+    x = "Prior GPA",
+    y = "Term GPA"
+  ) +
+  theme_minimal()
+```
+
+------------------------------------------------------------------------
+
+### **Key Visualization: Boxplot with Distribution Insight**
+
+```{r}
+#| echo: false
+
+#| fig-width: 16
+#| fig-height: 9
+#| out-width: "100%"
+
+df %>%
+  mutate(soph_label = factor(soph, labels = c("Non-Sophomore", "Sophomore"))) %>%
+  ggplot(aes(x = factor(ACT), y = final, fill = soph_label)) +
+  geom_boxplot(outlier.shape = NA) +
+  geom_jitter(alpha = 0.3) +
+  labs(
+    title = "Final Scores by ACT and Sophomore Status",
+    x = "ACT Score",
+    y = "Final Score"
+  ) +
+  theme_bw()
+
+
+```
+
+------------------------------------------------------------------------
+
+### **Key Visualization: Correlation Matrix**
+
+```{r}
+#| echo: false
+
+#| fig-width: 16
+#| fig-height: 9
+#| out-width: "100%"
+
+library(GGally)
+
+df %>%
+  select(attend, termGPA, priGPA, ACT, final, atndrte, hwrte) %>%
+  ggpairs()
+```

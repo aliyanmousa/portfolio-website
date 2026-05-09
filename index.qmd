@@ -1,0 +1,50 @@
+---
+title: "Aliyan Mousa"
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/aliyanmousa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mousa-aliyan-553488356
+  image: profile.jpeg
+  image-shape: round
+  image-width: 10em
+---
+
+## Hi, I'm Aliyan Mousa
+
+**Motivated marketing and e‑commerce professional. Social media manager. Content creator.**  
+
+I help brands grow by blending data‑driven strategies with creative storytelling. My experience spans social media management, content production (Adobe Creative Cloud), and retail operations. I’m currently building a portfolio that connects my professional work in e‑commerce with my academic background in business administration – including space for Google Analytics certificates, marketing projects, and case studies.
+
+[Email](mailto:mousa.aliyan@outlook.com) | [GitHub](https://github.com/aliyanmousa) | [LinkedIn](https://www.linkedin.com/in/mousa-aliyan-553488356)
+
+---
+
+## About
+
+I’m a results‑focused marketing professional with hands‑on experience in social media management, content creation, and retail operations.  
+
+Currently, I serve as a **Marketing & E‑commerce Coordinator** where I drive audience growth and conversion through organic and paid campaigns.  
+
+I am pursuing a **Bachelor of Business Administration** (expected June 2026) from **Cal Poly Pomona**, and hold an **Associate Degree in Business Administration** from **Chaffey College**. This portfolio will continue to grow with coursework, Google Analytics exercises, marketing projects, and applied business work.
+
+### For Teams & Projects
+
+- **Cross‑functional coordination** – aligning creative, marketing, and operations teams on project timelines  
+- **Tool adoption** – training teams on Adobe Creative Cloud, scheduling software, and CRM tools  
+- **Process documentation** – building repeatable workflows that save time and reduce errors  
+
+</div>
+:::
+
+---
+
+## Let's Connect
+
+Whether you’re looking for a social media manager, marketing coordinator, or e‑commerce specialist, I’d be glad to connect.  
+
+[Email](mailto:mousa.aliyan@outlook.com) | [GitHub](https://github.com/aliyanmousa) | [LinkedIn](https://www.linkedin.com/in/mousa-aliyan-553488356)

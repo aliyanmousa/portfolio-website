@@ -1,0 +1,123 @@
+---
+title: "Content Creation"
+---
+
+::: {.card-section}
+
+## Building Engaging Digital Experiences
+
+I specialize in creating high-impact short-form and social-first content designed to increase audience engagement, strengthen brand identity, and drive platform growth.
+
+Through creative storytelling, trend analysis, and audience-focused strategies, I develop content that captures attention and delivers measurable results across multiple platforms.
+
+:::
+
+---
+
+::: {.card-section}
+
+## Professional Experience
+
+### Content Creator – NounNaturals & BPI Sports
+
+**Fontana, California**  
+**May 2021 – Present**
+
+As a content creator for health and wellness brands, I develop platform-native campaigns focused on maximizing visibility, audience retention, and engagement performance.
+
+### Key Achievements
+
+- Grew TikTok audience to **300,000+ followers**
+- Built Instagram presence to **50,000+ followers**
+- Improved engagement by **30%**
+- Produced high-performing fitness and lifestyle content
+- Collaborated with creators and influencers to expand reach
+- Created trend-based campaigns aligned with audience interests
+
+:::
+
+---
+
+::: {.card-section}
+
+## Content Strategy
+
+My approach combines creativity with performance optimization to ensure content is both visually engaging and strategically effective.
+
+### Areas of Focus
+
+- Short-form video production  
+- Audience growth strategy  
+- Viral content development  
+- Trend analysis  
+- Brand storytelling  
+- Platform optimization  
+
+:::
+
+---
+
+::: {.card-section}
+
+## Featured Skills
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+### Creative Skills
+
+- Video Editing  
+- Content Planning  
+- Storytelling  
+- Creative Direction  
+- Visual Branding  
+
+:::
+
+::: {.column width="50%"}
+
+### Platform Skills
+
+- TikTok Growth  
+- Instagram Strategy  
+- Audience Engagement  
+- Creator Collaboration  
+- Social Analytics  
+
+:::
+
+:::
+
+:::
+
+---
+
+::: {.card-section}
+
+## Featured Platforms
+
+<div class="platform-showcase">
+
+### TikTok Showcase
+
+<blockquote 
+  class="tiktok-embed" 
+  cite="https://www.tiktok.com/khaby.lame/video/7056829728841237765" 
+  data-video-id="7056829728841237765" 
+  style="max-width: 325px;">
+</blockquote>
+
+### Instagram Showcase
+
+<blockquote 
+  class="instagram-media" 
+  data-instgrm-permalink="https://www.instagram.com/p/CyJx8pZrX7M/" 
+  data-instgrm-version="14" 
+  style="max-width:540px;">
+</blockquote>
+
+</div>
+
+<script async src="https://www.tiktok.com/embed.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>
