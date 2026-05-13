@@ -10,7 +10,6 @@ format:
     fig-height: 4
     fig-align: center
     code-fold: false
-    include-in-header: nav1.html
 execute:
   echo: true
   warning: false

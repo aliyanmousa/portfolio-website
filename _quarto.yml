@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "rendered/**"
 
 website:
   title: "Aliyan Mousa Portfolio"
@@ -29,6 +31,8 @@ website:
         text: Certifications
       - href: analytics.qmd
         text: Analytics
+      - href: presentations.qmd
+        text: Revealjs Presentations
       - href: resume.qmd
         text: Resume
       - href: about.qmd
